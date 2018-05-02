@@ -1,0 +1,174 @@
+{
+    "syncID": 1, 
+    "userToSyncsID": 20, 
+    "sourceID": 15,
+    "targetID": 17,
+    "syncName": "VoicePad to Salesforce",
+    "syncIcon": null,
+    "version": "1",
+    "price": "0.00",
+    "status": "draft",
+    "environment": "dev",
+    "options": [{
+            "syncOptionID": 15,
+            "optionType": "R/W",
+            "optionName": "enableNotificationOnError",
+            "optionDisplayName": "Enable Notification On Error",
+            "optionValue1": "falseichon",
+            "optionMask1": "b",
+            "optionValue2": null,
+            "optionMask2": null,
+            "syncToSyncOptions": {
+                "syncID": 1,
+                "syncOptionID": 15
+            }
+        },
+        {
+            "syncOptionID": 16,
+            "optionType": "R/W",
+            "optionName": "genericRange",
+            "optionDisplayName": "A Range choice",
+            "optionValue1": "0.0",
+            "optionMask1": "999.99",
+            "optionValue2": "1.0",
+            "optionMask2": "999.99",
+            "syncToSyncOptions": {
+                "syncID": 1,
+                "syncOptionID": 16
+            }
+        },
+        {
+            "syncOptionID": 17,
+            "optionType": "R/W",
+            "optionName": "logAllActivities",
+            "optionDisplayName": "Log all activities",
+            "optionValue1": "true",
+            "optionMask1": "B",
+            "optionValue2": null,
+            "optionMask2": null,
+            "syncToSyncOptions": {
+                "syncID": 1,
+                "syncOptionID": 17
+            }
+        }
+    ],
+    "source": {
+        "sourceID": 15,
+        "version": "",
+        "sourceName": "voicepad",
+        "targetIcon": "https://github.com/ReWattInc/RealSynch/blob/master/public/images/VoicePad.JPG\"",
+        "isTestable": false,
+        "environment": "dev",
+        "loginUrl": null,
+        "loginType": "TBD",
+        "loginName": null,
+        "loginPassword": null,
+        "loginApiKey": null,
+        "userId": "",
+        "sourceObjects": [{
+            "sourceObjectID": 15,
+            "sourceID": 1,
+            "sourceObjectName": "Activity",
+            "environment": "production",
+            "version": "1",
+            "sourceAppToSourceObjects": {
+                "sourceID": 15,
+                "sourceObjectID": 15
+            },
+            "sourceObjectOptions": [{
+                "sourceObjectOptionID": 14,
+                "optionType": "R/W",
+                "optionName": "enableObjectSync",
+                "optionDisplayName": "Enable Syncs for this object pair",
+                "optionValue1": "true",
+                "optionMask1": "B",
+                "optionValue2": null,
+                "optionMask2": null,
+                "sourceObjectsToSourceO": 14
+            }],
+            "syncObjects": [{
+                "targetObjectID": 15,
+                "targetID": 1,
+                "targetObjectName": "Lead",
+                "environment": "production",
+                "version": "1",
+                "sourceObjectToTargetObject": {
+                    "sou": 15,
+                    "tar": 15
+                }
+            }]
+        }],
+        "options": [{
+                "sourceOptionID": 15,
+                "optionType": "R/W",
+                "optionName": "ignoreNulls",
+                "optionDisplayName": "Ignore Nulls",
+                "optionValue1": "true",
+                "optionMask1": "B",
+                "optionValue2": null,
+                "optionMask2": null,
+                "sourceAppToSourceOptions": {
+                    "sourceID": 15,
+                    "sourceOptionID": 15
+                }
+            },
+            {
+                "sourceOptionID": 14,
+                "optionType": "R/W",
+                "optionName": "delimiter",
+                "optionDisplayName": "A delimiter",
+                "optionValue1": "|",
+                "optionMask1": "A",
+                "optionValue2": null,
+                "optionMask2": null,
+                "sourceAppToSourceOptions": {
+                    "sourceID": 15,
+                    "sourceOptionID": 14
+                }
+            }
+        ]
+    },
+    "target": {
+        "targetID": 17,
+        "version": "1",
+        "targetName": "salesforce",
+        "targetIcon": "https://githubcom/ReWattInc/RealSynch/blob/master/public/images/Salesforce.JPG",
+        "isTestable": true,
+        "environment": "dev",
+        "loginUrl": null,
+        "loginType": "TBD",
+        "loginName": null,
+        "loginPassword": null,
+        "loginApiKey": null,
+        "userId": "",
+        "options": [{
+            "targetOptionID": 15,
+            "optionType": "R/W",
+            "optionName": "ignoreNulls",
+            "optionDisplayName": "Ignore Nulls",
+            "optionValue1": "true",
+            "optionMask1": "B",
+            "optionValue2": null,
+            "optionMask2": null,
+            "targetAppToTargetOptions": {
+                "targetID": 17,
+                "targetOptionID": 15
+            }
+        },
+        {   
+            "targetOptionID": 20,
+            "optionType": "R/W",
+            "optionName": "activityType",
+            "optionDisplayName": "Ignore Nulls",
+            "optionValue1": "true",
+            "optionMask1": "B",
+            "optionValue2": null,
+            "optionMask2": null,
+            "targetAppToTargetOptions": {
+                "targetID": 17,
+                "targetOptionID": 15
+            }
+        }]
+    }
+
+}

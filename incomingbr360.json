@@ -1,0 +1,36 @@
+{
+    "agent_name": "",
+    "first_name": "",
+    "site_domain": "",
+    "agent_email": "",
+    "created": "",
+    "id": "",
+    "phone": "",
+    "last_name": "",
+    "site_uuid": "",
+    "source": "",
+    "action": "",
+    "role": "",
+    "partner_id": "",
+    "email": "",
+    "activities": [
+        {
+            "source": "",
+            "type": "",
+            "description": "",
+            "created": "",
+            "property": 
+                {
+                    "tags": [
+                        "tag1","tag2","tag3"
+                    ],
+                    "url": "",
+                    "mls": "",
+                    "listing_price": "",
+                    "type": "",
+                    "street_address": ""
+                }
+            
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "source": "RealSynch.com",
+    "type": "Registration",
+    "message": "this is a message",
+    "person": {
+        "firstName": "Mark",
+        "lastName": "Charette",
+        "emails": [{
+            "value": "mcharette@itexico.com"
+        }],
+        "phones": [{
+            "value": "248-613-3000"
+        }],
+        "tags": ["Free Market Report"]
+    }
+}
+

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "first_name": "Gustavo",
+        "last_name": "Treutel",
+        "company": "Amalgamated Widget, Ltd.",
+        "title": "Operations Director",
+        "avatar_url": "http://lorempixel.com/g/200/200/",
+        "tags": [
+            "blue",
+            "green"
+        ],
+        "addresses": [
+            {
+                "label": "Office",
+                "street_1": "9467 Ryan Court",
+                "city": "Williamstown",
+                "state": "NJ",
+                "zip": "08094",
+                "country": "USA"
+            }
+        ],
+        "email_addresses": [
+            {
+                "label": "Work",
+                "address": "gustavo.treutel@example.com"
+            }
+        ],
+        "social_media_profiles": [
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/gtreutel"
+            }
+        ],
+        "websites": [
+            {
+                "label": "Personal",
+                "address": "https://www.gustavot.com"
+            }
+        ],
+        "phone_numbers": [
+            {
+                "label": "Work",
+                "number": "123"
+            }
+        ],
+        "custom_fields": [
+            {
+                "field": {
+                    "id": "custom_field_123"
+                },
+                "value": "3 bed, 2 bath"
+            }
+        ]
+    }
+}

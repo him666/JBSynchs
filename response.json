@@ -1,0 +1,265 @@
+{
+    "error": "0",
+    "message": "none",
+    "data": {"Create Project Env": {
+        "status": true,
+        "operation": "Create Project Env",
+        "envId": "291891"
+    },
+    "Associate Project Env with Agent Group": {
+        "status": true,
+        "operation": "Associate Project Env with Agent Group"
+    },
+    "List Project Backups": {
+        "status": true,
+        "operation": "List Project Backups",
+        "backupAttrs": [
+            {
+                "backupId": "165011",
+                "envId": "279781",
+                "projGuid": "c24e3070-e863-4151-822f-3d0e5c59658c",
+                "tag": "janurary 16 2018 v1",
+                "uploadDate": 1516125328877,
+                "uploadedById": 567681,
+                "uploadedByEmail": "hmarin@itexico.net"
+            }
+        ]
+    },
+    "List Project Backups": {
+        "status": true,
+        "operation": "List Project Backups",
+        "backupAttrs": [
+            {
+                "backupId": "165011",
+                "envId": "279781",
+                "projGuid": "c24e3070-e863-4151-822f-3d0e5c59658c",
+                "tag": "janurary 16 2018 v1",
+                "uploadDate": 1516125328877,
+                "uploadedById": 567681,
+                "uploadedByEmail": "hmarin@itexico.net"
+            }
+        ]
+    },
+    "Deploy Jitterpak": {
+        "status": true,
+        "operation": "Deploy Jitterpak",
+        "newProjectVariables": [
+            {
+                "projectVariableName": "sfSecurityToken",
+                "projectVariableValue": "RUQB40Ev74dP7l9a6af0y4BK",
+                "projectVariableLabel": "Security Token",
+                "projectVariableDescription": "needed to make sure the op is safe on sf side",
+                "projectVariableHideValue": true
+            },
+            {
+                "projectVariableName": "sfLoginUrl",
+                "projectVariableValue": "https://test.salesforce.com",
+                "projectVariableLabel": "login url for Salesforce",
+                "projectVariableDescription": "",
+                "projectVariableHideValue": false
+            },
+            {
+                "projectVariableName": "sfIsSandbox",
+                "projectVariableValue": "false",
+                "projectVariableLabel": "salesforce testing?",
+                "projectVariableDescription": "boolean that answers the question are we testing?",
+                "projectVariableHideValue": false
+            },
+            {
+                "projectVariableName": "sfUsername",
+                "projectVariableValue": "mmcanally@realsynch.com.dynamite",
+                "projectVariableLabel": "sf username",
+                "projectVariableDescription": "username for sf synch",
+                "projectVariableHideValue": false
+            },
+            {
+                "projectVariableName": "sfPassword",
+                "projectVariableValue": "mac2112X",
+                "projectVariableLabel": "salesforce password",
+                "projectVariableDescription": "",
+                "projectVariableHideValue": true
+            },
+            {
+                "projectVariableName": "RecordTypeInquiry",
+                "projectVariableValue": "01236000000xuV2",
+                "projectVariableLabel": "no info",
+                "projectVariableDescription": "",
+                "projectVariableHideValue": true
+            },
+            {
+                "projectVariableName": "sfCustomFieldJson",
+                "projectVariableValue": "[ \t{ \t\t\"object\": \"Lead\", \t\t\"fields\": [ \t\t\t{ \t\t\t\t\"name\": \"External_Leadsource_ID\", \t\t\t\t\"label\": \"External Lead Source ID\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 64, \t\t\t\t\"description\": \"ID of Lead in source system\", \t\t\t\t\"externalId\": true \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Buyer_Seller\", \t\t\t\t\"label\": \"Buyer/Seller\", \t\t\t\t\"type\": \"Picklist\", \t\t\t\t\"picklistValues\": [ \t\t\t\t\t\"Buyer\", \t\t\t\t\t\"Seller\" \t\t\t\t], \t\t\t\t\"description\": \"Buyer or Seller\" \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Detailed_Lead_Source\", \t\t\t\t\"label\": \"Detailed Lead Source\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 50 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Estimated_Sales_Price\", \t\t\t\t\"label\": \"Estimated Sales Price\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 30 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Lead_Record_Type_SMB\", \t\t\t\t\"label\": \"Lead Record Type SMB\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 25 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Lead_Source_Agent_Email\", \t\t\t\t\"label\": \"Lead Source Agent Email\", \t\t\t\t\"type\": \"Email\" \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Lead_Source_Agent_Name\", \t\t\t\t\"label\": \"Lead Source Agent Name\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 255 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Real_Geeks_Site_ID\", \t\t\t\t\"label\": \"Real Geeks Site ID\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 255 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Type\", \t\t\t\t\"label\": \"Type\", \t\t\t\t\"type\": \"Picklist\", \t\t\t\t\"picklistValues\": [ \t\t\t\t\t\"Inbound\", \t\t\t\t\t\"Outbound\" \t\t\t\t] \t\t\t} \t\t] \t}, \t{ \t\t\"object\": \"Activity\", \t\t\"fields\": [ \t\t\t{ \t\t\t\t\"name\": \"Real_Geeks_Activity_Type\", \t\t\t\t\"label\": \"Real Geeks Activity Type\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 64 \t\t\t} \t\t] \t} ]",
+                "projectVariableLabel": "custom fields",
+                "projectVariableDescription": "",
+                "projectVariableHideValue": false
+            },
+            {
+                "projectVariableName": "wholeCreds",
+                "projectVariableValue": "{\"voicepad\":{\"userId\":\"\",\"username\":\"usuario nuevo fuente\",\"password\":\"pas nuevo fuente\"},\"salesforce\":{\"userId\":\"\",\"loginUrl\":\"https://test.salesforce.com\",\"password\":\"target password\",\"username\":\"target username\",\"securityToken\":\"target security token\"},\"rethink\":{\"userId\":\"\"},\"br360\":{\"userId\":\"\"}}",
+                "projectVariableLabel": "array",
+                "projectVariableDescription": "creds",
+                "projectVariableHideValue": false
+            }
+        ],
+        "deployJpkDetails": [
+            {
+                "envId": "291891",
+                "envName": "clientenv_1998",
+                "projectId": "298111",
+                "projectGuid": "d98f84b6-c145-4b8d-a7b4-4c4a6d1c1d16",
+                "projectName": "clientSide",
+                "oldProjectVariables": []
+            }
+        ]
+    },
+    "List project variables by environmentId": {
+        "status": true,
+        "operation": "List project variables by environmentId",
+        "projectVariableDetail": [
+            {
+                "projectVariableId": "1178281",
+                "projectVariableName": "RecordTypeInquiry",
+                "projectVariableLabel": "no info",
+                "projectVariableDescription": "",
+                "projectVariableHideValue": true,
+                "projectVariableEnvironmentId": "291891",
+                "projectVariableProjectId": "298111",
+                "projectVariableOrganizationId": "241151",
+                "createdBy": "hmarin@itexico.net",
+                "createdOn": 1516743611773,
+                "lastUpdatedBy": "hmarin@itexico.net",
+                "lastUpdatedOn": 1516743611773
+            },
+            {
+                "projectVariableId": "1178291",
+                "projectVariableName": "sfCustomFieldJson",
+                "projectVariableValue": "[ \t{ \t\t\"object\": \"Lead\", \t\t\"fields\": [ \t\t\t{ \t\t\t\t\"name\": \"External_Leadsource_ID\", \t\t\t\t\"label\": \"External Lead Source ID\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 64, \t\t\t\t\"description\": \"ID of Lead in source system\", \t\t\t\t\"externalId\": true \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Buyer_Seller\", \t\t\t\t\"label\": \"Buyer/Seller\", \t\t\t\t\"type\": \"Picklist\", \t\t\t\t\"picklistValues\": [ \t\t\t\t\t\"Buyer\", \t\t\t\t\t\"Seller\" \t\t\t\t], \t\t\t\t\"description\": \"Buyer or Seller\" \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Detailed_Lead_Source\", \t\t\t\t\"label\": \"Detailed Lead Source\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 50 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Estimated_Sales_Price\", \t\t\t\t\"label\": \"Estimated Sales Price\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 30 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Lead_Record_Type_SMB\", \t\t\t\t\"label\": \"Lead Record Type SMB\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 25 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Lead_Source_Agent_Email\", \t\t\t\t\"label\": \"Lead Source Agent Email\", \t\t\t\t\"type\": \"Email\" \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Lead_Source_Agent_Name\", \t\t\t\t\"label\": \"Lead Source Agent Name\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 255 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Real_Geeks_Site_ID\", \t\t\t\t\"label\": \"Real Geeks Site ID\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 255 \t\t\t}, \t\t\t{ \t\t\t\t\"name\": \"Type\", \t\t\t\t\"label\": \"Type\", \t\t\t\t\"type\": \"Picklist\", \t\t\t\t\"picklistValues\": [ \t\t\t\t\t\"Inbound\", \t\t\t\t\t\"Outbound\" \t\t\t\t] \t\t\t} \t\t] \t}, \t{ \t\t\"object\": \"Activity\", \t\t\"fields\": [ \t\t\t{ \t\t\t\t\"name\": \"Real_Geeks_Activity_Type\", \t\t\t\t\"label\": \"Real Geeks Activity Type\", \t\t\t\t\"type\": \"Text\", \t\t\t\t\"length\": 64 \t\t\t} \t\t] \t} ]",
+                "projectVariableLabel": "custom fields",
+                "projectVariableDescription": "",
+                "projectVariableHideValue": false,
+                "projectVariableEnvironmentId": "291891",
+                "projectVariableProjectId": "298111",
+                "projectVariableOrganizationId": "241151",
+                "createdBy": "hmarin@itexico.net",
+                "createdOn": 1516743611780,
+                "lastUpdatedBy": "hmarin@itexico.net",
+                "lastUpdatedOn": 1516743611780
+            },
+            {
+                "projectVariableId": "1178251",
+                "projectVariableName": "sfIsSandbox",
+                "projectVariableValue": "false",
+                "projectVariableLabel": "salesforce testing?",
+                "projectVariableDescription": "boolean that answers the question are we testing?",
+                "projectVariableHideValue": false,
+                "projectVariableEnvironmentId": "291891",
+                "projectVariableProjectId": "298111",
+                "projectVariableOrganizationId": "241151",
+                "createdBy": "hmarin@itexico.net",
+                "createdOn": 1516743611760,
+                "lastUpdatedBy": "hmarin@itexico.net",
+                "lastUpdatedOn": 1516743611760
+            },
+            {
+                "projectVariableId": "1178241",
+                "projectVariableName": "sfLoginUrl",
+                "projectVariableValue": "https://test.salesforce.com",
+                "projectVariableLabel": "login url for Salesforce",
+                "projectVariableDescription": "",
+                "projectVariableHideValue": false,
+                "projectVariableEnvironmentId": "291891",
+                "projectVariableProjectId": "298111",
+                "projectVariableOrganizationId": "241151",
+                "createdBy": "hmarin@itexico.net",
+                "createdOn": 1516743611753,
+                "lastUpdatedBy": "hmarin@itexico.net",
+                "lastUpdatedOn": 1516743611753
+            },
+            {
+                "projectVariableId": "1178271",
+                "projectVariableName": "sfPassword",
+                "projectVariableLabel": "salesforce password",
+                "projectVariableDescription": "",
+                "projectVariableHideValue": true,
+                "projectVariableEnvironmentId": "291891",
+                "projectVariableProjectId": "298111",
+                "projectVariableOrganizationId": "241151",
+                "createdBy": "hmarin@itexico.net",
+                "createdOn": 1516743611770,
+                "lastUpdatedBy": "hmarin@itexico.net",
+                "lastUpdatedOn": 1516743611770
+            },
+            {
+                "projectVariableId": "1178231",
+                "projectVariableName": "sfSecurityToken",
+                "projectVariableLabel": "Security Token",
+                "projectVariableDescription": "needed to make sure the op is safe on sf side",
+                "projectVariableHideValue": true,
+                "projectVariableEnvironmentId": "291891",
+                "projectVariableProjectId": "298111",
+                "projectVariableOrganizationId": "241151",
+                "createdBy": "hmarin@itexico.net",
+                "createdOn": 1516743611750,
+                "lastUpdatedBy": "hmarin@itexico.net",
+                "lastUpdatedOn": 1516743611750
+            },
+            {
+                "projectVariableId": "1178261",
+                "projectVariableName": "sfUsername",
+                "projectVariableValue": "mmcanally@realsynch.com.dynamite",
+                "projectVariableLabel": "sf username",
+                "projectVariableDescription": "username for sf synch",
+                "projectVariableHideValue": false,
+                "projectVariableEnvironmentId": "291891",
+                "projectVariableProjectId": "298111",
+                "projectVariableOrganizationId": "241151",
+                "createdBy": "hmarin@itexico.net",
+                "createdOn": 1516743611763,
+                "lastUpdatedBy": "hmarin@itexico.net",
+                "lastUpdatedOn": 1516743611763
+            },
+            {
+                "projectVariableId": "1178301",
+                "projectVariableName": "wholeCreds",
+                "projectVariableValue": "{\"voicepad\":{\"userId\":\"\",\"username\":\"usuario nuevo fuente\",\"password\":\"pas nuevo fuente\"},\"salesforce\":{\"userId\":\"\",\"loginUrl\":\"https://test.salesforce.com\",\"password\":\"target password\",\"username\":\"target username\",\"securityToken\":\"target security token\"},\"rethink\":{\"userId\":\"\"},\"br360\":{\"userId\":\"\"}}",
+                "projectVariableLabel": "array",
+                "projectVariableDescription": "creds",
+                "projectVariableHideValue": false,
+                "projectVariableEnvironmentId": "291891",
+                "projectVariableProjectId": "298111",
+                "projectVariableOrganizationId": "241151",
+                "createdBy": "hmarin@itexico.net",
+                "createdOn": 1516743611783,
+                "lastUpdatedBy": "hmarin@itexico.net",
+                "lastUpdatedOn": 1516743611783
+            }
+        ]
+    },
+    "Update project variable": {
+        "status": true,
+        "operation": "Update project variable"
+    },
+    "undefined": {
+        "status": true,
+        "projectOperationStackAttrs": [
+            {
+                "projectId": "298111",
+                "projectName": "clientSide",
+                "operationAttrs": [
+                    {
+                        "operationId": "6672331",
+                        "operationName": "clientSide",
+                        "operationGuid": "c43d1aaf-2cc1-4ae6-b054-f32e03bcadad"
+                    }
+                ]
+            }
+        ],
+        "apiProfileStackAttrs": []
+    },
+    "Add API Service Stack": {
+        "status": true,
+        "operation": "Add API Service Stack",
+        "apiServiceId": "56661"
+    },
+ }
+}

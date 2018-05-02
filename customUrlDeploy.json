@@ -1,0 +1,27 @@
+{ 
+"subscriptionId":"272594",
+"apiServiceMinAttrs":{ 
+"apiServiceName":"JitterbitTestAPI",
+"apiServiceDesc":"Test API Description",
+"apiServiceType":"CUSTOM_API",
+"apiServiceEnvId":"279781",
+"apiServiceRoot":"JitterbitTestAPI",
+"apiServiceVersion":"v1",
+"apiServiceTimeOut":"90",
+"apiServiceSSLOnly":true,
+"apiServiceDebugUntil":null,
+"apiServiceCorsEnabled":false
+},
+"apiServiceOpMinAttrs":[ 
+{ 
+"apiServiceId":null,
+"apiServiceOpApiEntityId":null,
+"apiServiceOpOperationId":"6389791",
+"apiServiceOpMethodType":"POST",
+"apiServiceOpResponseType":"FINAL_TARGET"
+}
+],
+"apiServiceProfileMinAttrs":[
+
+]
+}

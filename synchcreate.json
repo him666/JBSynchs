@@ -1,0 +1,92 @@
+{
+    "synchID": 19,
+    "userID": 1504,
+    "isDraft": true,
+    "status": "draft",
+    "friendlyName": "Voicepad to firepoint test",
+    "version": {
+        "number": 1,
+        "description": "In this version of the synch only basic lead details are carried over"
+    },
+    "price": 19.95,
+    "options": [{
+            "optionType": "enableNotificationOnError",
+            "optionName": "Enable Notification On Error",
+            "optionValue1": "true",
+            "optionMask1": "B"
+        },
+        {
+            "optionType": "genericRange",
+            "optionName": "A Range choice",
+            "optionValue1": "0.0",
+            "optionValue2": "1.0",
+            "optionMask1": "99.99",
+            "optionMask2": "999.99"
+        },
+        {
+            "optionType": "logAllActivities",
+            "optionName": "Log all activities",
+            "optionValue1": "true",
+            "optionMask1": "B"
+        }
+    ],
+    "source": {
+        "environment": "test",
+        "application": {
+            "name": "voicepad",
+            "testAvailable": false,
+            "loginUrl": "https://voicepad.com/login.html"
+        },
+        "credentials": {
+            "credentialType": "Username/Password",
+            "userId": "",
+            "username": "",
+            "password": "",
+            "apiToken": ""
+        },
+        "options": [{
+            "optionType": "delimiter",
+            "optionName": "A delimiter",
+            "optionValue1": "|",
+            "optionMask1": "A"
+        }]
+    },
+    "target": {
+        "environment": "production",
+        "application": {
+            "name": "salesforce",
+            "testAvailable": true,
+            "loginUrl": "https://salesforce.com/login.html"
+        },
+        "credentials": {
+            "credentialType": "API Token",
+            "userId": "",
+            "username": "",
+            "password": "",
+            "apiToken": ""
+        }
+    },
+    "synchObjects": [{
+            "sourceName": "Client",
+            "targetName": "Opportunity",
+            "commonName": "Opportunities",
+            "options": [{
+                "optionType": "enableObjectSync",
+                "optionName": "Enable Syncs for this object pair\"",
+                "optionValue1": "true",
+                "optionMask1": "B"
+            }]
+        },
+        {
+            "sourceName": "Prospect",
+            "targetName": "Prospect",
+            "commonName": "Prospect",
+            "options": [{
+                "optionType": "enableObjectSync",
+                "optionName": "Enable Syncs for this object pair\"",
+                "optionValue1": "true",
+                "optionMask1": "noEdit"
+            }]
+        }
+    ]
+}

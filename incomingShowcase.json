@@ -1,0 +1,237 @@
+{
+    "event_type": "Event::Message",
+    "lead": "fec20f76-2ee4-4c83-850b-fdd5bdac0361",
+    "listing": {
+        "internal_id": "284022327",
+        "orig_mls_number": "A10421100",
+        "mls_number": "74_A10421100",
+        "price_change_dts": "2018-02-17T23:05:02.000+00:00",
+        "img_change_dts": "2018-02-17T18:26:17.607+00:00",
+        "first_seen_dts": "2018-02-08T00:00:00.000+00:00",
+        "sale_type": "For Sale",
+        "listing_type": null,
+        "property_type": [
+            "Condo"
+        ],
+        "property_type_id": 4,
+        "status": "Active",
+        "foreclosure": false,
+        "short_sale": false,
+        "description": "BEST LOCATION!!  Collins Ave , Beautiful Ocean Front Resort style living in the most prestige location on Millionaire Row . Spacious immaculate \u0026 well maintained 3bedroom / 2bath with an amazing ocean view from master bedroom and large balcony,closets spaces everywhere in this unit,Beautiful tile floors,granite counter top in the kitchen and more... FULL SERVICE BUILDING INCLUDED COVERED GARAGE PARKING,24/7 SECURITY \u0026 VALET, POOL \u0026 GYM AND THE BEST OF ALL THE BEACH WITH BBQ TIKI HUTS ON BEACH FOR PICNICS AND PARTIES.\r\n\r\n BRING YOUR BEST OFFER!!",
+        "virtual_tour_url": "https://www.propertypanorama.com/instaview/mia/A10421100",
+        "listing_office": "Sky Avenue Realty",
+        "listing_office_id": "SKAR01",
+        "listing_agent": "Fabiana Navas",
+        "listing_agent_id": "3115645",
+        "colisting_agent_id": null,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "halfbaths": 0,
+        "price": 549000,
+        "taxes": 5518,
+        "tax_year": 2016,
+        "hoa_monthly": 680,
+        "year_built": 1971,
+        "sqft": 1206,
+        "sqft_source": null,
+        "acres": 0.0,
+        "school_district": null,
+        "elementary_school": null,
+        "middle_school": null,
+        "high_school": null,
+        "mls_area": "32",
+        "county": "Miami-Dade County",
+        "city": "Miami Beach",
+        "state": "FL",
+        "citystate": "Miami Beach, FL",
+        "zip": "33140",
+        "address": "6039 Collins Ave",
+        "subdivision": "",
+        "street_name": "Collins Ave",
+        "building": "Maison Grande Condo",
+        "unit_number": "624",
+        "latitude": 25.8431873,
+        "longitude": -80.1201736,
+        "features": {
+            "Style": "Condo 5+ Stories",
+            "Construction": "Other Construction",
+            "Parking": [
+                "Assigned Parking",
+                "Covered Parking",
+                "Valet Parking"
+            ],
+            "Garage": 1,
+            "Cooling": "Central Cooling",
+            "Heating": "Central Heat",
+            "Appliances": [
+                "Dishwasher",
+                "Microwave",
+                "Electric Range",
+                "Refrigerator"
+            ],
+            "Flooring": "Ceramic Floor",
+            "Interior": "Split Bedroom",
+            "Porch": "Yes",
+            "Waterfront Property": "Yes",
+            "Exterior": "Other",
+            "Amenities": [
+                "Bbq/Picnic Area",
+                "Common Laundry",
+                "Exercise Room",
+                "Child Play Area",
+                "Pool"
+            ],
+            "HOPA Eligible": "No HOPA",
+            "Complex": "Maison Grande Condo",
+            "Pets": "No"
+        },
+        "orderable": {
+            "Available on": null,
+            "Minimum Lease Period": null,
+            "Design": null,
+            "Design Description": null,
+            "Style": 0.0,
+            "Construction": null,
+            "Parking": null,
+            "Garage": 1.0,
+            "Carport": null,
+            "Sewer": null,
+            "Water": null,
+            "Cooling": null,
+            "Heating": null,
+            "Appliances": null,
+            "Flooring": null,
+            "Furnished?": null,
+            "Interior": null,
+            "Master Bathroom": null,
+            "Rooms": null,
+            "Porch": null,
+            "Pool": null,
+            "Pool Description": null,
+            "Waterfront Property": null,
+            "Exterior": null,
+            "Lot": null,
+            "Roof": null,
+            "View": null,
+            "Amenities": null,
+            "HOPA Eligible": null,
+            "Complex": null,
+            "Boathouse": null,
+            "Maintenance Fee Includes": null,
+            "Pets": null,
+            "Pet Restrictions": null
+        },
+        "categories": {
+            "General": {
+                "Style": "Condo 5+ Stories",
+                "Construction": "Other Construction",
+                "Parking": [
+                    "Assigned Parking",
+                    "Covered Parking",
+                    "Valet Parking"
+                ],
+                "Garage": 1
+            },
+            "Interior": {
+                "Cooling": "Central Cooling",
+                "Heating": "Central Heat",
+                "Appliances": [
+                    "Dishwasher",
+                    "Microwave",
+                    "Electric Range",
+                    "Refrigerator"
+                ],
+                "Flooring": "Ceramic Floor",
+                "Interior": "Split Bedroom"
+            },
+            "Exterior": {
+                "Porch": "Yes",
+                "Waterfront Property": "Yes",
+                "Exterior": "Other"
+            },
+            "Community": {
+                "Amenities": [
+                    "Bbq/Picnic Area",
+                    "Common Laundry",
+                    "Exercise Room",
+                    "Child Play Area",
+                    "Pool"
+                ],
+                "HOPA Eligible": "No HOPA",
+                "Complex": "Maison Grande Condo",
+                "Pets": "No"
+            }
+        },
+        "indexed_dts": "2018-02-18T02:05:33+00:00",
+        "service_id": 74,
+        "images": [
+            "//images.showcaseidx.com/miami/284022327/284022327_0.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_2.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_3.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_4.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_5.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_6.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_7.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_8.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_9.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_10.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_11.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_12.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_13.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_14.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_15.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_16.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_17.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_18.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_19.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_20.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_21.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_22.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_23.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_24.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_25.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_26.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_27.jpg",
+            "//images.showcaseidx.com/miami/284022327/284022327_28.jpg"
+        ],
+        "history": {
+            "price": [
+                {
+                    "time": "2018-02-17T23:05:02+00:00",
+                    "value": "549000.00"
+                }
+            ],
+            "status": [
+                {
+                    "time": "2018-02-17T23:05:02+00:00",
+                    "value": "Active"
+                }
+            ]
+        },
+        "openhouses": [],
+        "idx_detail_disclaimer": "Listing Courtesy of: Sky Avenue Realty\n\u003cbr\u003e\u003cbr\u003e\nThe data relating to real estate for sale on this web site comes in part from Miami Association of Realtors, Realtor Association of Greater Ft. Lauderdale, and the South Broward Board of Realtors.\n\u003cbr\u003e\u003cbr\u003e\nInformation is deemed reliable but not guaranteed. Copyright 2017-present, Miami Association of Realtors, Realtor Association of Greater Ft. Lauderdale, and the South Broward Board of Realtors.  All rights reserved.  The  information being provided is for consumers' personal, non-commercial use and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing. Use of search facilities of data on the site, other than a consumer looking to purchase real estate, is prohibited.\n",
+        "latlng": [
+            25.8431873,
+            -80.1201736
+        ],
+        "lnglat": [
+            -80.1201736,
+            25.8431873
+        ],
+        "fips": {
+            "state": "12",
+            "county": "086",
+            "city": "45025"
+        },
+        "recommended": false,
+        "views": [],
+        "saves": [],
+        "hidden": false,
+        "comments": [],
+        "reactions": [],
+        "_id": "A10421100",
+        "_index": "miami"
+    },
+    "message": "give some style to your web",
+    "website": "http://demoandassociates.com"
+}

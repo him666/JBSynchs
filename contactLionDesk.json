@@ -1,0 +1,16 @@
+ {
+  "first_name": "Bill",
+  "last_name": "Gates",
+  "email": "bill@microsoft.com",
+  "mobile_phone": "1 (604) 555-4572",
+  "home_phone": "1 (604) 555-1124",
+  "office_phone": "1 (208) 555-4432",
+  "fax": "1 (306) 555-0449",
+  "company": "Microsoft",
+  "birthday": "1955-10-28",
+  "anniversary": "2017-10-31",
+  "spouse_name": "Melinda Gates",
+  "spouse_email": "melinda@gatesfoundation.com",
+  "spouse_phone": "1 (604) 555-1124",
+  "spouse_birthday": "1964-08-15"
+ }

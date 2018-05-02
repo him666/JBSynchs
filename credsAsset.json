@@ -1,0 +1,33 @@
+{
+    "voicepad": {
+        "clientId": "",
+        "password": "",
+        "username": "@.",
+        "securityToken": ""
+    },
+    "salesforce": {
+        "clientId": "",
+        "password": "mac2112X",
+        "username": "mmcanally@realsynch.com.dynamite",
+        "securityToken": "RUQB40Ev74dP7l9a6af0y4BK"
+    },
+    "rethink": {
+        "clientId": "",
+        "password": "",
+        "username": "",
+        "securityToken": ""
+    },
+    "br360": {
+        "clientId": "",
+        "password": "",
+        "username": "@..",
+        "securityToken": ""
+    },
+    "boomtown": {
+        "clientId": "",
+        "password": "",
+        "username": "@..",
+        "securityToken": ""
+    }
+}
+

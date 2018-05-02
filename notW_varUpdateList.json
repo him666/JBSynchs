@@ -1,0 +1,34 @@
+{
+    "projectVariableDetail": [
+        {
+            "projectVariableOrganizationId": "241151",
+            "projectVariableEnvironmentId": "288061",
+            "projectVariableProjectId": "293041",
+            "projectVariableValue": "thisis a new pass",
+            "projectVariableHideValue": false,
+            "projectVariableDescription": "",
+            "projectVariableName": "sfPassword",
+            "projectVariableLabel": "salesforce password"
+        },
+        {
+            "projectVariableOrganizationId": "241151",
+            "projectVariableEnvironmentId": "288061",
+            "projectVariableProjectId": "293041",
+            "projectVariableValue": "this is a new security token",
+            "projectVariableHideValue": false,
+            "projectVariableDescription": "needed to make sure the op is safe on sf side",
+            "projectVariableName": "sfSecurityToken",
+            "projectVariableLabel": "Security Token"
+        },
+        {
+            "projectVariableOrganizationId": "241151",
+            "projectVariableEnvironmentId": "288061",
+            "projectVariableProjectId": "293041",
+            "projectVariableValue": "this is a new username",
+            "projectVariableHideValue": false,
+            "projectVariableDescription": "username for sf synch",
+            "projectVariableName": "sfUsername",
+            "projectVariableLabel": "sf username"
+        }
+    ]
+}

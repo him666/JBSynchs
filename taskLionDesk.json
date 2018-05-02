@@ -1,0 +1,8 @@
+{
+  "reminder_type_id": "Email Contact",
+  "assigned_user_id": "12",
+  "due_at": "2018-12-16 12:00:00",
+  "description": "New Lead Alert",
+  "status": "0",
+  "notes": "Received alert"
+}

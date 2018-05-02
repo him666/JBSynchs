@@ -1,0 +1,57 @@
+{
+    "ActivityType": "CALL",
+    "TableType": "CLD",
+    "TableId": 828231782,
+    "CustomerId": 1590,
+    "LeadTime": "2017-12-14T16:36:12.553",
+    "Language": "English",
+    "IDX": true,
+    "Keyword": null,
+    "ResultType": null,
+    "User": {
+        "Name": "TULSA FINANCL O",
+        "Phone": "5032050901",
+        "Email": null
+    },
+    "Listing": {
+        "ListingCode": null,
+        "Address1": "1000 County Road 481",
+        "Address2": null,
+        "City": "Thrall",
+        "State": "TX",
+        "Zip": "76578",
+        "Mls": "ABOR",
+        "MlsId": "9233396",
+        "Price": 399000,
+        "ListingAgent": {
+            "Name": "Machelle Ralls",
+            "Mls": "ABOR",
+            "AgentId": "381887"
+        },
+        "ListingOffice": {
+            "Name": "HomeCity,Inc.",
+            "Mls": "ABOR",
+            "OfficeId": "3530"
+        }
+    },
+    "Transfer": {
+        "Transferred": false,
+        "TransferNumber": "5128061148",
+        "MortgageTransfer": "N"
+    },
+    "Media": {
+        "AdTrackDigit": "N",
+        "MediaType": null
+    },
+    "AssignedAgents": [
+        {
+            "Name": "Austin OnCall",
+            "Mls": null,
+            "AgentId": null
+        }
+    ],
+    "InfoRequestMessage": null,
+    "VoicemailLeft": false,
+    "VoicemailUrl": null,
+    "AgentSite": null
+}

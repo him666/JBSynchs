@@ -1,0 +1,60 @@
+{
+    "synchObj": [
+        {
+            "sourceName": "voicepad",
+            "targetName": "salesforce",
+            "commonName": "Opportunities",
+            "options": [
+                {
+                    "optionType": "enableObjectSync",
+                    "optionName": "Enable Syncs for this object pair\"",
+                    "optionValue1": "true",
+                    "optionMask1": "B"
+                }
+            ]
+        },
+        {
+            "sourceName": "Prospect",
+            "targetName": "Prospect",
+            "commonName": "Prospect",
+            "options": [
+                {
+                    "optionType": "enableObjectSync",
+                    "optionName": "Enable Syncs for this object pair\"",
+                    "optionValue1": "true",
+                    "optionMask1": "noEdit"
+                }
+            ]
+        }
+    ],
+    "Sourceopts": [
+        {
+            "optionType": "delimiter",
+            "optionName": "A delimiter",
+            "optionValue1": "|",
+            "optionMask1": "A"
+        }
+    ],
+    "OptionsArray": [
+        {
+            "optionType": "enableNotificationOnError",
+            "optionName": "Enable Notification On Error",
+            "optionValue1": "true",
+            "optionMask1": "B"
+        },
+        {
+            "optionType": "genericRange",
+            "optionName": "A Range choice",
+            "optionValue1": "0.0",
+            "optionValue2": "1.0",
+            "optionMask1": "99.99",
+            "optionMask2": "999.99"
+        },
+        {
+            "optionType": "logAllActivities",
+            "optionName": "Log all activities",
+            "optionValue1": "true",
+            "optionMask1": "B"
+        }
+    ]
+}

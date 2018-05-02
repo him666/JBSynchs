@@ -1,0 +1,11 @@
+{
+    "response": {
+        "metadataServerUrl": "",
+        "passwordExpired": false,
+        "sandbox": true,
+        "serverUrl":"",
+        "sessionId": "",
+        "userId":""
+
+    }
+}

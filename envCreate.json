@@ -1,0 +1,9 @@
+{
+    "envDesc": "this is a new client environment",
+    "envName": "clientXName3",
+    "envType": 2,
+    "hitsPerMinuteThreshold": 100,
+    "orgId": "241151",
+    "subscriptionId": "272594",
+    "urlPrefix": "clientXId3"
+}

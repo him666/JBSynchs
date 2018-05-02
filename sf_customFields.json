@@ -1,0 +1,80 @@
+[
+    {
+        "object": "Lead",
+        "fields": [
+            {
+                "name": "External_Leadsource_ID",
+                "label": "External Lead Source ID",
+                "type": "Text",
+                "length": 64,
+                "description": "ID of Lead in source system",
+                "externalId": true
+            },
+            {
+                "name": "Buyer_Seller",
+                "label": "Buyer/Seller",
+                "type": "Picklist",
+                "picklistValues": [
+                    "Buyer",
+                    "Seller"
+                ],
+                "description": "Buyer or Seller"
+            },
+            {
+                "name": "Detailed_Lead_Source",
+                "label": "Detailed Lead Source",
+                "type": "Text",
+                "length": 50
+            },
+            {
+                "name": "Estimated_Sales_Price",
+                "label": "Estimated Sales Price",
+                "type": "Text",
+                "length": 30
+            },
+            {
+                "name": "Lead_Record_Type_SMB",
+                "label": "Lead Record Type SMB",
+                "type": "Text",
+                "length": 25
+            },
+            {
+                "name": "Lead_Source_Agent_Email",
+                "label": "Lead Source Agent Email",
+                "type": "Email"
+            },
+            {
+                "name": "Lead_Source_Agent_Name",
+                "label": "Lead Source Agent Name",
+                "type": "Text",
+                "length": 255
+            },
+            {
+                "name": "Real_Geeks_Site_ID",
+                "label": "Real Geeks Site ID",
+                "type": "Text",
+                "length": 255
+            },
+            {
+                "name": "Type",
+                "label": "Type",
+                "type": "Picklist",
+                "picklistValues": [
+                    "Inbound",
+                    "Outbound"
+                ]
+            }
+        ]
+    },
+    {
+        "object": "Activity",
+        "fields": [
+            {
+                "name": "Real_Geeks_Activity_Type",
+                "label": "Real Geeks Activity Type",
+                "type": "Text",
+                "length": 64
+            }
+        ]
+    }
+]

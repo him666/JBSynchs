@@ -1,0 +1,65 @@
+{
+    "voicepad": {
+        "loginUrl" : "loginUri",
+        "userId": "voicepadid",
+        "password": "vpadpass",
+        "username": "vpad@.",
+        "securityToken": "vpadsec"
+    },
+    "showcaseidx": {
+        "loginUrl": "loginUri",
+        "userId": "showcaseid",
+        "password": "showcasepass",
+        "username": "show@.",
+        "securityToken": "showcaseSectok"
+    },
+    "salesforce": {
+        "loginUrl": "loginUri",
+        "userId": "salesforceid",
+        "password": "salespass",
+        "username": "salesf@",
+        "securityToken": "securityTokensalesforce"
+    },
+    "realgeeks": {
+        "loginUrl": "loginUri",
+        "userId": "realgeeksid",
+        "password": "realgpass",
+        "username": "realg@",
+        "securityToken": "securityTokenrealgeeks"
+    },
+    "contactually": {
+        "loginUrl": "loginUri",
+        "userId": "contactuallyid",
+        "password": "contacpass",
+        "username": "contacf@",
+        "securityToken": "securityTokenContactually"
+    },
+    "rethink": {
+        "loginUrl": "loginUri",
+        "userId": "rethinkid",
+        "password": "rethinkpass",
+        "username": "rethinkuser",
+        "securityToken": "rethinksectok"
+    },
+    "blueroof360": {
+        "loginUrl": "loginUri",
+        "userId": "br360id",
+        "password": "brpass",
+        "username": "br@..",
+        "securityToken": "brsecuritytok"
+    },
+    "boomtown": {
+        "loginUrl": "loginUri",
+        "userId": "boomtownid",
+        "password": "boompass",
+        "username": "boom@..",
+        "securityToken": "boomsec"
+    },
+    "followupboss": {
+        "loginUrl": "loginUri",
+        "userId": "followid",
+        "password": "followpass",
+        "username": "usernamefollow",
+        "securityToken": "followSecTok"
+    }
+}

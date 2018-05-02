@@ -1,0 +1,104 @@
+
+source name
+$source = json$source$application$name$;
+
+source credstype
+If(json$source$credentials$credentialType$ == "API Token",
+     $sTypeCreds = "API Token";
+	$sUsername= json$source$credentials$username$;
+	$sPassword= json$source$credentials$password$;
+	$sApiToken= json$source$credentials$apiToken$;
+, true );
+If(json$source$credentials$credentialType$ == "Username/Password",
+     $sTypeCreds = "Username/Password";
+	$sUsername = json$source$credentials$username$;
+	$sPassword = json$source$credentials$password$;
+,  true);
+
+target name
+$target = json$target$application$name$; 
+
+target credstype
+If(json$target$credentials$credentialType$ == "API Token",
+     $tTypeCreds = "API Token";
+	$tUsername= json$target$credentials$username$;
+	$tPassword= json$target$credentials$password$;
+	$tApiToken= json$target$credentials$apiToken$;
+,  true );
+If(json$target$credentials$credentialType$ == "Username/Password",
+     $tTypeCreds = "Username/Password";
+	$tUsername= json$target$credentials$username$;
+	$tPassword= json$target$credentials$password$;
+,  true);
+json$target$credentials$credentialType$
+
+{"voicepad":{"userId":"","username":"vpad usernamee","password":"vpad passwordd"},"salesforce":{"userId":"","loginUrl":"https://test.salesforce.com","password":"sdfc passwordd","username":"sdfc usernamee","securityToken":"sdfc scurityToken"},"rethink":{"userId":""},"br360":{"userId":""}}
+
+<p class="text-muted text-center"><small>Do not have an account?</small></p>
+                <%=  link_to new_user_registration_path, class: "btn btn-sm btn-white btn-block" do %>
+                  Create an account
+<% end %>
+
+here we can see a response; 
+
+{"projectVariableId":"1217151","projectVariableName":"synch","projectVariableValueprojectVariableLabel":"","projectVariableDescription":"",
+"projectVariableHideValue":false,"projectVariableEnvironmentId":"295181","projectVariableProjectId":"302231","projectVariableOrganizationId":"241151",
+"createdBy":"hmarin@itexico.net","createdOn":1517418941877,"lastUpdatedBy":"hmarin@itexico.net","lastUpdatedOn":1517418941877},{"projectVariableId":"1217161",
+"projectVariableName":"synchObjects","projectVariableValue":"","projectVariableLabel":"","projectVariableDescription":"",
+"projectVariableHideValue":false,"projectVariableEnvironmentId":"295181","projectVariableProjectId":"302231","projectVariableOrganizationId":"241151",
+"createdBy":"hmarin@itexico.net","createdOn":1517418941880,"lastUpdatedBy":"hmarin@itexico.net","lastUpdatedOn":1517418941880},{"projectVariableId":"1217171",
+"projectVariableName":"synchOptions","projectVariableValue":"","projectVariableLabel":"","projectVariableDescription":"","projectVariableHideValue":false,
+"projectVariableEnvironmentId":"295181","projectVariableProjectId":"302231","projectVariableOrganizationId":"241151","createdBy":"hmarin@itexico.net",
+"createdOn":1517418941887,"lastUpdatedBy":"hmarin@itexico.net","lastUpdatedOn":1517418941887},{"projectVariableId":"1217141","projectVariableName":"wholeCreds",
+"projectVariableValue":"{\"voicepad\":{\"userId\":\"\",\"username\":\"usuario nuevo fuente\",\"password\":\"pas nuevo fuente\"},\"salesforce\":{\"userId\":\"\",\"loginUrl\":\"https://test.salesforce.com\",\"password\":\"target password\",\"username\":\"target username\",\"securityToken\":\"target security token\"},\"rethink\":{\"userId\":\"\"},\"br360\":{\"userId\":\"\"}}","projectVariableLabel":"array","projectVariableDescription":"creds","projectVariableHideValue":false,"projectVariableEnvironmentId":"295181","projectVariableProjectId":"302231","projectVariableOrganizationId":"241151","createdBy":"hmarin@itexico.net","createdOn":1517418941867,"lastUpdatedBy":"hmarin@itexico.net","lastUpdatedOn":1517418941867}]}
+
+synchObj: true Sourceopts: true OptionsArraytrue
+this is the id we need: 1217141
+target username
+
+synchObj: 
+[{"sourceName":"Client","targetName":"Opportunity","commonName":"Opportunities",
+"options":[{"optionType":"enableObjectSync","optionName":"Enable Syncs for this object pair\"","optionValue1":"true","optionMask1":"B"}]},
+{"sourceName":"Prospect","targetName":"Prospect","commonName":"Prospect",
+"options":[{"optionType":"enableObjectSync","optionName":"Enable Syncs for this object pair\"","optionValue1":"true","optionMask1":"noEdit"}]}]
+
+ Sourceopts: [{"optionType":"delimiter","optionName":"A delimiter","optionValue1":"|","optionMask1":"A"}] 
+ OptionsArray[
+	 {"optionType":"enableNotificationOnError","optionName":"Enable Notification On Error",
+ "optionValue1":"true","optionMask1":"B"},{"optionType":"genericRange","optionName":"A Range choice",
+ "optionValue1":"0.0","optionValue2":"1.0","optionMask1":"99.99","optionMask2":"999.99"},{"optionType":"logAllActivities",
+ "optionName":"Log all activities","optionValue1":"true","optionMask1":"B"}]
+
+ZGMFsXCtqVN3TLn6wxOO8gZZeJtMixUNskApd3$t1ny	 x-auth-token
+
+x-auth-token:zgmfd3$t1ny eC1hdXRoLXRva2VuOnpnbWZkMyR0MW55 used 
+
+{"voicepad":{"clientId":"","password":"vpadPasswordd","username":"vpadUsernamee","securityToken":""},
+"salesforce":{"clientId":"","password":"salesforcePasswordd","username":"salesforceeUsernamee","securityToken":"securityToken"},
+"rethink":{"clientId":"","password":"","username":"","securityToken":""},"br360":{"clientId":"","password":"","username":"@..","securityToken":""},
+"boomtown":{"clientId":"","password":"","username":"@..","securityToken":""}}
+
+{ "synchObj": [{"syncOptionID":15,"optionType":"R/W","optionName":"enableNotificationOnError","optionDisplayName":"Enable Notification On Error","optionValue1":"falseichon","optionMask1":"b","optionValue2":null,"optionMask2":null,
+"syncToSyncOptions":{"syncID":1,"syncOptionID":15}},{"syncOptionID":16,"optionType":"R/W","optionName":"genericRange","optionDisplayName":"A Range choice","optionValue1":"0.0","optionMask1":"999.99","optionValue2":"1.0","optionMask2":"999.99","syncToSyncOptions":{"syncID":1,"syncOptionID":16}},{"syncOptionID":17,"optionType":"R/W","optionName":"logAllActivities","optionDisplayName":"Log all activities","optionValue1":"true","optionMask1":"B","optionValue2":null,"optionMask2":null,"syncToSyncOptions":{"syncID":1,"syncOptionID":17}}], "Sourceopts": [{"sourceOptionID":15,"optionType":"R/W","optionName":"ignoreNulls","optionDisplayName":"Ignore Nulls","optionValue1":"true","optionMask1":"B","optionValue2":null,"optionMask2":null,"sourceAppToSourceOptions":{"sourceID":15,"sourceOptionID":15}},{"sourceOptionID":14,"optionType":"R/W","optionName":"delimiter","optionDisplayName":"A delimiter","optionValue1":"|","optionMask1":"A","optionValue2":null,"optionMask2":null,"sourceAppToSourceOptions":{"sourceID":15,"sourceOptionID":14}}], "OptionsArray":[{"syncOptionID":15,"optionType":"R/W","optionName":"enableNotificationOnError","optionDisplayName":"Enable Notification On Error","optionValue1":"falseichon","optionMask1":"b","optionValue2":null,"optionMask2":null,"syncToSyncOptions":{"syncID":1,"syncOptionID":15}},{"syncOptionID":16,"optionType":"R/W","optionName":"genericRange","optionDisplayName":"A Range choice","optionValue1":"0.0","optionMask1":"999.99","optionValue2":"1.0","optionMask2":"999.99","syncToSyncOptions":{"syncID":1,"syncOptionID":16}},{"syncOptionID":17,"optionType":"R/W","optionName":"logAllActivities","optionDisplayName":"Log all activities","optionValue1":"true","optionMask1":"B","optionValue2":null,"optionMask2":null,"syncToSyncOptions":{"syncID":1,"syncOptionID":17}}]}
+
+{ 
+	"synchObj": [{"syncOptionID":15,"optionType":"R/W","optionName":"enableNotificationOnError","optionDisplayName":"Enable Notification On Error","optionValue1":"falseichon","optionMask1":"b","optionValue2":null,"optionMask2":null,"syncToSyncOptions":{"syncID":1,"syncOptionID":15}},
+	{"syncOptionID":16,"optionType":"R/W","optionName":"genericRange","optionDisplayName":"A Range choice","optionValue1":"0.0","optionMask1":"999.99","optionValue2":"1.0","optionMask2":"999.99","syncToSyncOptions":{"syncID":1,"syncOptionID":16}},{
+		"syncOptionID":17,"optionType":"R/W","optionName":"logAllActivities","optionDisplayName":"Log all activities","optionValue1":"true","optionMask1":"B","optionValue2":null,"optionMask2":null,"syncToSyncOptions":{"syncID":1,"syncOptionID":17}}], 
+		
+		"sourceOpts": [{"sourceOptionID":15,"optionType":"R/W","optionName":"ignoreNulls","optionDisplayName":"Ignore Nulls","optionValue1":"true","optionMask1":"B","optionValue2":null,"optionMask2":null,
+		"sourceAppToSourceOptions":{"sourceID":15,"sourceOptionID":15}},{"sourceOptionID":14,"optionType":"R/W","optionName":"delimiter","optionDisplayName":"A delimiter","optionValue1":"|","optionMask1":"A","optionValue2":null,"optionMask2":null,"sourceAppToSourceOptions":{"sourceID":15,"sourceOptionID":14}}], 
+		
+		"targetOpts":[{"targetOptionID":15,"optionType":"R/W","optionName":"ignoreNulls","optionDisplayName":"Ignore Nulls","optionValue1":"true","optionMask1":"B","optionValue2":null,"optionMask2":null,"targetAppToTargetOptions":{"targetID":17,"targetOptionID":15}}], 
+		 "optionsArray":[{"syncOptionID":15,"optionType":"R/W","optionName":"enableNotificationOnError","optionDisplayName":"Enable Notification On Error","optionValue1":"falseichon","optionMask1":"b","optionValue2":null,"optionMask2":null,"syncToSyncOptions":{"syncID":1,"syncOptionID":15}},{"syncOptionID":16,"optionType":"R/W","optionName":"genericRange","optionDisplayName":"A Range choice","optionValue1":"0.0","optionMask1":"999.99","optionValue2":"1.0","optionMask2":"999.99","syncToSyncOptions":{"syncID":1,"syncOptionID":16}},{"syncOptionID":17,"optionType":"R/W","optionName":"logAllActivities","optionDisplayName":"Log all activities","optionValue1":"true","optionMask1":"B","optionValue2":null,"optionMask2":null,"syncToSyncOptions":{"syncID":1,"syncOptionID":17}}]}
+
+		 {"voicepad":{"clientId":"","password":"fasdfsadf","username":"dsfasdf","securityToken":"","userId":"134"},"salesforce":{"clientId":"","password":"Hannah@19915","username":"laura@beerhometeam.com.sandbox2","securityToken":"eErZHMvUZLIRrs48CcQ2EOge9","userId":""},"rethink":{"clientId":"","password":"","username":"","securityToken":""},"br360":{"clientId":"","password":"","username":"@..","securityToken":""},"boomtown":{"clientId":"","password":"","username":"@..","securityToken":""}}
+
+		 {"voicepad":{"userId":"1680","password":"vpadPasswordd","username":"vpadUsernamee","securityToken":""},"salesforce":{"userId":"00546000001KQaFAAW","password":"Hannah@19915","username":"laura@beerhometeam.com.sandbox2","securityToken":"eErZHMvUZLIRrs48CcQ2EOge9"},"rethink":{"userId":"","password":"","username":"","securityToken":""},"br360":{"userId":"","password":"","username":"@..","securityToken":""},"boomtown":{"userId":"","password":"","username":"@..","securityToken":""}}
+
+		 $synchConfigVal =  
+		 '{ "synchObj": ' + String($synchObj) + 
+		 ', "sourceOpts": ' + String($sourceOpts) + 
+		 ', "targetOpts":' +String($targetOpts) + 
+		 ',  "optionsArray":' + String($optionsArray) + 
+		 ',"providers":{' + '"source":' + $source + ', "target":' + $target + "}" + '}'; 
