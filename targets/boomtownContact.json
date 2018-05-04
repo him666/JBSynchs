@@ -1,0 +1,14 @@
+{
+  "lastName": "Smith",
+  "firstName": "John",
+  "sourceId": "{CorrectSourceHere}",
+  "emailAddresses": [
+    {
+      "emailAddress": "JohnSmith@BoomTownROI.com",
+      "isLogin": true,
+      "isPrimary": true,
+      "description": null,
+      "emailAddressStatus": "unknown"
+    }
+  ]
+}
