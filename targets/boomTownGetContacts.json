@@ -1,0 +1,4399 @@
+[
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27455316,
+                "description": null,
+                "emailAddress": "demotro@hello.co",
+                "dateModified": "2018-05-10T17:34:37.520Z",
+                "dateCreated": "2018-05-10T17:34:37.520Z",
+                "contactId": 29261071,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: Hello \nName: DEMO Teddy \nphone: 42356234534534523 \nemail: demotro@hello.co \nMLS: DEMOMLS\nMLS#: 111113\nProperty address: 3 Rock Hollow Rd Dove",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-10T17:34:39.950Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "42356234534534523",
+                "phoneNumberId": 40286056,
+                "label": "primary",
+                "dateModified": "2018-05-10T17:34:37.207Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-10T17:34:37.207Z",
+                "contactId": 29261071
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "42356234534534523",
+        "firstName": "DEMO Teddy",
+        "dateCreated": "2018-05-10T17:34:36.943Z",
+        "contactId": 29261071,
+        "physicalAddresses": [
+            {
+                "city": "Dover",
+                "contactAddressId": 29261071,
+                "state": "NJ",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-10T17:34:39.950Z",
+                "zipCode": "7801",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-10T17:34:36.943Z",
+                "contactId": 29261071,
+                "address": "3 Rock Hollow Rd"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-10T17:34:37.963Z",
+                "dateModified": "2018-05-10T17:34:37.963Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-10T17:34:37.963Z",
+                "contactId": 29261071,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-10T17:34:37.963Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56297100
+            },
+            {
+                "assignedDate": "2018-05-10T17:34:37.927Z",
+                "dateModified": "2018-05-10T17:34:37.927Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-10T17:34:37.927Z",
+                "contactId": 29261071,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-10T17:34:37.927Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56297099
+            },
+            {
+                "assignedDate": "2018-05-10T17:34:38.620Z",
+                "dateModified": "2018-05-10T17:34:38.620Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-10T17:34:38.620Z",
+                "contactId": 29261071,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-10T17:34:38.620Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56297101
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27430091,
+                "description": null,
+                "emailAddress": "demo@gmail.com",
+                "dateModified": "2018-05-09T18:23:01.100Z",
+                "dateCreated": "2018-05-09T18:23:01.100Z",
+                "contactId": 29232976,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T18:23:03.517Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "4702335658",
+                "phoneNumberId": 40260000,
+                "label": "primary",
+                "dateModified": "2018-05-09T18:23:00.803Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T18:23:00.803Z",
+                "contactId": 29232976
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "4702335658",
+        "firstName": "KAUSHIK SHARDOO",
+        "dateCreated": "2018-05-09T18:23:00.597Z",
+        "contactId": 29232976,
+        "physicalAddresses": [
+            {
+                "city": "Louisville",
+                "contactAddressId": 29232976,
+                "state": "KY",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-09T18:23:03.517Z",
+                "zipCode": "40245",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-09T18:23:00.597Z",
+                "contactId": 29232976,
+                "address": "9898 Lake Forest Pkwy"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T18:23:01.583Z",
+                "dateModified": "2018-05-09T18:23:01.583Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:23:01.583Z",
+                "contactId": 29232976,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T18:23:01.583Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 56256743
+            },
+            {
+                "assignedDate": "2018-05-09T18:23:01.557Z",
+                "dateModified": "2018-05-09T18:23:01.557Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:23:01.557Z",
+                "contactId": 29232976,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T18:23:01.557Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56256742
+            },
+            {
+                "assignedDate": "2018-05-09T18:23:02.267Z",
+                "dateModified": "2018-05-09T18:23:02.267Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:23:02.267Z",
+                "contactId": 29232976,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T18:23:02.267Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56256745
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27429611,
+                "description": null,
+                "emailAddress": "demo@google.com",
+                "dateModified": "2018-05-09T18:19:12.487Z",
+                "dateCreated": "2018-05-09T18:19:12.487Z",
+                "contactId": 29232471,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T18:19:15.313Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "12444567890",
+                "phoneNumberId": 40259497,
+                "label": "primary",
+                "dateModified": "2018-05-09T18:19:12.070Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T18:19:12.070Z",
+                "contactId": 29232471
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "12444567890",
+        "firstName": "demo3",
+        "dateCreated": "2018-05-09T18:19:11.793Z",
+        "contactId": 29232471,
+        "physicalAddresses": [
+            {
+                "city": "Thrall",
+                "contactAddressId": 29232471,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-09T18:19:15.313Z",
+                "zipCode": "76578",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-09T18:19:11.793Z",
+                "contactId": 29232471,
+                "address": "1000 County Road 481"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T18:19:12.887Z",
+                "dateModified": "2018-05-09T18:19:12.887Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:19:12.887Z",
+                "contactId": 29232471,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T18:19:12.887Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 56256188
+            },
+            {
+                "assignedDate": "2018-05-09T18:19:12.827Z",
+                "dateModified": "2018-05-09T18:19:12.827Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:19:12.827Z",
+                "contactId": 29232471,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T18:19:12.827Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56256187
+            },
+            {
+                "assignedDate": "2018-05-09T18:19:13.587Z",
+                "dateModified": "2018-05-09T18:19:13.587Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:19:13.587Z",
+                "contactId": 29232471,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T18:19:13.587Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56256189
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27429491,
+                "description": null,
+                "emailAddress": "jack@mail.com",
+                "dateModified": "2018-05-09T18:12:43.237Z",
+                "dateCreated": "2018-05-09T18:12:43.237Z",
+                "contactId": 29232346,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T18:12:45.463Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "808-817-2382",
+                "phoneNumberId": 40259372,
+                "label": "primary",
+                "dateModified": "2018-05-09T18:12:42.930Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T18:12:42.930Z",
+                "contactId": 29232346
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "Johnson",
+        "firstName": "Jack",
+        "dateCreated": "2018-05-09T18:12:42.727Z",
+        "contactId": 29232346,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T18:12:43.677Z",
+                "dateModified": "2018-05-09T18:12:43.677Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:12:43.677Z",
+                "contactId": 29232346,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T18:12:43.677Z",
+                "userId": 144718,
+                "communicationStatus": "active",
+                "associatedUserId": 56255975
+            },
+            {
+                "assignedDate": "2018-05-09T18:12:43.680Z",
+                "dateModified": "2018-05-09T18:12:43.680Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:12:43.680Z",
+                "contactId": 29232346,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T18:12:43.680Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56255976
+            },
+            {
+                "assignedDate": "2018-05-09T18:12:44.357Z",
+                "dateModified": "2018-05-09T18:12:44.357Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T18:12:44.357Z",
+                "contactId": 29232346,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T18:12:44.357Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56255977
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27428299,
+                "description": null,
+                "emailAddress": "cuquita@southpark.com",
+                "dateModified": "2018-05-09T17:14:02.693Z",
+                "dateCreated": "2018-05-09T17:14:02.693Z",
+                "contactId": 29230911,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T17:14:04.897Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "(555) 555-1234",
+                "phoneNumberId": 40258069,
+                "label": "primary",
+                "dateModified": "2018-05-09T17:14:02.183Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T17:14:02.183Z",
+                "contactId": 29230911
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "Capacita",
+        "firstName": "Cuquita te capacita",
+        "dateCreated": "2018-05-09T17:14:01.943Z",
+        "contactId": 29230911,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T17:14:03.027Z",
+                "dateModified": "2018-05-09T17:14:03.027Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T17:14:03.027Z",
+                "contactId": 29230911,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T17:14:03.027Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56253555
+            },
+            {
+                "assignedDate": "2018-05-09T17:14:03.037Z",
+                "dateModified": "2018-05-09T17:14:03.037Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T17:14:03.037Z",
+                "contactId": 29230911,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T17:14:03.037Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56253556
+            },
+            {
+                "assignedDate": "2018-05-09T17:14:03.710Z",
+                "dateModified": "2018-05-09T17:14:03.710Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T17:14:03.710Z",
+                "contactId": 29230911,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T17:14:03.710Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56253557
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27428243,
+                "description": null,
+                "emailAddress": "alain@southpark.com",
+                "dateModified": "2018-05-09T17:10:45.473Z",
+                "dateCreated": "2018-05-09T17:10:45.473Z",
+                "contactId": 29230853,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T17:10:47.573Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "(555) 555-1234",
+                "phoneNumberId": 40258010,
+                "label": "primary",
+                "dateModified": "2018-05-09T17:10:45.180Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T17:10:45.180Z",
+                "contactId": 29230853
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "alain",
+        "firstName": "Align",
+        "dateCreated": "2018-05-09T17:10:44.973Z",
+        "contactId": 29230853,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T17:10:45.957Z",
+                "dateModified": "2018-05-09T17:10:45.957Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T17:10:45.957Z",
+                "contactId": 29230853,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T17:10:45.957Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 56253458
+            },
+            {
+                "assignedDate": "2018-05-09T17:10:45.960Z",
+                "dateModified": "2018-05-09T17:10:45.960Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T17:10:45.960Z",
+                "contactId": 29230853,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T17:10:45.960Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56253459
+            },
+            {
+                "assignedDate": "2018-05-09T17:10:46.630Z",
+                "dateModified": "2018-05-09T17:10:46.630Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T17:10:46.630Z",
+                "contactId": 29230853,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T17:10:46.630Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56253461
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27427880,
+                "description": null,
+                "emailAddress": "lodo@mail.com",
+                "dateModified": "2018-05-09T17:53:35.200Z",
+                "dateCreated": "2018-05-09T16:51:18.157Z",
+                "contactId": 29230463,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T17:53:35.277Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "808-817-2382",
+                "phoneNumberId": 40257620,
+                "label": "primary",
+                "dateModified": "2018-05-09T16:51:17.817Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T16:51:17.817Z",
+                "contactId": 29230463
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "lalda",
+        "firstName": "goron",
+        "dateCreated": "2018-05-09T16:51:17.600Z",
+        "contactId": 29230463,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T16:51:18.600Z",
+                "dateModified": "2018-05-09T17:53:12.467Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T16:51:18.600Z",
+                "contactId": 29230463,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T16:51:18.600Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 56252822
+            },
+            {
+                "assignedDate": "2018-05-09T16:51:18.583Z",
+                "dateModified": "2018-05-09T17:53:12.467Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T16:51:18.583Z",
+                "contactId": 29230463,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T16:51:18.583Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56252821
+            },
+            {
+                "assignedDate": "2018-05-09T16:51:19.237Z",
+                "dateModified": "2018-05-09T17:53:12.470Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T16:51:19.237Z",
+                "contactId": 29230463,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T16:51:19.237Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56252824
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27427836,
+                "description": null,
+                "emailAddress": "garifileld222@google.com",
+                "dateModified": "2018-05-09T16:49:12.207Z",
+                "dateCreated": "2018-05-09T16:49:12.207Z",
+                "contactId": 29230420,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T16:49:14.563Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "12444567890",
+                "phoneNumberId": 40257580,
+                "label": "primary",
+                "dateModified": "2018-05-09T16:49:11.907Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T16:49:11.907Z",
+                "contactId": 29230420
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "12444567890",
+        "firstName": "demo3",
+        "dateCreated": "2018-05-09T16:49:11.693Z",
+        "contactId": 29230420,
+        "physicalAddresses": [
+            {
+                "city": "Thrall",
+                "contactAddressId": 29230420,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-09T16:49:14.563Z",
+                "zipCode": "76578",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-09T16:49:11.693Z",
+                "contactId": 29230420,
+                "address": "1000 County Road 481"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T16:49:12.627Z",
+                "dateModified": "2018-05-09T16:49:12.627Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T16:49:12.627Z",
+                "contactId": 29230420,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T16:49:12.627Z",
+                "userId": 144718,
+                "communicationStatus": "active",
+                "associatedUserId": 56252751
+            },
+            {
+                "assignedDate": "2018-05-09T16:49:12.637Z",
+                "dateModified": "2018-05-09T16:49:12.637Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T16:49:12.637Z",
+                "contactId": 29230420,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T16:49:12.637Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56252752
+            },
+            {
+                "assignedDate": "2018-05-09T16:49:13.260Z",
+                "dateModified": "2018-05-09T16:49:13.260Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T16:49:13.260Z",
+                "contactId": 29230420,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T16:49:13.260Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56252755
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27423808,
+                "description": null,
+                "emailAddress": "garifileld@google.com",
+                "dateModified": "2018-05-09T14:02:14.327Z",
+                "dateCreated": "2018-05-09T14:02:14.327Z",
+                "contactId": 29225985,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T14:02:17.437Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "12444567890",
+                "phoneNumberId": 40253389,
+                "label": "primary",
+                "dateModified": "2018-05-09T14:02:13.990Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T14:02:13.990Z",
+                "contactId": 29225985
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "12444567890",
+        "firstName": "Teo reyes",
+        "dateCreated": "2018-05-09T14:02:13.783Z",
+        "contactId": 29225985,
+        "physicalAddresses": [
+            {
+                "city": "Thrall",
+                "contactAddressId": 29225985,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-09T14:02:17.437Z",
+                "zipCode": "76578",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-09T14:02:13.783Z",
+                "contactId": 29225985,
+                "address": "1000 County Road 481"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T14:02:14.803Z",
+                "dateModified": "2018-05-09T14:02:14.803Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T14:02:14.803Z",
+                "contactId": 29225985,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T14:02:14.803Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56245500
+            },
+            {
+                "assignedDate": "2018-05-09T14:02:14.757Z",
+                "dateModified": "2018-05-09T14:02:14.757Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T14:02:14.757Z",
+                "contactId": 29225985,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T14:02:14.757Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56245499
+            },
+            {
+                "assignedDate": "2018-05-09T14:02:15.443Z",
+                "dateModified": "2018-05-09T14:02:15.443Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T14:02:15.443Z",
+                "contactId": 29225985,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T14:02:15.443Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56245501
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27423756,
+                "description": null,
+                "emailAddress": "teomail@125656.com",
+                "dateModified": "2018-05-09T13:59:21.387Z",
+                "dateCreated": "2018-05-09T13:59:21.387Z",
+                "contactId": 29225931,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T13:59:23.770Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "(888) 320-6933",
+                "phoneNumberId": 40253338,
+                "label": "primary",
+                "dateModified": "2018-05-09T13:59:21.083Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T13:59:21.083Z",
+                "contactId": 29225931
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "W",
+        "firstName": "Teodopulos",
+        "dateCreated": "2018-05-09T13:59:20.883Z",
+        "contactId": 29225931,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T13:59:21.820Z",
+                "dateModified": "2018-05-09T13:59:21.820Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T13:59:21.820Z",
+                "contactId": 29225931,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T13:59:21.820Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 56245414
+            },
+            {
+                "assignedDate": "2018-05-09T13:59:21.823Z",
+                "dateModified": "2018-05-09T13:59:21.823Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T13:59:21.823Z",
+                "contactId": 29225931,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T13:59:21.823Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56245415
+            },
+            {
+                "assignedDate": "2018-05-09T13:59:22.500Z",
+                "dateModified": "2018-05-09T13:59:22.500Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T13:59:22.500Z",
+                "contactId": 29225931,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T13:59:22.500Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56245416
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27423737,
+                "description": null,
+                "emailAddress": "teomail@123123.com",
+                "dateModified": "2018-05-09T13:57:38.930Z",
+                "dateCreated": "2018-05-09T13:57:38.930Z",
+                "contactId": 29225908,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T13:57:41.753Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "(888) 320-6933",
+                "phoneNumberId": 40253315,
+                "label": "primary",
+                "dateModified": "2018-05-09T13:57:38.620Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-09T13:57:38.620Z",
+                "contactId": 29225908
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "W",
+        "firstName": "TeoTeo",
+        "dateCreated": "2018-05-09T13:57:38.387Z",
+        "contactId": 29225908,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-09T13:57:39.357Z",
+                "dateModified": "2018-05-09T13:57:39.357Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T13:57:39.357Z",
+                "contactId": 29225908,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-09T13:57:39.357Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 56245379
+            },
+            {
+                "assignedDate": "2018-05-09T13:57:39.387Z",
+                "dateModified": "2018-05-09T13:57:39.387Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T13:57:39.387Z",
+                "contactId": 29225908,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-09T13:57:39.387Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56245378
+            },
+            {
+                "assignedDate": "2018-05-09T13:57:40.050Z",
+                "dateModified": "2018-05-09T13:57:40.050Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-09T13:57:40.050Z",
+                "contactId": 29225908,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-09T13:57:40.050Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56245380
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27410796,
+                "description": null,
+                "emailAddress": "ngonzalez@itexico.net",
+                "dateModified": "2018-05-08T20:53:30.770Z",
+                "dateCreated": "2018-05-08T20:53:30.770Z",
+                "contactId": 29212786,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: I'd like information on this property. please \nName: Norma \nphone: 5546790876 \nemail: ngonzalez@itexico.net \nMLS: DEMOMLS\nMLS#: DEMO145780532",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T20:53:33.100Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5546790876",
+                "phoneNumberId": 40239467,
+                "label": "primary",
+                "dateModified": "2018-05-08T20:53:30.470Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T20:53:30.470Z",
+                "contactId": 29212786
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5546790876",
+        "firstName": "Norma",
+        "dateCreated": "2018-05-08T20:53:30.257Z",
+        "contactId": 29212786,
+        "physicalAddresses": [
+            {
+                "city": "Demoville",
+                "contactAddressId": 29212786,
+                "state": "OH",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T20:53:33.100Z",
+                "zipCode": "40000",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T20:53:30.257Z",
+                "contactId": 29212786,
+                "address": "8642 Blue Sky Dr."
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T20:53:31.307Z",
+                "dateModified": "2018-05-08T20:53:31.307Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:31.307Z",
+                "contactId": 29212786,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T20:53:31.307Z",
+                "userId": 144718,
+                "communicationStatus": "active",
+                "associatedUserId": 56226155
+            },
+            {
+                "assignedDate": "2018-05-08T20:53:31.260Z",
+                "dateModified": "2018-05-08T20:53:31.260Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:31.260Z",
+                "contactId": 29212786,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T20:53:31.260Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56226154
+            },
+            {
+                "assignedDate": "2018-05-08T20:53:31.957Z",
+                "dateModified": "2018-05-08T20:53:31.957Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:31.957Z",
+                "contactId": 29212786,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T20:53:31.957Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56226156
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": "Message: please send info asap im homeless \nName: myinfoplease \nphone: 5543625411 \nemail: hmarin@itexico.net \nMLS: DEMOMLS\nMLS#: 111112\nProperty addre",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T20:53:21.087Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5543625411",
+                "phoneNumberId": 40239464,
+                "label": "primary",
+                "dateModified": "2018-05-08T20:53:18.607Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T20:53:18.607Z",
+                "contactId": 29212783
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5543625411",
+        "firstName": "myinfoplease",
+        "dateCreated": "2018-05-08T20:53:18.397Z",
+        "contactId": 29212783,
+        "physicalAddresses": [
+            {
+                "city": "Louisville",
+                "contactAddressId": 29212783,
+                "state": "KY",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T20:53:21.087Z",
+                "zipCode": "40245",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T20:53:18.397Z",
+                "contactId": 29212783,
+                "address": "113 Davenport Dr."
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T20:53:19.390Z",
+                "dateModified": "2018-05-08T20:53:19.390Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:19.390Z",
+                "contactId": 29212783,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T20:53:19.390Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56226146
+            },
+            {
+                "assignedDate": "2018-05-08T20:53:19.493Z",
+                "dateModified": "2018-05-08T20:53:19.493Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:19.493Z",
+                "contactId": 29212783,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T20:53:19.493Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56226147
+            },
+            {
+                "assignedDate": "2018-05-08T20:53:20.117Z",
+                "dateModified": "2018-05-08T20:53:20.117Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:20.117Z",
+                "contactId": 29212783,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T20:53:20.117Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56226148
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27410793,
+                "description": null,
+                "emailAddress": "hmarin@itexico.net",
+                "dateModified": "2018-05-08T20:53:18.170Z",
+                "dateCreated": "2018-05-08T20:53:18.170Z",
+                "contactId": 29212782,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: I'd like information on this property. \nName: minombrees \nphone: 5523429164 \nemail: hmarin@itexico.net \nMLS: DEMOMLS\nMLS#: 111113\nProperty ad",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T20:53:20.160Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5523429164",
+                "phoneNumberId": 40239463,
+                "label": "primary",
+                "dateModified": "2018-05-08T20:53:17.840Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T20:53:17.840Z",
+                "contactId": 29212782
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5523429164",
+        "firstName": "minombrees",
+        "dateCreated": "2018-05-08T20:53:17.633Z",
+        "contactId": 29212782,
+        "physicalAddresses": [
+            {
+                "city": "Dover",
+                "contactAddressId": 29212782,
+                "state": "NJ",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T20:53:20.160Z",
+                "zipCode": "7801",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T20:53:17.633Z",
+                "contactId": 29212782,
+                "address": "3 Rock Hollow Rd"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T20:53:18.577Z",
+                "dateModified": "2018-05-08T20:53:18.577Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:18.577Z",
+                "contactId": 29212782,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T20:53:18.577Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 56226143
+            },
+            {
+                "assignedDate": "2018-05-08T20:53:18.603Z",
+                "dateModified": "2018-05-08T20:53:18.603Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:18.603Z",
+                "contactId": 29212782,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T20:53:18.603Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56226144
+            },
+            {
+                "assignedDate": "2018-05-08T20:53:19.220Z",
+                "dateModified": "2018-05-08T20:53:19.220Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:53:19.220Z",
+                "contactId": 29212782,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T20:53:19.220Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56226145
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27410036,
+                "description": null,
+                "emailAddress": "manhattan@watchmen.com",
+                "dateModified": "2018-05-08T20:10:27.853Z",
+                "dateCreated": "2018-05-08T20:10:27.853Z",
+                "contactId": 29211983,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: I'd like information on this property. and its nuclear capacities \nName: Dr Manhattan \nphone: 5523429164 \nemail: manhattan@watchmen.com \nMLS:",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T20:10:30.093Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5523429164",
+                "phoneNumberId": 40238651,
+                "label": "primary",
+                "dateModified": "2018-05-08T20:10:27.407Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T20:10:27.407Z",
+                "contactId": 29211983
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5523429164",
+        "firstName": "Dr Manhattan",
+        "dateCreated": "2018-05-08T20:10:27.200Z",
+        "contactId": 29211983,
+        "physicalAddresses": [
+            {
+                "city": "Louisville",
+                "contactAddressId": 29211983,
+                "state": "KY",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T20:10:30.093Z",
+                "zipCode": "40245",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T20:10:27.200Z",
+                "contactId": 29211983,
+                "address": "9898 Lake Forest Pkwy"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T20:10:28.223Z",
+                "dateModified": "2018-05-08T20:10:28.223Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:10:28.223Z",
+                "contactId": 29211983,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T20:10:28.223Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 56224819
+            },
+            {
+                "assignedDate": "2018-05-08T20:10:28.167Z",
+                "dateModified": "2018-05-08T20:10:28.167Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:10:28.167Z",
+                "contactId": 29211983,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T20:10:28.167Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56224818
+            },
+            {
+                "assignedDate": "2018-05-08T20:10:28.883Z",
+                "dateModified": "2018-05-08T20:10:28.883Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:10:28.883Z",
+                "contactId": 29211983,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T20:10:28.883Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56224822
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27409905,
+                "description": null,
+                "emailAddress": "sightings@strange.com",
+                "dateModified": "2018-05-08T20:02:28.900Z",
+                "dateCreated": "2018-05-08T20:02:28.900Z",
+                "contactId": 29211844,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: I'd like information on this property. and if its available \nName: Dr Strange \nphone: 5534425463 \nemail: sightings@strange.com \nMLS: DEMOMLS\n",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T20:02:31.100Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5534425463",
+                "phoneNumberId": 40238514,
+                "label": "primary",
+                "dateModified": "2018-05-08T20:02:28.587Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T20:02:28.587Z",
+                "contactId": 29211844
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5534425463",
+        "firstName": "Dr Strange",
+        "dateCreated": "2018-05-08T20:02:28.373Z",
+        "contactId": 29211844,
+        "physicalAddresses": [
+            {
+                "city": "Louisville",
+                "contactAddressId": 29211844,
+                "state": "KY",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T20:02:31.100Z",
+                "zipCode": "40245",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T20:02:28.373Z",
+                "contactId": 29211844,
+                "address": "9898 Lake Forest Pkwy"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T20:02:29.340Z",
+                "dateModified": "2018-05-08T20:02:29.340Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:02:29.340Z",
+                "contactId": 29211844,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T20:02:29.340Z",
+                "userId": 144718,
+                "communicationStatus": "active",
+                "associatedUserId": 56224557
+            },
+            {
+                "assignedDate": "2018-05-08T20:02:29.337Z",
+                "dateModified": "2018-05-08T20:02:29.337Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:02:29.337Z",
+                "contactId": 29211844,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T20:02:29.337Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56224556
+            },
+            {
+                "assignedDate": "2018-05-08T20:02:29.970Z",
+                "dateModified": "2018-05-08T20:02:29.970Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T20:02:29.970Z",
+                "contactId": 29211844,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T20:02:29.970Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56224558
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27404075,
+                "description": null,
+                "emailAddress": "neo@matrix.com",
+                "dateModified": "2018-05-08T17:34:59.903Z",
+                "dateCreated": "2018-05-08T17:34:59.903Z",
+                "contactId": 29204355,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: I'd like information on this property. \nName: mr Anderson chosen one \nphone: 5523429164 \nemail: neo@matrix.com \nMLS: DEMOMLS\nMLS#: 111111\nPro",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T17:35:02.323Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5523429164",
+                "phoneNumberId": 40233535,
+                "label": "primary",
+                "dateModified": "2018-05-08T17:34:59.430Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T17:34:59.430Z",
+                "contactId": 29204355
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5523429164",
+        "firstName": "mr Anderson chosen one",
+        "dateCreated": "2018-05-08T17:34:59.187Z",
+        "contactId": 29204355,
+        "physicalAddresses": [
+            {
+                "city": "Louisville",
+                "contactAddressId": 29204355,
+                "state": "KY",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T17:35:02.323Z",
+                "zipCode": "40245",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T17:34:59.187Z",
+                "contactId": 29204355,
+                "address": "9898 Lake Forest Pkwy"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T17:35:00.283Z",
+                "dateModified": "2018-05-08T17:35:00.283Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T17:35:00.283Z",
+                "contactId": 29204355,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T17:35:00.283Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56210943
+            },
+            {
+                "assignedDate": "2018-05-08T17:35:00.170Z",
+                "dateModified": "2018-05-08T17:35:00.170Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T17:35:00.170Z",
+                "contactId": 29204355,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T17:35:00.170Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56210942
+            },
+            {
+                "assignedDate": "2018-05-08T17:35:00.977Z",
+                "dateModified": "2018-05-08T17:35:00.977Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T17:35:00.977Z",
+                "contactId": 29204355,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T17:35:00.977Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56210945
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27403218,
+                "description": null,
+                "emailAddress": "himtest@funfcore.com",
+                "dateModified": "2018-05-08T16:49:47.230Z",
+                "dateCreated": "2018-05-08T16:49:47.230Z",
+                "contactId": 29203436,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Name: Release the kraken \nphone: 5032050901 \nemail: himtest@funfcore.com \nMLS: ABOR\nMLS#: 9233396\nProperty address: 1000 County Road 481 Thrall TX",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T16:49:49.610Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5032050901",
+                "phoneNumberId": 40232615,
+                "label": "primary",
+                "dateModified": "2018-05-08T16:49:46.793Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T16:49:46.793Z",
+                "contactId": 29203436
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5032050901",
+        "firstName": "Release the kraken",
+        "dateCreated": "2018-05-08T16:49:46.550Z",
+        "contactId": 29203436,
+        "physicalAddresses": [
+            {
+                "city": "Thrall",
+                "contactAddressId": 29203436,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T16:49:49.610Z",
+                "zipCode": "76578",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T16:49:46.550Z",
+                "contactId": 29203436,
+                "address": "1000 County Road 481"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T16:49:47.543Z",
+                "dateModified": "2018-05-08T16:49:47.543Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:49:47.543Z",
+                "contactId": 29203436,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T16:49:47.543Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 56209415
+            },
+            {
+                "assignedDate": "2018-05-08T16:49:47.543Z",
+                "dateModified": "2018-05-08T16:49:47.543Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:49:47.543Z",
+                "contactId": 29203436,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T16:49:47.543Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56209416
+            },
+            {
+                "assignedDate": "2018-05-08T16:49:48.223Z",
+                "dateModified": "2018-05-08T16:49:48.223Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:49:48.223Z",
+                "contactId": 29203436,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T16:49:48.223Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56209417
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27403057,
+                "description": null,
+                "emailAddress": "himtest@viercore.com",
+                "dateModified": "2018-05-08T16:40:07.970Z",
+                "dateCreated": "2018-05-08T16:40:07.970Z",
+                "contactId": 29203058,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Name: Release the kraken \nphone: 5032050901 \nemail: himtest@viercore.com \nMLS: ABOR\nMLS#: 9233396\nProperty address: 1000 County Road 481 Thrall TX",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T16:40:10.043Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5032050901",
+                "phoneNumberId": 40232174,
+                "label": "primary",
+                "dateModified": "2018-05-08T16:40:07.667Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T16:40:07.667Z",
+                "contactId": 29203058
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5032050901",
+        "firstName": "Release the kraken",
+        "dateCreated": "2018-05-08T16:40:07.457Z",
+        "contactId": 29203058,
+        "physicalAddresses": [
+            {
+                "city": "Thrall",
+                "contactAddressId": 29203058,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T16:40:10.043Z",
+                "zipCode": "76578",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T16:40:07.457Z",
+                "contactId": 29203058,
+                "address": "1000 County Road 481"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T16:40:08.417Z",
+                "dateModified": "2018-05-08T16:40:08.417Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:40:08.417Z",
+                "contactId": 29203058,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T16:40:08.417Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 56208806
+            },
+            {
+                "assignedDate": "2018-05-08T16:40:08.420Z",
+                "dateModified": "2018-05-08T16:40:08.420Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:40:08.420Z",
+                "contactId": 29203058,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T16:40:08.420Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56208807
+            },
+            {
+                "assignedDate": "2018-05-08T16:40:09.107Z",
+                "dateModified": "2018-05-08T16:40:09.107Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:40:09.107Z",
+                "contactId": 29203058,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T16:40:09.107Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56208809
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27402930,
+                "description": null,
+                "emailAddress": "himtest@dreicore.com",
+                "dateModified": "2018-05-08T16:33:20.223Z",
+                "dateCreated": "2018-05-08T16:33:20.223Z",
+                "contactId": 29202912,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Name: Release the kraken \nphone: 5032050901 \nemail: himtest@dreicore.com \nMLS: ABOR\nMLS#: 9233396\nProperty address: 1000 County Road 481 Thrall TX",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T16:33:22.650Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5032050901",
+                "phoneNumberId": 40232031,
+                "label": "primary",
+                "dateModified": "2018-05-08T16:33:19.920Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T16:33:19.920Z",
+                "contactId": 29202912
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5032050901",
+        "firstName": "Release the kraken",
+        "dateCreated": "2018-05-08T16:33:19.713Z",
+        "contactId": 29202912,
+        "physicalAddresses": [
+            {
+                "city": "Thrall",
+                "contactAddressId": 29202912,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T16:33:22.650Z",
+                "zipCode": "76578",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T16:33:19.713Z",
+                "contactId": 29202912,
+                "address": "1000 County Road 481"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T16:33:20.710Z",
+                "dateModified": "2018-05-08T16:33:20.710Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:33:20.710Z",
+                "contactId": 29202912,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T16:33:20.710Z",
+                "userId": 144718,
+                "communicationStatus": "active",
+                "associatedUserId": 56208558
+            },
+            {
+                "assignedDate": "2018-05-08T16:33:20.727Z",
+                "dateModified": "2018-05-08T16:33:20.727Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:33:20.727Z",
+                "contactId": 29202912,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T16:33:20.727Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56208559
+            },
+            {
+                "assignedDate": "2018-05-08T16:33:21.357Z",
+                "dateModified": "2018-05-08T16:33:21.357Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:33:21.357Z",
+                "contactId": 29202912,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T16:33:21.357Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56208560
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27402857,
+                "description": null,
+                "emailAddress": "teotest@zweicore.com",
+                "dateModified": "2018-05-08T16:29:33.340Z",
+                "dateCreated": "2018-05-08T16:29:33.340Z",
+                "contactId": 29202836,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Name: TULSA  teO \nphone: 5032050901 \nemail: teotest@zweicore.com \nMLS: ABOR\nMLS#: 9233396\nProperty address: 1000 County Road 481 Thrall TX",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T16:29:35.443Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5032050901",
+                "phoneNumberId": 40231953,
+                "label": "primary",
+                "dateModified": "2018-05-08T16:29:33.027Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T16:29:33.027Z",
+                "contactId": 29202836
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5032050901",
+        "firstName": "TULSA  teO",
+        "dateCreated": "2018-05-08T16:29:32.827Z",
+        "contactId": 29202836,
+        "physicalAddresses": [
+            {
+                "city": "Thrall",
+                "contactAddressId": 29202836,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-08T16:29:35.443Z",
+                "zipCode": "76578",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T16:29:32.827Z",
+                "contactId": 29202836,
+                "address": "1000 County Road 481"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T16:29:33.767Z",
+                "dateModified": "2018-05-08T16:29:33.767Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:29:33.767Z",
+                "contactId": 29202836,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T16:29:33.767Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56208434
+            },
+            {
+                "assignedDate": "2018-05-08T16:29:33.780Z",
+                "dateModified": "2018-05-08T16:29:33.780Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:29:33.780Z",
+                "contactId": 29202836,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T16:29:33.780Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56208435
+            },
+            {
+                "assignedDate": "2018-05-08T16:29:34.410Z",
+                "dateModified": "2018-05-08T16:29:34.410Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:29:34.410Z",
+                "contactId": 29202836,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T16:29:34.410Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56208436
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27402577,
+                "description": null,
+                "emailAddress": "test@testies.com",
+                "dateModified": "2018-05-09T23:13:09.417Z",
+                "dateCreated": "2018-05-08T16:15:00.987Z",
+                "contactId": 29202549,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "invalidAddress"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "description too long",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T23:13:09.420Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5532241946",
+                "phoneNumberId": 40231658,
+                "label": "primary",
+                "dateModified": "2018-05-08T16:15:00.660Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T16:15:00.660Z",
+                "contactId": 29202549
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "5532241946",
+        "firstName": "mr Anderson",
+        "dateCreated": "2018-05-08T16:15:00.453Z",
+        "contactId": 29202549,
+        "physicalAddresses": [
+            {
+                "city": "Demoville",
+                "contactAddressId": 29202549,
+                "state": "OH",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-09T23:13:09.420Z",
+                "zipCode": "40000",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-08T16:15:00.453Z",
+                "contactId": 29202549,
+                "address": "1357 Maple St."
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T16:15:01.417Z",
+                "dateModified": "2018-05-08T16:15:01.417Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:15:01.417Z",
+                "contactId": 29202549,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T16:15:01.417Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 56207973
+            },
+            {
+                "assignedDate": "2018-05-08T16:15:01.387Z",
+                "dateModified": "2018-05-08T16:15:01.387Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:15:01.387Z",
+                "contactId": 29202549,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T16:15:01.387Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56207972
+            },
+            {
+                "assignedDate": "2018-05-08T16:15:02.183Z",
+                "dateModified": "2018-05-08T16:15:02.183Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:15:02.183Z",
+                "contactId": 29202549,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T16:15:02.183Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56207974
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27402552,
+                "description": null,
+                "emailAddress": "lord@mail.com",
+                "dateModified": "2018-05-09T14:59:57.600Z",
+                "dateCreated": "2018-05-08T16:13:42.323Z",
+                "contactId": 29202525,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: First visit (initial sign-up)Name: Ben HarperPhone: 808-817-2382",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-09T14:59:57.600Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "808-817-2382",
+                "phoneNumberId": 40231633,
+                "label": "primary",
+                "dateModified": "2018-05-08T16:13:41.983Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T16:13:41.983Z",
+                "contactId": 29202525
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "amazon",
+        "firstName": "Frederick",
+        "dateCreated": "2018-05-08T16:13:41.707Z",
+        "contactId": 29202525,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T16:13:42.710Z",
+                "dateModified": "2018-05-09T14:59:44.360Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:13:42.710Z",
+                "contactId": 29202525,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T16:13:42.710Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 56207939
+            },
+            {
+                "assignedDate": "2018-05-08T16:13:42.727Z",
+                "dateModified": "2018-05-09T14:59:44.367Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:13:42.727Z",
+                "contactId": 29202525,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T16:13:42.727Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56207940
+            },
+            {
+                "assignedDate": "2018-05-08T16:13:43.377Z",
+                "dateModified": "2018-05-09T14:59:44.367Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:13:43.377Z",
+                "contactId": 29202525,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T16:13:43.377Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56207942
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27402330,
+                "description": null,
+                "emailAddress": "garegare@mail.com",
+                "dateModified": "2018-05-08T16:04:40.480Z",
+                "dateCreated": "2018-05-08T16:01:48.957Z",
+                "contactId": 29202286,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: First visit (initial sign-up)Name: Ben HarperPhone: 808-817-2382",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T16:05:29.607Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "808-817-2382",
+                "phoneNumberId": 40231390,
+                "label": "primary",
+                "dateModified": "2018-05-08T16:01:48.660Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-08T16:01:48.660Z",
+                "contactId": 29202286
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "Gordon",
+        "firstName": "Gordon",
+        "dateCreated": "2018-05-08T16:01:48.440Z",
+        "contactId": 29202286,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-08T16:01:49.387Z",
+                "dateModified": "2018-05-08T16:05:29.603Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:01:49.387Z",
+                "contactId": 29202286,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T16:01:49.387Z",
+                "userId": 144718,
+                "communicationStatus": "active",
+                "associatedUserId": 56207538
+            },
+            {
+                "assignedDate": "2018-05-08T16:01:49.443Z",
+                "dateModified": "2018-05-08T16:05:29.607Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:01:49.443Z",
+                "contactId": 29202286,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T16:01:49.443Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56207539
+            },
+            {
+                "assignedDate": "2018-05-08T16:01:50.070Z",
+                "dateModified": "2018-05-08T16:05:29.607Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-08T16:01:50.070Z",
+                "contactId": 29202286,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-08T16:01:50.070Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56207540
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27386388,
+                "description": null,
+                "emailAddress": "gnu@google.com",
+                "dateModified": "2018-05-07T20:32:28.917Z",
+                "dateCreated": "2018-05-07T20:32:28.917Z",
+                "contactId": 29184919,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T15:30:01.827Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "12444567890",
+                "phoneNumberId": 40215225,
+                "label": "primary",
+                "dateModified": "2018-05-07T20:32:28.607Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-07T20:32:28.607Z",
+                "contactId": 29184919
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "12444567890",
+        "firstName": "Teo licoln",
+        "dateCreated": "2018-05-07T20:32:28.363Z",
+        "contactId": 29184919,
+        "physicalAddresses": [
+            {
+                "city": "Thrall",
+                "contactAddressId": 29184919,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-07T20:32:45.980Z",
+                "zipCode": "76578",
+                "addressChangedByUserId": 144717,
+                "dateCreated": "2018-05-07T20:32:28.363Z",
+                "contactId": 29184919,
+                "address": "1000 County Road 481"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-07T20:32:29.340Z",
+                "dateModified": "2018-05-08T15:30:01.820Z",
+                "contactCategory": "trash",
+                "dateCreated": "2018-05-07T20:32:29.340Z",
+                "contactId": 29184919,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-08T15:30:01.820Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56179439
+            },
+            {
+                "assignedDate": "2018-05-07T20:32:29.387Z",
+                "dateModified": "2018-05-08T15:30:01.827Z",
+                "contactCategory": "trash",
+                "dateCreated": "2018-05-07T20:32:29.387Z",
+                "contactId": 29184919,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T15:30:01.827Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56179440
+            },
+            {
+                "assignedDate": "2018-05-07T20:32:30.043Z",
+                "dateModified": "2018-05-07T20:32:30.043Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T20:32:30.043Z",
+                "contactId": 29184919,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-07T20:32:30.043Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56179441
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27379737,
+                "description": null,
+                "emailAddress": "nrorma@mail.com",
+                "dateModified": "2018-05-08T15:55:46.257Z",
+                "dateCreated": "2018-05-07T17:27:35.490Z",
+                "contactId": 29178036,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Message: First visit (initial sign-up)Name: Ben HarperPhone: 808-817-2382",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T15:56:39.193Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "908-817-2382",
+                "phoneNumberId": 40208277,
+                "label": "primary",
+                "dateModified": "2018-05-08T15:55:37.783Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-07T17:27:35.197Z",
+                "contactId": 29178036
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "Gonzalez",
+        "firstName": "Norma",
+        "dateCreated": "2018-05-07T17:27:34.977Z",
+        "contactId": 29178036,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-07T17:27:35.927Z",
+                "dateModified": "2018-05-08T15:56:39.190Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:27:35.927Z",
+                "contactId": 29178036,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-07T17:27:35.927Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 56170050
+            },
+            {
+                "assignedDate": "2018-05-07T17:27:35.977Z",
+                "dateModified": "2018-05-08T15:56:39.190Z",
+                "contactCategory": "trash",
+                "dateCreated": "2018-05-07T17:27:35.977Z",
+                "contactId": 29178036,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-08T15:33:42.253Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56170051
+            },
+            {
+                "assignedDate": "2018-05-07T17:27:36.627Z",
+                "dateModified": "2018-05-08T15:56:39.193Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:27:36.627Z",
+                "contactId": 29178036,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-07T17:27:36.627Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56170052
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": "this is a new people",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-08T14:38:19.267Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "5523429164",
+                "phoneNumberId": 40207805,
+                "label": "phone",
+                "dateModified": "2018-05-07T17:07:24.437Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-07T17:07:24.437Z",
+                "contactId": 29177442
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "Spielberg2",
+        "firstName": "Steve2n",
+        "dateCreated": "2018-05-07T17:07:24.227Z",
+        "contactId": 29177442,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-07T17:07:25.283Z",
+                "dateModified": "2018-05-07T17:07:25.283Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:07:25.283Z",
+                "contactId": 29177442,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-07T17:07:25.283Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 56169061
+            },
+            {
+                "assignedDate": "2018-05-07T17:07:25.273Z",
+                "dateModified": "2018-05-07T17:07:25.273Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:07:25.273Z",
+                "contactId": 29177442,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-07T17:07:25.273Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56169060
+            },
+            {
+                "assignedDate": "2018-05-07T17:07:25.963Z",
+                "dateModified": "2018-05-07T17:07:25.963Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:07:25.963Z",
+                "contactId": 29177442,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-07T17:07:25.963Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56169062
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": "this is a new people",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-07T17:05:44.640Z",
+        "phoneNumbers": [],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "Spielberg",
+        "firstName": "Steven",
+        "dateCreated": "2018-05-07T17:05:39.437Z",
+        "contactId": 29177403,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-07T17:05:40.433Z",
+                "dateModified": "2018-05-07T17:05:40.433Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:05:40.433Z",
+                "contactId": 29177403,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-07T17:05:40.433Z",
+                "userId": 144718,
+                "communicationStatus": "active",
+                "associatedUserId": 56169000
+            },
+            {
+                "assignedDate": "2018-05-07T17:05:40.393Z",
+                "dateModified": "2018-05-07T17:05:40.393Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:05:40.393Z",
+                "contactId": 29177403,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-07T17:05:40.393Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56168998
+            },
+            {
+                "assignedDate": "2018-05-07T17:05:41.143Z",
+                "dateModified": "2018-05-07T17:05:41.143Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:05:41.143Z",
+                "contactId": 29177403,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-07T17:05:41.143Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56169001
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-07T17:02:24.177Z",
+        "phoneNumbers": [],
+        "orgId": 4922,
+        "sourceName": "RealGeeks",
+        "lastName": "Gabriel",
+        "firstName": "Peter",
+        "dateCreated": "2018-05-07T17:02:21.560Z",
+        "contactId": 29177317,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-07T17:02:22.573Z",
+                "dateModified": "2018-05-07T17:02:22.573Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:02:22.573Z",
+                "contactId": 29177317,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-07T17:02:22.573Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56168866
+            },
+            {
+                "assignedDate": "2018-05-07T17:02:22.543Z",
+                "dateModified": "2018-05-07T17:02:22.543Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:02:22.543Z",
+                "contactId": 29177317,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-07T17:02:22.543Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56168865
+            },
+            {
+                "assignedDate": "2018-05-07T17:02:23.203Z",
+                "dateModified": "2018-05-07T17:02:23.203Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-07T17:02:23.203Z",
+                "contactId": 29177317,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-07T17:02:23.203Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56168867
+            }
+        ],
+        "sourceId": "REALGEEKS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27290101,
+                "description": null,
+                "emailAddress": "ttest@example.com",
+                "dateModified": "2018-05-03T18:32:20.200Z",
+                "dateCreated": "2018-05-03T18:32:19.907Z",
+                "contactId": 29081354,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            },
+            {
+                "emailAddressId": 27290109,
+                "description": null,
+                "emailAddress": "ttest@example.com",
+                "dateModified": "2018-05-03T18:33:01.677Z",
+                "dateCreated": "2018-05-03T18:33:01.677Z",
+                "contactId": 29081354,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "Updated",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-03T18:33:02.740Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "111-222-4444",
+                "phoneNumberId": 40115289,
+                "label": "",
+                "dateModified": "2018-05-03T18:33:01.673Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-05-03T18:33:01.673Z",
+                "contactId": 29081354
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "Spacio",
+        "lastName": "Tester",
+        "firstName": "Truman",
+        "dateCreated": "2018-05-03T18:29:17.310Z",
+        "contactId": 29081354,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-05-03T18:29:18.400Z",
+                "dateModified": "2018-05-03T18:29:18.400Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-03T18:29:18.400Z",
+                "contactId": 29081354,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-05-03T18:29:18.400Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 56008398
+            },
+            {
+                "assignedDate": "2018-05-03T18:29:18.397Z",
+                "dateModified": "2018-05-03T18:29:18.397Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-03T18:29:18.397Z",
+                "contactId": 29081354,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-05-03T18:29:18.397Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 56008397
+            },
+            {
+                "assignedDate": "2018-05-03T18:29:19.067Z",
+                "dateModified": "2018-05-03T18:29:19.067Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-05-03T18:29:19.067Z",
+                "contactId": 29081354,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-05-03T18:29:19.067Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 56008399
+            }
+        ],
+        "sourceId": "SPACIO",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27236134,
+                "description": "",
+                "emailAddress": "nico_test@hotmail.com",
+                "dateModified": "2018-04-30T22:23:19.090Z",
+                "dateCreated": "2018-04-30T22:21:44.873Z",
+                "contactId": 29016531,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-30T22:28:42.033Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "817-691-1294",
+                "phoneNumberId": 40053269,
+                "label": "mobile",
+                "dateModified": "2018-04-30T22:28:39.710Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-04-30T22:28:39.710Z",
+                "contactId": 29016531
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "Lead",
+        "firstName": "Test",
+        "dateCreated": "2018-04-30T22:21:44.347Z",
+        "contactId": 29016531,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-30T22:21:45.777Z",
+                "dateModified": "2018-04-30T22:23:30.473Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-30T22:21:45.777Z",
+                "contactId": 29016531,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-30T22:21:45.777Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55902499
+            },
+            {
+                "assignedDate": "2018-04-30T22:21:45.817Z",
+                "dateModified": "2018-04-30T22:23:30.477Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-30T22:21:45.817Z",
+                "contactId": 29016531,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-30T22:21:45.817Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55902500
+            },
+            {
+                "assignedDate": "2018-04-30T22:21:47.013Z",
+                "dateModified": "2018-04-30T22:23:30.477Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-30T22:21:47.013Z",
+                "contactId": 29016531,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-30T22:21:47.013Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55902501
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27163524,
+                "description": null,
+                "emailAddress": "avitest1@gmail.com",
+                "dateModified": "2018-04-27T12:25:57.940Z",
+                "dateCreated": "2018-04-27T12:25:57.543Z",
+                "contactId": 28938437,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-27T13:38:01.847Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "",
+                "phoneNumberId": 39981092,
+                "label": "",
+                "dateModified": "2018-04-27T12:25:57.477Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-27T12:25:57.477Z",
+                "contactId": 28938437
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "2x Referrals",
+        "lastName": "AviLast1",
+        "firstName": "Avitest1",
+        "dateCreated": "2018-04-27T09:15:15.130Z",
+        "contactId": 28938437,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-27T09:15:15.183Z",
+                "dateModified": "2018-04-27T09:15:15.187Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-27T09:15:15.187Z",
+                "contactId": 28938437,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-27T09:15:15.183Z",
+                "userId": 139553,
+                "communicationStatus": "active",
+                "associatedUserId": 55779852
+            }
+        ],
+        "sourceId": "2XREFERRALS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27162622,
+                "description": null,
+                "emailAddress": "user@test.com",
+                "dateModified": "2018-04-27T08:44:00.250Z",
+                "dateCreated": "2018-04-27T08:44:00.243Z",
+                "contactId": 28938376,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-27T09:12:16.510Z",
+        "phoneNumbers": [],
+        "orgId": 4922,
+        "sourceName": "2ownahome.com",
+        "lastName": "DummyLast",
+        "firstName": "DummyTest",
+        "dateCreated": "2018-04-27T08:44:00.100Z",
+        "contactId": 28938376,
+        "physicalAddresses": [
+            {
+                "city": "NGP",
+                "contactAddressId": 28938376,
+                "state": "AK",
+                "addressEntryType": "agentEntered",
+                "dateModified": "2018-04-27T09:12:16.510Z",
+                "zipCode": "",
+                "addressChangedByUserId": 135047,
+                "dateCreated": "2018-04-27T08:44:00.100Z",
+                "contactId": 28938376,
+                "address": ""
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-27T08:44:00.657Z",
+                "dateModified": "2018-04-27T08:44:00.660Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-27T08:44:00.660Z",
+                "contactId": 28938376,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-27T08:44:00.657Z",
+                "userId": 139553,
+                "communicationStatus": "active",
+                "associatedUserId": 55779745
+            }
+        ],
+        "sourceId": "2OWNAHOME",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27234487,
+                "description": "",
+                "emailAddress": "test_nico@hotmail.com",
+                "dateModified": "2018-04-30T22:20:45.243Z",
+                "dateCreated": "2018-04-30T20:54:16.280Z",
+                "contactId": 28911864,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-30T22:20:45.243Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "310-439-8198",
+                "phoneNumberId": 40053070,
+                "label": "",
+                "dateModified": "2018-04-30T22:16:36.247Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-04-30T22:16:36.247Z",
+                "contactId": 28911864
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "Aceto",
+        "firstName": "Martin",
+        "dateCreated": "2018-04-26T01:40:50.257Z",
+        "contactId": 28911864,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-26T01:40:51.883Z",
+                "dateModified": "2018-04-26T01:40:51.883Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:40:51.883Z",
+                "contactId": 28911864,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-26T01:40:51.883Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55737760
+            },
+            {
+                "assignedDate": "2018-04-26T01:40:51.877Z",
+                "dateModified": "2018-04-26T01:40:51.877Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:40:51.877Z",
+                "contactId": 28911864,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-26T01:40:51.877Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55737759
+            },
+            {
+                "assignedDate": "2018-04-26T01:40:53.257Z",
+                "dateModified": "2018-04-26T01:40:53.257Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:40:53.257Z",
+                "contactId": 28911864,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-26T01:40:53.257Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55737761
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-26T01:39:05.467Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "310-439-8195",
+                "phoneNumberId": 39954715,
+                "label": "voip",
+                "dateModified": "2018-04-26T01:39:00.913Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-04-26T01:39:00.913Z",
+                "contactId": 28911846
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "Aceto",
+        "firstName": "Martin",
+        "dateCreated": "2018-04-26T01:39:00.717Z",
+        "contactId": 28911846,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-26T01:39:03.443Z",
+                "dateModified": "2018-04-26T01:39:03.443Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:39:03.443Z",
+                "contactId": 28911846,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-26T01:39:03.443Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 55737726
+            },
+            {
+                "assignedDate": "2018-04-26T01:39:02.263Z",
+                "dateModified": "2018-04-26T01:39:02.263Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:39:02.263Z",
+                "contactId": 28911846,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-26T01:39:02.263Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55737725
+            },
+            {
+                "assignedDate": "2018-04-26T01:39:04.110Z",
+                "dateModified": "2018-04-26T01:39:04.110Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:39:04.110Z",
+                "contactId": 28911846,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-26T01:39:04.110Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55737727
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-26T01:36:17.160Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "310-439-8190",
+                "phoneNumberId": 39954675,
+                "label": "voip",
+                "dateModified": "2018-04-26T01:36:12.463Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-04-26T01:36:12.463Z",
+                "contactId": 28911806
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "Aceto",
+        "firstName": "Martin",
+        "dateCreated": "2018-04-26T01:36:12.243Z",
+        "contactId": 28911806,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-26T01:36:13.727Z",
+                "dateModified": "2018-04-26T01:36:13.727Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:36:13.727Z",
+                "contactId": 28911806,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-26T01:36:13.727Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55737662
+            },
+            {
+                "assignedDate": "2018-04-26T01:36:14.857Z",
+                "dateModified": "2018-04-26T01:36:14.857Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:36:14.857Z",
+                "contactId": 28911806,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-26T01:36:14.857Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 55737663
+            },
+            {
+                "assignedDate": "2018-04-26T01:36:15.513Z",
+                "dateModified": "2018-04-26T01:36:15.513Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-26T01:36:15.513Z",
+                "contactId": 28911806,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-26T01:36:15.513Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55737665
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27097258,
+                "description": null,
+                "emailAddress": "saurabh.kandpal1@theblueflamelabs.com",
+                "dateModified": "2018-04-24T10:58:58.050Z",
+                "dateCreated": "2018-04-24T10:23:34.950Z",
+                "contactId": 28864619,
+                "isPrimary": false,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            },
+            {
+                "emailAddressId": 27097336,
+                "description": null,
+                "emailAddress": "saurabh.kandpal1@theblueflamelabs.com",
+                "dateModified": "2018-04-24T10:58:58.050Z",
+                "dateCreated": "2018-04-24T10:46:56.667Z",
+                "contactId": 28864619,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "unknown"
+            },
+            {
+                "emailAddressId": 27097375,
+                "description": null,
+                "emailAddress": "saurabh.kandpal1@theblueflamelabs.com",
+                "dateModified": "2018-04-24T10:58:57.950Z",
+                "dateCreated": "2018-04-24T10:58:57.950Z",
+                "contactId": 28864619,
+                "isPrimary": true,
+                "isLogin": false,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-24T17:49:33.960Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "(757) 923-4576",
+                "phoneNumberId": 39912838,
+                "label": "",
+                "dateModified": "2018-04-24T10:58:57.847Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-24T10:58:57.847Z",
+                "contactId": 28864619
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "2x Referrals",
+        "lastName": "Test3",
+        "firstName": "Saurabh",
+        "dateCreated": "2018-04-24T09:03:56.863Z",
+        "contactId": 28864619,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-24T17:49:33.967Z",
+                "dateModified": "2018-04-24T17:49:33.960Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-24T09:03:56.997Z",
+                "contactId": 28864619,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-24T09:03:56.997Z",
+                "userId": 144718,
+                "communicationStatus": "active",
+                "associatedUserId": 55664774
+            }
+        ],
+        "sourceId": "2XREFERRALS",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27024682,
+                "description": null,
+                "emailAddress": "marcjacob@test.com",
+                "dateModified": "2018-05-01T20:59:36.023Z",
+                "dateCreated": "2018-04-20T10:05:36.347Z",
+                "contactId": 28788536,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27024688,
+                "description": null,
+                "emailAddress": "marcjacob@test.com",
+                "dateModified": "2018-05-01T20:59:36.023Z",
+                "dateCreated": "2018-04-20T10:06:47.767Z",
+                "contactId": 28788536,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27024691,
+                "description": null,
+                "emailAddress": "marcjacob@test.com",
+                "dateModified": "2018-05-01T20:59:36.023Z",
+                "dateCreated": "2018-04-20T10:07:37.863Z",
+                "contactId": 28788536,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27024696,
+                "description": null,
+                "emailAddress": "marcjacob@test.com",
+                "dateModified": "2018-05-01T20:59:36.023Z",
+                "dateCreated": "2018-04-20T10:08:02.223Z",
+                "contactId": 28788536,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27024697,
+                "description": null,
+                "emailAddress": "marcjacob@test.com",
+                "dateModified": "2018-05-01T20:59:36.023Z",
+                "dateCreated": "2018-04-20T10:08:42.900Z",
+                "contactId": 28788536,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-01T20:59:36.023Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "",
+                "phoneNumberId": 39837901,
+                "label": "",
+                "dateModified": "2018-04-20T10:08:42.907Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-20T10:08:42.907Z",
+                "contactId": 28788536
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "AdWerx",
+        "lastName": "Kor",
+        "firstName": "Michel",
+        "dateCreated": "2018-04-20T10:05:35.747Z",
+        "contactId": 28788536,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-20T10:11:14.647Z",
+                "dateModified": "2018-04-20T10:11:14.917Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-20T10:05:37.153Z",
+                "contactId": 28788536,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-20T10:05:37.153Z",
+                "userId": 133941,
+                "communicationStatus": "active",
+                "associatedUserId": 55538145
+            },
+            {
+                "assignedDate": "2018-04-20T10:05:37.153Z",
+                "dateModified": "2018-04-20T10:05:37.157Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-20T10:05:37.157Z",
+                "contactId": 28788536,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-20T10:05:37.153Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55538146
+            }
+        ],
+        "sourceId": "ADWERX",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27024649,
+                "description": null,
+                "emailAddress": "Test234@test.com",
+                "dateModified": "2018-04-20T18:53:45.800Z",
+                "dateCreated": "2018-04-20T09:57:21.880Z",
+                "contactId": 28788503,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27024663,
+                "description": null,
+                "emailAddress": "test234@test.com",
+                "dateModified": "2018-04-20T18:53:45.800Z",
+                "dateCreated": "2018-04-20T10:01:08.710Z",
+                "contactId": 28788503,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-20T18:53:45.800Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "",
+                "phoneNumberId": 39837860,
+                "label": "",
+                "dateModified": "2018-04-20T10:01:08.650Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-20T10:01:08.650Z",
+                "contactId": 28788503
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "Agent Jet",
+        "lastName": "test Last name",
+        "firstName": "Test First Name",
+        "dateCreated": "2018-04-20T09:57:21.837Z",
+        "contactId": 28788503,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-20T09:57:21.900Z",
+                "dateModified": "2018-04-20T09:57:21.900Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-20T09:57:21.900Z",
+                "contactId": 28788503,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-20T09:57:21.900Z",
+                "userId": 139553,
+                "communicationStatus": "active",
+                "associatedUserId": 55538091
+            },
+            {
+                "assignedDate": "2018-04-20T09:57:21.907Z",
+                "dateModified": "2018-04-20T09:57:21.907Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-20T09:57:21.907Z",
+                "contactId": 28788503,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-20T09:57:21.907Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55538092
+            }
+        ],
+        "sourceId": "AGENT_JET",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27163508,
+                "description": null,
+                "emailAddress": "user1@BoomTownROI.com",
+                "dateModified": "2018-04-27T12:23:35.797Z",
+                "dateCreated": "2018-04-27T12:23:35.413Z",
+                "contactId": 28788422,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-27T13:35:51.717Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "9860461639",
+                "phoneNumberId": 39981077,
+                "label": "",
+                "dateModified": "2018-04-27T12:23:49.637Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-27T12:23:49.637Z",
+                "contactId": 28788422
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "2ownahome.com",
+        "lastName": "AviLast1",
+        "firstName": "Avitest1",
+        "dateCreated": "2018-04-20T09:29:14.473Z",
+        "contactId": 28788422,
+        "physicalAddresses": [
+            {
+                "city": "Pune",
+                "contactAddressId": 28788422,
+                "state": "TX",
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-04-27T13:35:51.717Z",
+                "zipCode": "75756",
+                "addressChangedByUserId": 135047,
+                "dateCreated": "2018-04-20T09:29:14.473Z",
+                "contactId": 28788422,
+                "address": "Street Road Alween sq"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-23T14:04:10.450Z",
+                "dateModified": "2018-04-23T14:04:10.450Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-20T09:29:14.507Z",
+                "contactId": 28788422,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-20T09:29:14.507Z",
+                "userId": 133762,
+                "communicationStatus": "active",
+                "associatedUserId": 55537943
+            }
+        ],
+        "sourceId": "2OWNAHOME",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27025911,
+                "description": null,
+                "emailAddress": "test123@test.com",
+                "dateModified": "2018-04-20T19:18:27Z",
+                "dateCreated": "2018-04-20T13:03:18.943Z",
+                "contactId": 28788340,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "invalidAddress"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-27T08:19:21.137Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "",
+                "phoneNumberId": 39839143,
+                "label": "",
+                "dateModified": "2018-04-20T13:03:18.930Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-20T13:03:18.930Z",
+                "contactId": 28788340
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "2ownahome.com",
+        "lastName": "Last789",
+        "firstName": "TestAvi2",
+        "dateCreated": "2018-04-20T09:01:45.980Z",
+        "contactId": 28788340,
+        "physicalAddresses": [
+            {
+                "city": "Pune",
+                "contactAddressId": 28788340,
+                "state": "MH",
+                "addressEntryType": "agentEntered",
+                "dateModified": "2018-04-27T08:19:21.137Z",
+                "zipCode": "440025",
+                "addressChangedByUserId": 135047,
+                "dateCreated": "2018-04-20T09:01:45.980Z",
+                "contactId": 28788340,
+                "address": "pune City"
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-20T09:01:47.220Z",
+                "dateModified": "2018-04-20T09:01:47.240Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-20T09:01:47.240Z",
+                "contactId": 28788340,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-20T09:01:47.220Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55537808
+            }
+        ],
+        "sourceId": "2OWNAHOME",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27026722,
+                "description": null,
+                "emailAddress": "test@test.com",
+                "dateModified": "2018-05-01T20:59:38.980Z",
+                "dateCreated": "2018-04-20T13:54:02.110Z",
+                "contactId": 28776240,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27026729,
+                "description": null,
+                "emailAddress": "test@test.com",
+                "dateModified": "2018-05-01T20:59:38.980Z",
+                "dateCreated": "2018-04-20T13:54:55.030Z",
+                "contactId": 28776240,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-01T20:59:38.980Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "",
+                "phoneNumberId": 39840038,
+                "label": "",
+                "dateModified": "2018-04-20T13:54:54.853Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-20T13:54:54.853Z",
+                "contactId": 28776240
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "33 Touch",
+        "lastName": "Last9",
+        "firstName": "TestAvi2",
+        "dateCreated": "2018-04-19T20:29:40.563Z",
+        "contactId": 28776240,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-19T20:29:40.623Z",
+                "dateModified": "2018-04-19T20:29:40.623Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-19T20:29:40.623Z",
+                "contactId": 28776240,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-19T20:29:40.623Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 55520062
+            },
+            {
+                "assignedDate": "2018-04-19T20:29:40.627Z",
+                "dateModified": "2018-04-19T20:29:40.627Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-19T20:29:40.627Z",
+                "contactId": 28776240,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-19T20:29:40.627Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55520063
+            }
+        ],
+        "sourceId": "33TOUCH",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 27008909,
+                "description": null,
+                "emailAddress": "avi@test.com",
+                "dateModified": "2018-05-01T20:59:36.037Z",
+                "dateCreated": "2018-04-19T18:07:01.757Z",
+                "contactId": 28772128,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27027120,
+                "description": null,
+                "emailAddress": "avi@test.com",
+                "dateModified": "2018-05-01T20:59:36.037Z",
+                "dateCreated": "2018-04-20T14:16:42.640Z",
+                "contactId": 28772128,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27027150,
+                "description": null,
+                "emailAddress": "avi@test.com",
+                "dateModified": "2018-05-01T20:59:36.037Z",
+                "dateCreated": "2018-04-20T14:18:20.557Z",
+                "contactId": 28772128,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27027186,
+                "description": null,
+                "emailAddress": "avi@test.com",
+                "dateModified": "2018-05-01T20:59:36.037Z",
+                "dateCreated": "2018-04-20T14:19:45.767Z",
+                "contactId": 28772128,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27027194,
+                "description": null,
+                "emailAddress": "avi@test.com",
+                "dateModified": "2018-05-01T20:59:36.037Z",
+                "dateCreated": "2018-04-20T14:20:13.130Z",
+                "contactId": 28772128,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            },
+            {
+                "emailAddressId": 27027207,
+                "description": null,
+                "emailAddress": "avi@test.com",
+                "dateModified": "2018-05-01T20:59:36.037Z",
+                "dateCreated": "2018-04-20T14:21:10.733Z",
+                "contactId": 28772128,
+                "isPrimary": false,
+                "isLogin": false,
+                "emailAddressStatus": "invalidAddress"
+            }
+        ],
+        "socialProfiles": null,
+        "description": "",
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-05-01T20:59:36.037Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "",
+                "phoneNumberId": 39840549,
+                "label": "",
+                "dateModified": "2018-04-20T14:21:10.617Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-20T14:21:10.617Z",
+                "contactId": 28772128
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "Agent Harvest",
+        "lastName": "Last25",
+        "firstName": "TestAvi",
+        "dateCreated": "2018-04-19T18:07:01.727Z",
+        "contactId": 28772128,
+        "physicalAddresses": [
+            {
+                "city": "Pune",
+                "contactAddressId": 28772128,
+                "state": null,
+                "addressEntryType": "notSpecified",
+                "dateModified": "2018-05-01T20:59:35.907Z",
+                "zipCode": null,
+                "addressChangedByUserId": 135047,
+                "dateCreated": "2018-04-19T18:07:01.727Z",
+                "contactId": 28772128,
+                "address": null
+            }
+        ],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-19T18:07:01.787Z",
+                "dateModified": "2018-04-19T18:07:01.787Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-19T18:07:01.787Z",
+                "contactId": 28772128,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-19T18:07:01.787Z",
+                "userId": 133761,
+                "communicationStatus": "active",
+                "associatedUserId": 55513215
+            },
+            {
+                "assignedDate": "2018-04-19T18:07:01.790Z",
+                "dateModified": "2018-04-19T18:07:01.793Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-19T18:07:01.793Z",
+                "contactId": 28772128,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-19T18:07:01.790Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55513216
+            }
+        ],
+        "sourceId": "AGENT_HARVEST",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-26T23:07:51.530Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "614-886-3150",
+                "phoneNumberId": 39974858,
+                "label": "voip",
+                "dateModified": "2018-04-26T23:07:49.997Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-04-26T23:07:49.997Z",
+                "contactId": 28733883
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "Aceto",
+        "firstName": "Martin",
+        "dateCreated": "2018-04-17T22:31:16.980Z",
+        "contactId": 28733883,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-19T20:55:28.190Z",
+                "dateModified": "2018-04-19T20:55:28.190Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-17T22:31:18.487Z",
+                "contactId": 28733883,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-19T20:55:28.190Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55452958
+            },
+            {
+                "assignedDate": "2018-04-26T21:43:37.693Z",
+                "dateModified": "2018-04-26T21:43:37.693Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-17T22:31:18.507Z",
+                "contactId": 28733883,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-26T21:43:37.693Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55452959
+            },
+            {
+                "assignedDate": "2018-04-17T22:31:19.927Z",
+                "dateModified": "2018-04-17T22:31:19.927Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-17T22:31:19.927Z",
+                "contactId": 28733883,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-17T22:31:19.927Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55452960
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-17T22:26:14.230Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "856-295-9713",
+                "phoneNumberId": 39789665,
+                "label": "",
+                "dateModified": "2018-04-17T22:26:08.607Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-04-17T22:26:08.607Z",
+                "contactId": 28733796
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "Hays Sr",
+        "firstName": "J",
+        "dateCreated": "2018-04-17T22:26:08.377Z",
+        "contactId": 28733796,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-17T22:26:09.880Z",
+                "dateModified": "2018-04-17T22:26:09.880Z",
+                "contactCategory": "nurture",
+                "dateCreated": "2018-04-17T22:26:09.880Z",
+                "contactId": 28733796,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-17T22:26:09.880Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55452811
+            },
+            {
+                "assignedDate": "2018-04-17T22:26:09.880Z",
+                "dateModified": "2018-04-17T22:26:09.880Z",
+                "contactCategory": "nurture",
+                "dateCreated": "2018-04-17T22:26:09.880Z",
+                "contactId": 28733796,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-17T22:26:09.880Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55452810
+            },
+            {
+                "assignedDate": "2018-04-17T22:26:11.507Z",
+                "dateModified": "2018-04-17T22:26:11.507Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-17T22:26:11.507Z",
+                "contactId": 28733796,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-17T22:26:11.507Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55452812
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-16T02:15:05.657Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "617-657-4363",
+                "phoneNumberId": 39681045,
+                "label": "voip",
+                "dateModified": "2018-04-14T01:15:17.657Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-04-14T01:15:17.657Z",
+                "contactId": 28607160
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "name",
+        "firstName": "No",
+        "dateCreated": "2018-04-14T01:15:17.427Z",
+        "contactId": 28607160,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-14T01:15:18.927Z",
+                "dateModified": "2018-04-14T01:15:18.927Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-14T01:15:18.927Z",
+                "contactId": 28607160,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-14T01:15:18.927Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55253705
+            },
+            {
+                "assignedDate": "2018-04-14T01:15:20.083Z",
+                "dateModified": "2018-04-14T01:15:20.083Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-14T01:15:20.083Z",
+                "contactId": 28607160,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-14T01:15:20.083Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 55253707
+            },
+            {
+                "assignedDate": "2018-04-14T01:15:20.720Z",
+                "dateModified": "2018-04-14T01:15:20.720Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-14T01:15:20.720Z",
+                "contactId": 28607160,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-14T01:15:20.720Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55253708
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-13T22:28:22.103Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "805-399-4789",
+                "phoneNumberId": 39669813,
+                "label": "voip",
+                "dateModified": "2018-04-13T19:28:22.220Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-13T18:22:11.303Z",
+                "contactId": 28595633
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "Anderson",
+        "firstName": "H",
+        "dateCreated": "2018-04-13T18:22:11.087Z",
+        "contactId": 28595633,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-13T18:22:12.660Z",
+                "dateModified": "2018-04-13T18:22:12.660Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-13T18:22:12.660Z",
+                "contactId": 28595633,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-13T18:22:12.660Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55235408
+            },
+            {
+                "assignedDate": "2018-04-13T18:22:13.860Z",
+                "dateModified": "2018-04-13T18:22:13.860Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-13T18:22:13.860Z",
+                "contactId": 28595633,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-13T18:22:13.860Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 55235412
+            },
+            {
+                "assignedDate": "2018-04-13T18:22:14.610Z",
+                "dateModified": "2018-04-13T18:22:14.610Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-13T18:22:14.610Z",
+                "contactId": 28595633,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-13T18:22:14.610Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55235413
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 26854173,
+                "description": "",
+                "emailAddress": "rettharmon@hotmail.com",
+                "dateModified": "2018-04-13T14:47:35.357Z",
+                "dateCreated": "2018-04-13T14:47:35.357Z",
+                "contactId": 28591062,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-26T00:54:22.260Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "310-439-8188",
+                "phoneNumberId": 39954151,
+                "label": "voip",
+                "dateModified": "2018-04-26T00:54:21.270Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-04-26T00:54:21.270Z",
+                "contactId": 28591062
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "Aceto",
+        "firstName": "Martin",
+        "dateCreated": "2018-04-13T14:47:34.820Z",
+        "contactId": 28591062,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-13T14:47:36.383Z",
+                "dateModified": "2018-04-13T14:47:36.383Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-13T14:47:36.383Z",
+                "contactId": 28591062,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-13T14:47:36.383Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55227795
+            },
+            {
+                "assignedDate": "2018-04-13T14:47:37.493Z",
+                "dateModified": "2018-04-13T14:47:37.493Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-13T14:47:37.493Z",
+                "contactId": 28591062,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-13T14:47:37.493Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 55227796
+            },
+            {
+                "assignedDate": "2018-04-13T14:47:38.147Z",
+                "dateModified": "2018-04-13T14:47:38.147Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-13T14:47:38.147Z",
+                "contactId": 28591062,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-13T14:47:38.147Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55227798
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 26842783,
+                "description": "",
+                "emailAddress": "kristensmartrealestate@gmail.com",
+                "dateModified": "2018-04-12T21:34:37.823Z",
+                "dateCreated": "2018-04-12T21:34:37.823Z",
+                "contactId": 28579456,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-12T21:40:09.863Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "818-321-4612",
+                "phoneNumberId": 39653555,
+                "label": "mobile",
+                "dateModified": "2018-04-12T21:40:09.740Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-12T21:34:37.493Z",
+                "contactId": 28579456
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "name",
+        "firstName": "No",
+        "dateCreated": "2018-04-12T21:34:37.280Z",
+        "contactId": 28579456,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-12T21:34:39.037Z",
+                "dateModified": "2018-04-12T21:34:39.037Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-12T21:34:39.037Z",
+                "contactId": 28579456,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-12T21:34:39.037Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55208107
+            },
+            {
+                "assignedDate": "2018-04-12T21:34:40.243Z",
+                "dateModified": "2018-04-12T21:34:40.243Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-12T21:34:40.243Z",
+                "contactId": 28579456,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-12T21:34:40.243Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 55208110
+            },
+            {
+                "assignedDate": "2018-04-12T21:34:40.887Z",
+                "dateModified": "2018-04-12T21:34:40.887Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-12T21:34:40.887Z",
+                "contactId": 28579456,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-12T21:34:40.887Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55208111
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    },
+    {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "active",
+            "emailAddressStatus": "invalidAddress",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-04-12T20:38:45.677Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "612-702-7687",
+                "phoneNumberId": 39650561,
+                "label": "mobile",
+                "dateModified": "2018-04-12T20:38:45.557Z",
+                "phoneStatus": "active",
+                "dateCreated": "2018-04-12T20:32:13.857Z",
+                "contactId": 28575123
+            }
+        ],
+        "orgId": 4922,
+        "sourceName": "CallAction.co",
+        "lastName": "name",
+        "firstName": "No",
+        "dateCreated": "2018-04-12T20:32:13.647Z",
+        "contactId": 28575123,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-04-12T20:32:15.157Z",
+                "dateModified": "2018-04-12T20:32:15.157Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-12T20:32:15.157Z",
+                "contactId": 28575123,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-04-12T20:32:15.157Z",
+                "userId": 135047,
+                "communicationStatus": "active",
+                "associatedUserId": 55202272
+            },
+            {
+                "assignedDate": "2018-04-12T20:32:16.470Z",
+                "dateModified": "2018-04-12T20:32:16.470Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-12T20:32:16.470Z",
+                "contactId": 28575123,
+                "associatedUserType": "sellerAgent",
+                "categoryDate": "2018-04-12T20:32:16.470Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 55202274
+            },
+            {
+                "assignedDate": "2018-04-12T20:32:17.217Z",
+                "dateModified": "2018-04-12T20:32:17.217Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-04-12T20:32:17.217Z",
+                "contactId": 28575123,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-04-12T20:32:17.217Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 55202275
+            }
+        ],
+        "sourceId": "CALLACTION",
+        "contactOriginType": null
+    }
+]
