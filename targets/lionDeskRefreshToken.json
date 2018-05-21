@@ -1,0 +1,7 @@
+{
+"refresh_token": "b2374c372054e43c8da7c5ed681d8de880ee9762",
+"client_id": "liondesk",
+"client_secret": "16bd4b72a6d8ce845b834ca12b559c467cecac77",
+"redirect_uri": "https://www.mynewapp.com/liondesk/callback",
+"grant_type": "refresh_token"
+}
