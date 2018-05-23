@@ -1,4 +1,11 @@
 {
+    "liondesk":{
+        "loginUrl": "loginUri",
+        "userId": "lionid",
+        "password": "lionpass",
+        "username": "lion@.",
+        "securityToken": "lionsec"
+    },
     "voicepad": {
         "loginUrl" : "loginUri",
         "userId": "voicepadid",
