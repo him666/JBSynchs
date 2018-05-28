@@ -28,11 +28,5 @@
         "password": "",
         "username": "@..",
         "securityToken": ""
-    },
-    "wiseagent": {
-        "clientId": "",
-        "password": "",
-        "username": "@.",
-        "securityToken": ""
     }
 }

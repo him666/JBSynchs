@@ -68,5 +68,11 @@
         "password": "followpass",
         "username": "usernamefollow",
         "securityToken": "followSecTok"
+    },
+    "wiseagent": {
+        "clientId": "",
+        "password": "",
+        "username": "@.",
+        "securityToken": ""
     }
 }
