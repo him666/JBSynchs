@@ -1,0 +1,17 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "johndoe@server.com",
+  "password": "123456",
+  "emailStatus": "TwoWayEmailing",
+  "phone": "(123) 456-7890",
+  "phoneStatus": "TalkingToProspect",
+  "referralFee": true,
+  "sendRegistrationEmail": true,
+  "note": "Some note",
+  "assignTo": {
+    "agentSiteId": 123456,
+    "agentUserId": 234567,
+    "agentUserEmail": "agent@site.com"
+  }
+}
