@@ -8,6 +8,7 @@
   "phoneStatus": "TalkingToProspect",
   "referralFee": true,
   "sendRegistrationEmail": true,
+  "sourceType":"RealSynch",
   "note": "Some note",
   "assignTo": {
     "agentSiteId": 123456,
