@@ -71,10 +71,10 @@
     },
     "wiseagent": {
         "loginUrl": "loginUri",
-        "clientId": "",
-        "password": "",
-        "username": "@.",
-        "securityToken": ""
+        "clientId": "wiseid",
+        "password": "wisepass",
+        "username": "wise@.",
+        "securityToken": "wiseSecTok"
     }
     
 }
