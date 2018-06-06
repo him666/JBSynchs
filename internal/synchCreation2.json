@@ -1,6 +1,7 @@
 {
     "syncID": 1, 
-    "userToSyncsID": 20, 
+    "userToSyncsID": 20,
+    "userID": 15, 
     "sourceID": 15,
     "targetID": 17,
     "syncName": "VoicePad to Salesforce",
