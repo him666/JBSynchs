@@ -1,5 +1,6 @@
 {
     "userToSyncId": 136,
+    "type": "source",
     "credentials": {
         "provider": "voicepad",
         "loginUrl": "nourl",
