@@ -1,0 +1,16 @@
+{
+	"source": "required",
+	"email": "optional*",
+	"first_name": "optional*",
+	"last_name": "optional*",
+	"phone": "optional*",
+	"address": "optional*",
+	"city": "optional*",
+	"state": "optional*",
+	"zip": "optional",
+	"role": "optional",
+	"activities": [{
+		"type": "was_assigned",
+		"description": "Optional description"
+	}]
+}
