@@ -1,0 +1,29 @@
+{
+	"source": "required",
+	"source_details": "optional",
+	"email": "optional*",
+	"second_email": "optional*",
+	"first_name": "optional*",
+	"last_name": "optional*",
+	"phone": "optional*",
+	"phone2": "optional*",
+	"address": "optional*",
+	"street_address": "optional*",
+	"city": "optional*",
+	"state": "optional*",
+	"zip": "optional",
+	"role": "optional",
+	"activities": [{
+		"type": "was_assigned",
+		"user": {
+			"id": ""
+		},
+		"description": "Optional description"
+	}],
+	"region": "optional",
+	"created": "optional",
+	"timeframe": "optional",
+	"urgency": "optional",
+	"status": "optional",
+	"notes": "optional"
+}
