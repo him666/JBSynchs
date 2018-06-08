@@ -1,0 +1,19 @@
+{
+    "credentials":
+    [
+        {
+        "loginUrl": "loginUri",
+        "userId": "showcaseid",
+        "password": "showcasepass",
+        "username": "show@.",
+        "securityToken": "showcaseSectok"
+        },
+        {
+        "loginUrl": "loginUri",
+        "userId": "showcaseid",
+        "password": "showcasepass",
+        "username": "show@.",
+        "securityToken": "showcaseSectok"
+        }
+    ]
+}
