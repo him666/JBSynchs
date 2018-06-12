@@ -1,19 +1,22 @@
 {
-    "credentials":
-    [
+    "credentials": [
         {
-        "loginUrl": "loginUri",
-        "userId": "showcaseid",
-        "password": "showcasepass",
-        "username": "show@.",
-        "securityToken": "showcaseSectok"
+            "source": "",
+            "target": "",
+            "sync": {
+                "source": "",
+                "target": "",
+                "userToSyncsId": 255
+            }
         },
         {
-        "loginUrl": "loginUri",
-        "userId": "showcaseid",
-        "password": "showcasepass",
-        "username": "show@.",
-        "securityToken": "showcaseSectok"
+            "source": "",
+            "target": "",
+            "sync": {
+                "source": "",
+                "target": "",
+                "userToSyncsId": 255
+            }
         }
     ]
 }
