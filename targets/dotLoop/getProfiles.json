@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "total": 3
+    },
+    "data": [
+        {
+            "id": 11038689,
+            "name": "Mac Test",
+            "type": "INDIVIDUAL",
+            "company": "My Company",
+            "requiresTemplate": true
+        },
+        {
+            "id": 10958794,
+            "name": "Default Profile",
+            "type": "INDIVIDUAL",
+            "company": "RealSynch",
+            "phone": "",
+            "fax": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zipcode": "",
+            "country": "US",
+            "default": true
+        },
+        {
+            "id": 10959034,
+            "name": "Agent profile",
+            "type": "INDIVIDUAL"
+        }
+    ]
+}

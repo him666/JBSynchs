@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "total": 3
+    },
+    "data": [
+        {
+            "id": 16396,
+            "profileId": 9509063,
+            "name": "Offer",
+            "transactionType": "PURCHASE_OFFER",
+            "shared": true,
+            "global": false
+        },
+        {
+            "id": 28405,
+            "profileId": 9509063,
+            "name": "Listing Loop Template",
+            "transactionType": "LISTING_FOR_SALE",
+            "shared": true,
+            "global": false
+        },
+        {
+            "id": 39938,
+            "profileId": 9509063,
+            "name": "Lease Template",
+            "transactionType": "LISTING_FOR_LEASE",
+            "shared": true,
+            "global": false
+        }
+    ]
+}

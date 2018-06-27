@@ -1,0 +1,79 @@
+{
+	"Property Address": {
+		"Country": "",
+		"Street Number": "",
+		"Street Name": "",
+		"Unit Number": "",
+		"City": "",
+		"State/Prov": "",
+		"Zip/Postal Code": "",
+		"County": "",
+		"MLS Number": "",
+		"Parcel/Tax ID": ""
+	},
+	"Contract Dates": {
+		"Contract Agreement Date": "",
+		"Closing Date": ""
+	},
+	"Offer Dates": {
+		"Offer Date": "",
+		"Offer Expiration Date": "",
+		"Occupancy Date": ""
+	},
+	"Contract Info": {
+		"Class": "",
+		"Type": ""
+	},
+	"Referral": {
+		"Referral %": "",
+		"Referral Source": ""
+	},
+	"Listing Information": {
+		"Expiration Date": "",
+		"Listing Date": "",
+		"Original Price": "",
+		"Current Price": "",
+		"1st Mortgage Balance": "",
+		"2nd Mortgage Balance": "",
+		"Other Liens": "",
+		"Description of Other Liens": "",
+		"Homeowner's Association": "",
+		"Homeowner's Association Dues": "",
+		"Total Encumbrances": "",
+		"Property Includes": "",
+		"Property Excludes": "",
+		"Remarks": ""
+	},
+	"Geographic Description": {
+		"MLS Area": "",
+		"Legal Description": "",
+		"Map Grid": "",
+		"Subdivision": "",
+		"Lot": "",
+		"Deed Page": "",
+		"Deed Book": "",
+		"Section": "",
+		"Addition": "",
+		"Block": ""
+	},
+	"Property": {
+		"Year Built": "",
+		"Bedrooms": "",
+		"Square Footage": "",
+		"School District": "",
+		"Type": "",
+		"Bathrooms": "",
+		"Lot Size": ""
+	},
+	"Financials": {
+		"Purchase/Sale Price": "",
+		"Sale Commission Rate": "",
+		"Sale Commission Split % - Buy Side": "",
+		"Sale Commission Split % - Sell Side": "",
+		"Sale Commission Total": "",
+		"Earnest Money Amount": "",
+		"Earnest Money Held By": "",
+		"Sale Commission Split $ - Buy Side": "",
+		"Sale Commission Split $ - Sell Side": ""
+	}
+}
