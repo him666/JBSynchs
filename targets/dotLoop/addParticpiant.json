@@ -1,0 +1,31 @@
+{
+	"fullName": "",
+	"email": "",
+	"role": "",
+	"Street Name": "",
+	"Street Number": "",
+	"City": "",
+	"State/Prov": "",
+	"Zip/Postal Code": "",
+	"Unit Number": "",
+	"Country": "",
+	"Phone": "",
+	"Cell Phone": "",
+	"Company Name": ""
+}
+
+{
+	"fullName": "JitBit 3",
+	"email": "jitbit3@mail.com",
+	"role": "BUYER",
+	"City": "Guadalajara",
+	"Country": "México",
+	"Phone": "0894534895",
+}
+
+$fullName = "";
+$email = "";
+$role = "";
+$City = "";
+$Country = "";
+$Phone = "";

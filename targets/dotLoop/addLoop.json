@@ -1,0 +1,31 @@
+{
+	"name": "",
+	"transactionType": "",
+	"status": "",
+	"streetName": "",
+	"streetNumber": "",
+	"unit": "",
+	"city": "",
+	"zipCode": "",
+	"state": "",
+	"country": "",
+	"participants": [{
+		"fullName": "",
+		"email": "",
+		"role": "",
+		"Street Name": "",
+		"Street Number": "",
+		"City": "",
+		"State/Prov": "",
+		"Zip/Postal Code": "",
+		"Unit Number": "",
+		"Country": "",
+		"Phone": "",
+		"Cell Phone": "",
+		"Company Name": ""
+	}],
+	"templateId": 0,
+	"mlsPropertyId": "",
+	"mlsId": "",
+	"mlsAgentId": ""
+}
