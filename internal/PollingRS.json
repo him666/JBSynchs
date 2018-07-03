@@ -1,0 +1,73 @@
+[{
+	"contacts": [{
+		"contactBy": null,
+		"visitorId": null,
+		"communicationPreferences": {
+			"phoneStatus": "unknown",
+			"emailAddressStatus": "unknown",
+			"eAlertStatus": "active"
+		},
+		"relatedContact": null,
+		"emailAddresses": [{
+			"emailAddressId": 28491012,
+			"description": null,
+			"emailAddress": "cucumber@mail.com",
+			"dateModified": "2018-06-28T17:40:19.720Z",
+			"dateCreated": "2018-06-28T14:58:57.720Z",
+			"contactId": 30385533,
+			"isPrimary": true,
+			"isLogin": true,
+			"emailAddressStatus": "unknown"
+		}],
+		"socialProfiles": null,
+		"description": "",
+		"tags": [],
+		"ownershipStatus": null,
+		"dateModified": "2018-07-03T14:53:31.600Z",
+		"phoneNumbers": [{
+			"phoneNumber": "808-817-2382",
+			"phoneNumberId": 41331440,
+			"label": "primary",
+			"dateModified": "2018-06-28T14:58:57.310Z",
+			"phoneStatus": "unknown",
+			"dateCreated": "2018-06-28T14:58:57.310Z",
+			"contactId": 30385533,
+			"phoneType": null
+		}],
+		"orgId": 4922,
+		"sourceName": "Builder Website",
+		"lastName": "perez",
+		"firstName": "Pedro",
+		"dateCreated": "2018-06-28T14:58:57.027Z",
+		"contactId": 30385533,
+		"physicalAddresses": [],
+		"associatedUsers": [{
+			"assignedDate": "2018-06-28T14:58:57.877Z",
+			"dateModified": "2018-07-03T14:53:31.600Z",
+			"contactCategory": "hot",
+			"dateCreated": "2018-06-28T14:58:57.877Z",
+			"contactId": 30385533,
+			"associatedUserType": "buyerAgent",
+			"categoryDate": "2018-07-03T14:53:31.600Z",
+			"userId": 144717,
+			"communicationStatus": "active",
+			"associatedUserId": 58110885
+		}, {
+			"assignedDate": "2018-06-28T14:58:58.517Z",
+			"dateModified": "2018-06-28T17:39:54.810Z",
+			"contactCategory": "new",
+			"dateCreated": "2018-06-28T14:58:58.517Z",
+			"contactId": 30385533,
+			"associatedUserType": "lender",
+			"categoryDate": "2018-06-28T14:58:58.517Z",
+			"userId": 133763,
+			"communicationStatus": "active",
+			"associatedUserId": 58110886
+		}],
+		"sourceId": "BUILDER",
+		"contactOriginType": null
+	}],
+	"userToSyncsID": [823],
+	"date": "2018-07-03T14:53:31.600Z",
+	"object": "contact"
+}]
