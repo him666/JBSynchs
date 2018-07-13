@@ -11,7 +11,7 @@
     "option_value_1": "val1",
     "option_value_2": "val2",
     "option_name": "share",
-    "option_mask1": "mask1",
+    "option_mask1": "mask",
     "option_mask2": "mask2",
-    "option_display_name": "name display"
+    "option_display_name": "namedisplay"
 }]
