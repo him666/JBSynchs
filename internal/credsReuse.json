@@ -1,4 +1,5 @@
 {
     "userID": 16,
-    "provider": "salesforce"
+    "provider": "salesforce",
+    "type": "source"
 }

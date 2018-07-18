@@ -173,5 +173,17 @@
                 ]
 
             }
+        },
+    "transaction": [
+        {   "participants": [
+
+        ],
+            "property": {
+
+            },
+            "providerType": "",
+            "role": ""
+            
         }
+    ]
 } 
