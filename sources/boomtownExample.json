@@ -1,547 +1,105 @@
-[
-    {
-        "userToSyncsID": [
-            7,
-            8
-        ],
-        "contacts": [
-            {
-                "contactBy": null,
-                "visitorId": null,
-                "communicationPreferences": {
+{
+    "contacts": [
+        {
+            "contactBy": null,
+            "visitorId": null,
+            "communicationPreferences": {
+                "phoneStatus": "unknown",
+                "emailAddressStatus": "unknown",
+                "eAlertStatus": "active"
+            },
+            "relatedContact": null,
+            "emailAddresses": [
+                {
+                    "emailAddressId": 28914471,
+                    "description": null,
+                    "emailAddress": "errordemobr@testingint.com",
+                    "dateModified": "2018-07-18T22:03:54.560Z",
+                    "dateCreated": "2018-07-18T22:03:54.560Z",
+                    "contactId": 30840428,
+                    "isPrimary": true,
+                    "isLogin": true,
+                    "emailAddressStatus": "unknown"
+                }
+            ],
+            "socialProfiles": null,
+            "description": null,
+            "tags": [],
+            "ownershipStatus": null,
+            "dateModified": "2018-07-19T20:48:59.140Z",
+            "phoneNumbers": [
+                {
+                    "phoneNumber": "(555)555-1234",
+                    "phoneNumberId": 41767391,
+                    "label": "primary",
+                    "dateModified": "2018-07-18T22:03:54.257Z",
                     "phoneStatus": "unknown",
-                    "emailAddressStatus": "unknown",
-                    "eAlertStatus": "active"
+                    "dateCreated": "2018-07-18T22:03:54.257Z",
+                    "contactId": 30840428,
+                    "phoneType": null
+                }
+            ],
+            "orgId": 4922,
+            "sourceName": "Builder Website",
+            "lastName": "Int",
+            "firstName": "Error Demo BR",
+            "dateCreated": "2018-07-18T22:03:54.047Z",
+            "contactId": 30840428,
+            "physicalAddresses": [],
+            "associatedUsers": [
+                {
+                    "assignedDate": "2018-07-18T22:03:54.790Z",
+                    "dateModified": "2018-07-19T20:48:59.140Z",
+                    "contactCategory": "hot",
+                    "dateCreated": "2018-07-18T22:03:54.790Z",
+                    "contactId": 30840428,
+                    "associatedUserType": "buyerAgent",
+                    "categoryDate": "2018-07-19T20:48:59.140Z",
+                    "userId": 144717,
+                    "communicationStatus": "active",
+                    "associatedUserId": 58873807
                 },
-                "relatedContact": null,
-                "emailAddresses": [
-                    {
-                        "emailAddressId": 28436829,
-                        "description": null,
-                        "emailAddress": "testesteogar@itexico2.com",
-                        "dateModified": "2018-06-25T21:53:33.273Z",
-                        "dateCreated": "2018-06-25T21:53:33.273Z",
-                        "contactId": 30327070,
-                        "isPrimary": true,
-                        "isLogin": true,
-                        "emailAddressStatus": "unknown"
-                    }
-                ],
-                "socialProfiles": null,
+                {
+                    "assignedDate": "2018-07-18T22:03:55.560Z",
+                    "dateModified": "2018-07-18T22:03:55.560Z",
+                    "contactCategory": "new",
+                    "dateCreated": "2018-07-18T22:03:55.560Z",
+                    "contactId": 30840428,
+                    "associatedUserType": "lender",
+                    "categoryDate": "2018-07-18T22:03:55.560Z",
+                    "userId": 133763,
+                    "communicationStatus": "active",
+                    "associatedUserId": 58873808
+                }
+            ],
+            "sourceId": "BUILDER",
+            "contactOriginType": null,
+            "emailAddress": {
+                "emailAddressId": 28914471,
                 "description": null,
-                "tags": [],
-                "ownershipStatus": null,
-                "dateModified": "2018-06-25T21:53:37.203Z",
-                "phoneNumbers": [
-                    {
-                        "phoneNumber": "5555555557",
-                        "phoneNumberId": 41279239,
-                        "label": "primary",
-                        "dateModified": "2018-06-25T21:53:32.967Z",
-                        "phoneStatus": "unknown",
-                        "dateCreated": "2018-06-25T21:53:32.967Z",
-                        "contactId": 30327070,
-                        "phoneType": null
-                    }
-                ],
-                "orgId": 4922,
-                "sourceName": "voicepad.com",
-                "lastName": "5555555557",
-                "firstName": "teo garcia",
-                "dateCreated": "2018-06-25T21:53:32.763Z",
-                "contactId": 30327070,
-                "physicalAddresses": [],
-                "associatedUsers": [
-                    {
-                        "assignedDate": "2018-06-25T21:53:33.580Z",
-                        "dateModified": "2018-06-25T21:53:33.580Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T21:53:33.580Z",
-                        "contactId": 30327070,
-                        "associatedUserType": "buyerAgent",
-                        "categoryDate": "2018-06-25T21:53:33.580Z",
-                        "userId": 144717,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58017988
-                    },
-                    {
-                        "assignedDate": "2018-06-25T21:53:34.273Z",
-                        "dateModified": "2018-06-25T21:53:34.273Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T21:53:34.273Z",
-                        "contactId": 30327070,
-                        "associatedUserType": "lender",
-                        "categoryDate": "2018-06-25T21:53:34.273Z",
-                        "userId": 133763,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58017989
-                    }
-                ],
-                "sourceId": "VOICEPAD",
-                "contactOriginType": null
+                "emailAddress": "errordemobr@testingint.com",
+                "dateModified": "2018-07-18T22:03:54.560Z",
+                "dateCreated": "2018-07-18T22:03:54.560Z",
+                "contactId": 30840428,
+                "isPrimary": true,
+                "isLogin": true,
+                "emailAddressStatus": "unknown"
             },
-            {
-                "contactBy": null,
-                "visitorId": null,
-                "communicationPreferences": {
-                    "phoneStatus": "unknown",
-                    "emailAddressStatus": "unknown",
-                    "eAlertStatus": "active"
-                },
-                "relatedContact": null,
-                "emailAddresses": [
-                    {
-                        "emailAddressId": 28436659,
-                        "description": null,
-                        "emailAddress": "testesteogar@itexico.com",
-                        "dateModified": "2018-06-25T21:45:04.957Z",
-                        "dateCreated": "2018-06-25T21:45:04.957Z",
-                        "contactId": 30326593,
-                        "isPrimary": true,
-                        "isLogin": true,
-                        "emailAddressStatus": "unknown"
-                    }
-                ],
-                "socialProfiles": null,
-                "description": null,
-                "tags": [],
-                "ownershipStatus": null,
-                "dateModified": "2018-06-25T21:45:07.193Z",
-                "phoneNumbers": [
-                    {
-                        "phoneNumber": "5555555556",
-                        "phoneNumberId": 41278930,
-                        "label": "primary",
-                        "dateModified": "2018-06-25T21:45:04.603Z",
-                        "phoneStatus": "unknown",
-                        "dateCreated": "2018-06-25T21:45:04.603Z",
-                        "contactId": 30326593,
-                        "phoneType": null
-                    }
-                ],
-                "orgId": 4922,
-                "sourceName": "voicepad.com",
-                "lastName": "5555555556",
-                "firstName": "Maria Felix",
-                "dateCreated": "2018-06-25T21:45:04.390Z",
-                "contactId": 30326593,
-                "physicalAddresses": [],
-                "associatedUsers": [
-                    {
-                        "assignedDate": "2018-06-25T21:45:05.177Z",
-                        "dateModified": "2018-06-25T21:45:05.177Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T21:45:05.177Z",
-                        "contactId": 30326593,
-                        "associatedUserType": "buyerAgent",
-                        "categoryDate": "2018-06-25T21:45:05.177Z",
-                        "userId": 144717,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58017115
-                    },
-                    {
-                        "assignedDate": "2018-06-25T21:45:05.830Z",
-                        "dateModified": "2018-06-25T21:45:05.830Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T21:45:05.830Z",
-                        "contactId": 30326593,
-                        "associatedUserType": "lender",
-                        "categoryDate": "2018-06-25T21:45:05.830Z",
-                        "userId": 133763,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58017116
-                    }
-                ],
-                "sourceId": "VOICEPAD",
-                "contactOriginType": null
-            },
-            {
-                "contactBy": null,
-                "visitorId": null,
-                "communicationPreferences": {
-                    "phoneStatus": "unknown",
-                    "emailAddressStatus": "unknown",
-                    "eAlertStatus": "active"
-                },
-                "relatedContact": null,
-                "emailAddresses": [
-                    {
-                        "emailAddressId": 28435724,
-                        "description": null,
-                        "emailAddress": "test@boomtown33.com",
-                        "dateModified": "2018-06-25T21:04:14.940Z",
-                        "dateCreated": "2018-06-25T21:04:14.940Z",
-                        "contactId": 30325386,
-                        "isPrimary": true,
-                        "isLogin": true,
-                        "emailAddressStatus": "unknown"
-                    }
-                ],
-                "socialProfiles": null,
-                "description": "Message: I'd like information on this property. \nName: Tester forever \nphone: 686785685678567 \nemail: test@boomtown33.com \nMLS: DEMOMLS\nMLS#: 111113\nP",
-                "tags": [],
-                "ownershipStatus": null,
-                "dateModified": "2018-06-25T21:04:17.723Z",
-                "phoneNumbers": [
-                    {
-                        "phoneNumber": "686785685678567",
-                        "phoneNumberId": 41277545,
-                        "label": "primary",
-                        "dateModified": "2018-06-25T21:04:14.643Z",
-                        "phoneStatus": "unknown",
-                        "dateCreated": "2018-06-25T21:04:14.643Z",
-                        "contactId": 30325386,
-                        "phoneType": null
-                    }
-                ],
-                "orgId": 4922,
-                "sourceName": "voicepad.com",
-                "lastName": "686785685678567",
-                "firstName": "Tester forever",
-                "dateCreated": "2018-06-25T21:04:14.440Z",
-                "contactId": 30325386,
-                "physicalAddresses": [],
-                "associatedUsers": [
-                    {
-                        "assignedDate": "2018-06-25T21:04:15.207Z",
-                        "dateModified": "2018-06-25T21:04:15.207Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T21:04:15.207Z",
-                        "contactId": 30325386,
-                        "associatedUserType": "buyerAgent",
-                        "categoryDate": "2018-06-25T21:04:15.207Z",
-                        "userId": 144717,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58015288
-                    },
-                    {
-                        "assignedDate": "2018-06-25T21:04:15.857Z",
-                        "dateModified": "2018-06-25T21:04:15.857Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T21:04:15.857Z",
-                        "contactId": 30325386,
-                        "associatedUserType": "lender",
-                        "categoryDate": "2018-06-25T21:04:15.857Z",
-                        "userId": 133763,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58015289
-                    }
-                ],
-                "sourceId": "VOICEPAD",
-                "contactOriginType": null
-            },
-            {
-                "contactBy": null,
-                "visitorId": null,
-                "communicationPreferences": {
-                    "phoneStatus": "unknown",
-                    "emailAddressStatus": "unknown",
-                    "eAlertStatus": "active"
-                },
-                "relatedContact": null,
-                "emailAddresses": [
-                    {
-                        "emailAddressId": 28435527,
-                        "description": null,
-                        "emailAddress": "obed@testint.com",
-                        "dateModified": "2018-06-25T20:53:17.597Z",
-                        "dateCreated": "2018-06-25T20:53:17.597Z",
-                        "contactId": 30325175,
-                        "isPrimary": true,
-                        "isLogin": true,
-                        "emailAddressStatus": "unknown"
-                    }
-                ],
-                "socialProfiles": null,
-                "description": null,
-                "tags": [],
-                "ownershipStatus": null,
-                "dateModified": "2018-06-25T20:56:29.233Z",
-                "phoneNumbers": [
-                    {
-                        "phoneNumber": "5555555555",
-                        "phoneNumberId": 41277334,
-                        "label": "primary",
-                        "dateModified": "2018-06-25T20:53:17.287Z",
-                        "phoneStatus": "unknown",
-                        "dateCreated": "2018-06-25T20:53:17.287Z",
-                        "contactId": 30325175,
-                        "phoneType": null
-                    }
-                ],
-                "orgId": 4922,
-                "sourceName": "voicepad.com",
-                "lastName": "5555555555",
-                "firstName": "Obed's test",
-                "dateCreated": "2018-06-25T20:53:17.073Z",
-                "contactId": 30325175,
-                "physicalAddresses": [],
-                "associatedUsers": [
-                    {
-                        "assignedDate": "2018-06-25T20:53:17.857Z",
-                        "dateModified": "2018-06-25T20:53:17.857Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T20:53:17.857Z",
-                        "contactId": 30325175,
-                        "associatedUserType": "buyerAgent",
-                        "categoryDate": "2018-06-25T20:53:17.857Z",
-                        "userId": 144717,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58014939
-                    },
-                    {
-                        "assignedDate": "2018-06-25T20:53:18.587Z",
-                        "dateModified": "2018-06-25T20:53:18.587Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T20:53:18.587Z",
-                        "contactId": 30325175,
-                        "associatedUserType": "lender",
-                        "categoryDate": "2018-06-25T20:53:18.587Z",
-                        "userId": 133763,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58014941
-                    }
-                ],
-                "sourceId": "VOICEPAD",
-                "contactOriginType": null
-            },
-            {
-                "contactBy": null,
-                "visitorId": null,
-                "communicationPreferences": {
-                    "phoneStatus": "unknown",
-                    "emailAddressStatus": "unknown",
-                    "eAlertStatus": "active"
-                },
-                "relatedContact": null,
-                "emailAddresses": [
-                    {
-                        "emailAddressId": 28435307,
-                        "description": null,
-                        "emailAddress": "hikari@dou.com",
-                        "dateModified": "2018-06-25T20:42:25.943Z",
-                        "dateCreated": "2018-06-25T20:42:25.943Z",
-                        "contactId": 30324944,
-                        "isPrimary": true,
-                        "isLogin": true,
-                        "emailAddressStatus": "unknown"
-                    }
-                ],
-                "socialProfiles": null,
-                "description": "Message: I'd like information on this property. \nName: Kari Doujin \nphone: 5565453525 \nemail: hikari@dou.com \nMLS: DEMOMLS\nMLS#: 111114\nProperty addre",
-                "tags": [],
-                "ownershipStatus": null,
-                "dateModified": "2018-06-25T20:42:28.450Z",
-                "phoneNumbers": [
-                    {
-                        "phoneNumber": "5565453525",
-                        "phoneNumberId": 41277109,
-                        "label": "primary",
-                        "dateModified": "2018-06-25T20:42:25.583Z",
-                        "phoneStatus": "unknown",
-                        "dateCreated": "2018-06-25T20:42:25.583Z",
-                        "contactId": 30324944,
-                        "phoneType": null
-                    }
-                ],
-                "orgId": 4922,
-                "sourceName": "voicepad.com",
-                "lastName": "5565453525",
-                "firstName": "Kari Doujin",
-                "dateCreated": "2018-06-25T20:42:25.363Z",
-                "contactId": 30324944,
-                "physicalAddresses": [],
-                "associatedUsers": [
-                    {
-                        "assignedDate": "2018-06-25T20:42:26.277Z",
-                        "dateModified": "2018-06-25T20:42:26.277Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T20:42:26.277Z",
-                        "contactId": 30324944,
-                        "associatedUserType": "buyerAgent",
-                        "categoryDate": "2018-06-25T20:42:26.277Z",
-                        "userId": 144717,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58014565
-                    },
-                    {
-                        "assignedDate": "2018-06-25T20:42:26.930Z",
-                        "dateModified": "2018-06-25T20:42:26.930Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T20:42:26.930Z",
-                        "contactId": 30324944,
-                        "associatedUserType": "lender",
-                        "categoryDate": "2018-06-25T20:42:26.930Z",
-                        "userId": 133763,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58014566
-                    }
-                ],
-                "sourceId": "VOICEPAD",
-                "contactOriginType": null
-            },
-            {
-                "contactBy": null,
-                "visitorId": null,
-                "communicationPreferences": {
-                    "phoneStatus": "unknown",
-                    "emailAddressStatus": "unknown",
-                    "eAlertStatus": "active"
-                },
-                "relatedContact": null,
-                "emailAddresses": [
-                    {
-                        "emailAddressId": 28435150,
-                        "description": null,
-                        "emailAddress": "obed@test.com",
-                        "dateModified": "2018-06-25T20:33:15.783Z",
-                        "dateCreated": "2018-06-25T20:33:15.783Z",
-                        "contactId": 30324760,
-                        "isPrimary": true,
-                        "isLogin": true,
-                        "emailAddressStatus": "unknown"
-                    }
-                ],
-                "socialProfiles": null,
-                "description": null,
-                "tags": [],
-                "ownershipStatus": null,
-                "dateModified": "2018-06-25T20:40:02.550Z",
-                "phoneNumbers": [
-                    {
-                        "phoneNumber": "5555555555",
-                        "phoneNumberId": 41276920,
-                        "label": "primary",
-                        "dateModified": "2018-06-25T20:33:15.480Z",
-                        "phoneStatus": "unknown",
-                        "dateCreated": "2018-06-25T20:33:15.480Z",
-                        "contactId": 30324760,
-                        "phoneType": null
-                    }
-                ],
-                "orgId": 4922,
-                "sourceName": "voicepad.com",
-                "lastName": "5555555555",
-                "firstName": "Obed",
-                "dateCreated": "2018-06-25T20:33:15.273Z",
-                "contactId": 30324760,
-                "physicalAddresses": [],
-                "associatedUsers": [
-                    {
-                        "assignedDate": "2018-06-25T20:33:16.040Z",
-                        "dateModified": "2018-06-25T20:33:16.040Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T20:33:16.040Z",
-                        "contactId": 30324760,
-                        "associatedUserType": "buyerAgent",
-                        "categoryDate": "2018-06-25T20:33:16.040Z",
-                        "userId": 144717,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58014275
-                    },
-                    {
-                        "assignedDate": "2018-06-25T20:33:16.680Z",
-                        "dateModified": "2018-06-25T20:33:16.680Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-06-25T20:33:16.680Z",
-                        "contactId": 30324760,
-                        "associatedUserType": "lender",
-                        "categoryDate": "2018-06-25T20:33:16.680Z",
-                        "userId": 133763,
-                        "communicationStatus": "active",
-                        "associatedUserId": 58014276
-                    }
-                ],
-                "sourceId": "VOICEPAD",
-                "contactOriginType": null
-            },
-            {
-                "contactBy": null,
-                "visitorId": null,
-                "communicationPreferences": {
-                    "phoneStatus": "unknown",
-                    "emailAddressStatus": "unknown",
-                    "eAlertStatus": "active"
-                },
-                "relatedContact": null,
-                "emailAddresses": [
-                    {
-                        "emailAddressId": 27476504,
-                        "description": null,
-                        "emailAddress": "golan@mail.com",
-                        "dateModified": "2018-05-14T20:32:18.153Z",
-                        "dateCreated": "2018-05-11T17:06:33.693Z",
-                        "contactId": 29287286,
-                        "isPrimary": true,
-                        "isLogin": true,
-                        "emailAddressStatus": "unknown"
-                    }
-                ],
-                "socialProfiles": null,
-                "description": "",
-                "tags": [],
-                "ownershipStatus": null,
-                "dateModified": "2018-06-26T14:17:57.230Z",
-                "phoneNumbers": [
-                    {
-                        "phoneNumber": "808-817-2382",
-                        "phoneNumberId": 40308471,
-                        "label": "primary",
-                        "dateModified": "2018-05-11T17:06:33.280Z",
-                        "phoneStatus": "unknown",
-                        "dateCreated": "2018-05-11T17:06:33.280Z",
-                        "contactId": 29287286,
-                        "phoneType": null
-                    }
-                ],
-                "orgId": 4922,
-                "sourceName": "RealGeeks",
-                "lastName": "Descartis",
-                "firstName": "Golileo",
-                "dateCreated": "2018-05-11T17:06:33Z",
-                "contactId": 29287286,
-                "physicalAddresses": [],
-                "associatedUsers": [
-                    {
-                        "assignedDate": "2018-05-11T17:06:34.040Z",
-                        "dateModified": "2018-05-14T20:32:03.287Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-05-11T17:06:34.040Z",
-                        "contactId": 29287286,
-                        "associatedUserType": "buyerAgent",
-                        "categoryDate": "2018-05-11T17:06:34.040Z",
-                        "userId": 144718,
-                        "communicationStatus": "active",
-                        "associatedUserId": 56342462
-                    },
-                    {
-                        "assignedDate": "2018-05-11T17:06:34.003Z",
-                        "dateModified": "2018-06-25T15:01:36.093Z",
-                        "contactCategory": "trash",
-                        "dateCreated": "2018-05-11T17:06:34.003Z",
-                        "contactId": 29287286,
-                        "associatedUserType": "sellerAgent",
-                        "categoryDate": "2018-06-25T15:01:36.093Z",
-                        "userId": 144717,
-                        "communicationStatus": "active",
-                        "associatedUserId": 56342461
-                    },
-                    {
-                        "assignedDate": "2018-05-11T17:06:34.733Z",
-                        "dateModified": "2018-05-14T20:32:03.290Z",
-                        "contactCategory": "new",
-                        "dateCreated": "2018-05-11T17:06:34.733Z",
-                        "contactId": 29287286,
-                        "associatedUserType": "lender",
-                        "categoryDate": "2018-05-11T17:06:34.733Z",
-                        "userId": 133763,
-                        "communicationStatus": "active",
-                        "associatedUserId": 56342463
-                    }
-                ],
-                "sourceId": "REALGEEKS",
-                "contactOriginType": null
+            "phoneNumber": {
+                "phoneNumber": "(555)555-1234",
+                "phoneNumberId": 41767391,
+                "label": "primary",
+                "dateModified": "2018-07-18T22:03:54.257Z",
+                "phoneStatus": "unknown",
+                "dateCreated": "2018-07-18T22:03:54.257Z",
+                "contactId": 30840428,
+                "phoneType": null
             }
-        ]
-    }
-]
+        }
+    ],
+    "userToSyncsID": [
+        36
+    ],
+    "date": "2018-07-19T20:48:59.140Z",
+    "object": "contact"
+}

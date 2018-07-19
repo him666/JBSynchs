@@ -1,5 +1,7 @@
 [
     {
-        "activity": "this is an activity"
+        "activity": "this is an activity",
+        "phone": "5523429164",
+        "email": "thisis@anemail.com"
     }
 ]
