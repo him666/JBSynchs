@@ -1,105 +1,80 @@
 {
-    "contacts": [
-        {
-            "contactBy": null,
-            "visitorId": null,
-            "communicationPreferences": {
-                "phoneStatus": "unknown",
-                "emailAddressStatus": "unknown",
-                "eAlertStatus": "active"
-            },
-            "relatedContact": null,
-            "emailAddresses": [
-                {
-                    "emailAddressId": 28914471,
-                    "description": null,
-                    "emailAddress": "errordemobr@testingint.com",
-                    "dateModified": "2018-07-18T22:03:54.560Z",
-                    "dateCreated": "2018-07-18T22:03:54.560Z",
-                    "contactId": 30840428,
-                    "isPrimary": true,
-                    "isLogin": true,
-                    "emailAddressStatus": "unknown"
-                }
-            ],
-            "socialProfiles": null,
-            "description": null,
-            "tags": [],
-            "ownershipStatus": null,
-            "dateModified": "2018-07-19T20:48:59.140Z",
-            "phoneNumbers": [
-                {
-                    "phoneNumber": "(555)555-1234",
-                    "phoneNumberId": 41767391,
-                    "label": "primary",
-                    "dateModified": "2018-07-18T22:03:54.257Z",
-                    "phoneStatus": "unknown",
-                    "dateCreated": "2018-07-18T22:03:54.257Z",
-                    "contactId": 30840428,
-                    "phoneType": null
-                }
-            ],
-            "orgId": 4922,
-            "sourceName": "Builder Website",
-            "lastName": "Int",
-            "firstName": "Error Demo BR",
-            "dateCreated": "2018-07-18T22:03:54.047Z",
-            "contactId": 30840428,
-            "physicalAddresses": [],
-            "associatedUsers": [
-                {
-                    "assignedDate": "2018-07-18T22:03:54.790Z",
-                    "dateModified": "2018-07-19T20:48:59.140Z",
-                    "contactCategory": "hot",
-                    "dateCreated": "2018-07-18T22:03:54.790Z",
-                    "contactId": 30840428,
-                    "associatedUserType": "buyerAgent",
-                    "categoryDate": "2018-07-19T20:48:59.140Z",
-                    "userId": 144717,
-                    "communicationStatus": "active",
-                    "associatedUserId": 58873807
-                },
-                {
-                    "assignedDate": "2018-07-18T22:03:55.560Z",
-                    "dateModified": "2018-07-18T22:03:55.560Z",
-                    "contactCategory": "new",
-                    "dateCreated": "2018-07-18T22:03:55.560Z",
-                    "contactId": 30840428,
-                    "associatedUserType": "lender",
-                    "categoryDate": "2018-07-18T22:03:55.560Z",
-                    "userId": 133763,
-                    "communicationStatus": "active",
-                    "associatedUserId": 58873808
-                }
-            ],
-            "sourceId": "BUILDER",
-            "contactOriginType": null,
-            "emailAddress": {
-                "emailAddressId": 28914471,
+    "actionType": "contactUpdated",
+    "detailsValidAt": "2018-07-26T18:10:04.342Z",
+    "payload": {
+        "contactBy": null,
+        "visitorId": null,
+        "communicationPreferences": {
+            "phoneStatus": "unknown",
+            "emailAddressStatus": "unknown",
+            "eAlertStatus": "active"
+        },
+        "relatedContact": null,
+        "emailAddresses": [
+            {
+                "emailAddressId": 29110291,
                 "description": null,
-                "emailAddress": "errordemobr@testingint.com",
-                "dateModified": "2018-07-18T22:03:54.560Z",
-                "dateCreated": "2018-07-18T22:03:54.560Z",
-                "contactId": 30840428,
+                "emailAddress": "trit56@mail.com",
+                "dateModified": "2018-07-26T18:10:02.600Z",
+                "dateCreated": "2018-07-26T18:10:02.600Z",
+                "contactId": 31048897,
                 "isPrimary": true,
                 "isLogin": true,
                 "emailAddressStatus": "unknown"
-            },
-            "phoneNumber": {
-                "phoneNumber": "(555)555-1234",
-                "phoneNumberId": 41767391,
+            }
+        ],
+        "socialProfiles": null,
+        "description": null,
+        "tags": [],
+        "ownershipStatus": null,
+        "dateModified": "2018-07-26T18:10:04.150Z",
+        "phoneNumbers": [
+            {
+                "phoneNumber": "808-817-2382",
+                "phoneNumberId": 41953867,
                 "label": "primary",
-                "dateModified": "2018-07-18T22:03:54.257Z",
+                "dateModified": "2018-07-26T18:10:02.293Z",
                 "phoneStatus": "unknown",
-                "dateCreated": "2018-07-18T22:03:54.257Z",
-                "contactId": 30840428,
+                "dateCreated": "2018-07-26T18:10:02.293Z",
+                "contactId": 31048897,
                 "phoneType": null
             }
-        }
-    ],
-    "userToSyncsID": [
-        36
-    ],
-    "date": "2018-07-19T20:48:59.140Z",
-    "object": "contact"
+        ],
+        "orgId": 4922,
+        "sourceName": "Builder Website",
+        "lastName": "Seymour",
+        "firstName": "StageTEst",
+        "dateCreated": "2018-07-26T18:10:02.083Z",
+        "contactId": 31048897,
+        "physicalAddresses": [],
+        "associatedUsers": [
+            {
+                "assignedDate": "2018-07-26T18:10:03.533Z",
+                "dateModified": "2018-07-26T18:10:03.533Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-07-26T18:10:03.533Z",
+                "contactId": 31048897,
+                "associatedUserType": "lender",
+                "categoryDate": "2018-07-26T18:10:03.533Z",
+                "userId": 133763,
+                "communicationStatus": "active",
+                "associatedUserId": 59202341
+            },
+            {
+                "assignedDate": "2018-07-26T18:10:02.843Z",
+                "dateModified": "2018-07-26T18:10:02.843Z",
+                "contactCategory": "new",
+                "dateCreated": "2018-07-26T18:10:02.843Z",
+                "contactId": 31048897,
+                "associatedUserType": "buyerAgent",
+                "categoryDate": "2018-07-26T18:10:02.843Z",
+                "userId": 144717,
+                "communicationStatus": "active",
+                "associatedUserId": 59202339
+            }
+        ],
+        "sourceId": "BUILDER",
+        "contactOriginType": null
+    },
+    "userId": 135047
 }
