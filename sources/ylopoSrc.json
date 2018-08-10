@@ -1,54 +1,50 @@
 {
     "source": "Ylopo",
     "eventType": "REGISTRATION",
-    "message": "Ylopo ID: 12345\nRandom Question: Plain answer\nMonthly household income: 2000\nTerms and Conditions: true\nEstimated Credit Score: Good (680-719)\nEstimated down payment: 5000\nSummary: test BUYER summary HOMEOWNER",
+    "message": "Registration:<br>\nYlopo ID: 1303682<br>\nSegment: High Value Renter<br>\nLead Type: SELLER<br>\nRandom Question: Plain answer<br>\nMonthly household income: 2000<br>\nTerms and Conditions: true<br>\nEstimated Credit Score: Good (680-719)<br>\nEstimated down payment: 5000<br>\nSummary: test SELLER summary HOMEOWNER<br>\nStars: <a href=\"https://stars.ylopo.com/lead-detail/1461a3d8-08ef-4001-aaff-beaf74c2694c\">https://stars.ylopo.com/lead-detail/1461a3d8-08ef-4001-aaff-beaf74c2694c</a>",
     "lead": {
         "firstName": "Jake",
-        "lastName": "Test20180808.075833",
-        "email": "jake+20180808.075833@ylopo.com",
-        "phone": "561-035-6775 x02766",
-        "createdAt": "2018-08-08:07:58:33",
-        "updatedAt": "2018-08-08:07:58:33",
-        "referrerDomain": "http://some.referrer.domain",
-        "tags": [
-            "BUYER",
-            "HOMEOWNER"
-        ],
-        "leadType": "BUYER",
-        "assignments": [
-            {
-                "name": "John Realtor",
-                "type": "realtor",
-                "email": "johnrealtor@realty.com",
-                "crmId": 123
-            },
-            {
-                "name": "Bob Lender",
-                "type": "lender",
-                "email": "boblender@realty.com",
-                "crmId": 124
-            }
-        ],
+        "lastName": "Test20180809.064647",
+        "email": "jake+20180809.064647@ylopo.com",
+        "phone": "7345551212",
+        "createdAt": "2018-08-09T19:59:17.788Z",
+        "referrerDomain": "",
+        "tags": ["SELLER", "HOMEOWNER"],
+        "leadType": "SELLER",
+        "assignments": [{
+            "type": "realtor",
+            "name": "Jake Realtor",
+            "email": "jakerealtor@ylopo.com",
+            "crmId": 10
+        }, {
+            "type": "lender",
+            "name": "Jake Lender",
+            "email": "jakelender@ylopo.com",
+            "crmId": 5
+        }],
         "assignedWebsite": "http://portal.ylopo.com",
-        "starsLink": "https://stars.ylopo.com/lead-detail/877337b7-e445-449c-a0bc-b44d26790e08",
-        "avgPrice": 400000,
-        "listingsSaved": 4,
-        "listingsViewed": 24,
-        "searches": 75,
-        "showingInfoRequests": 0,
-        "totalVisits": 30
+        "starsLink": "https://stars.ylopo.com/lead-detail/1461a3d8-08ef-4001-aaff-beaf74c2694c",
+        "avgPrice": 100000,
+        "lastVisitDate": "2018-08-01T00:04:45.350Z",
+        "listingsViewed": 20,
+        "listingsSaved": 3,
+        "showingInfoRequests": 1,
+        "searches": 5,
+        "totalVisits": 8
     },
     "listing": {
-        "street": "34 Sunset Ave",
-        "city": "Venice",
-        "state": "CA",
-        "code": "90291",
-        "mlsNumber": 12345,
-        "price": 400000,
-        "forRent": false,
-        "type": "Single Family",
+        "mlsNumber": "1745806",
+        "url": "http://portal.ylopo.com/listing-detail/29310026",
+        "address": "553 Ridge Lane",
+        "city": "Fort Lee",
+        "state": "NJ",
+        "zip": "07024",
         "bedrooms": 2,
-        "bathrooms": 1,
-        "area": "2000"
+        "bathrooms": "3",
+        "type": "Single Family",
+        "sqFt": 4000,
+        "price": "435000.00",
+        "yearBuilt": 1920,
+        "images": ["https://d25fhp1qfwqa2h.cloudfront.net/1751308891_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308892_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308893_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308894_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308895_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308896_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308897_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308898_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308899_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308900_auto_294", "https://d25fhp1qfwqa2h.cloudfront.net/1751308901_auto_294"]
     }
 }
