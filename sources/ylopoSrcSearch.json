@@ -1,0 +1,23 @@
+{
+    "message": "Lead searched for homes",
+    "search": {
+        "sqFtMin": "2000",
+        "sqFtMax": "7000",
+        "priceMin": "275000",
+        "priceMax": "1500000",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "locations": [{
+            "city": "Los Angeles",
+            "state": "CA"
+        }, {
+            "city": "Pasadena",
+            "state": "CA"
+        }]
+    },
+    "eventType": "SEARCH",
+    "lead": {
+        "email": "jmaurer@ylopo.com",
+        "phone": "4194810098"
+    }
+}
