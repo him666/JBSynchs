@@ -2,6 +2,21 @@
     "source": "Ylopo",
     "eventType": "REGISTRATION",
     "message": "Registration:<br>\nYlopo ID: 1303682<br>\nSegment: High Value Renter<br>\nLead Type: SELLER<br>\nRandom Question: Plain answer<br>\nMonthly household income: 2000<br>\nTerms and Conditions: true<br>\nEstimated Credit Score: Good (680-719)<br>\nEstimated down payment: 5000<br>\nSummary: test SELLER summary HOMEOWNER<br>\nStars: <a href=\"https://stars.ylopo.com/lead-detail/1461a3d8-08ef-4001-aaff-beaf74c2694c\">https://stars.ylopo.com/lead-detail/1461a3d8-08ef-4001-aaff-beaf74c2694c</a>",
+    "search": {
+        "sqFtMin": "2000",
+        "sqFtMax": "7000",
+        "priceMin": "275000",
+        "priceMax": "1500000",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "locations": [{
+            "city": "Los Angeles",
+            "state": "CA"
+        }, {
+            "city": "Pasadena",
+            "state": "CA"
+        }]
+    },
     "lead": {
         "firstName": "Jake",
         "lastName": "Test20180809.064647",
