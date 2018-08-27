@@ -1,0 +1,13 @@
+{
+    "email": "peter@egvyral.com",
+    "fields": {
+        "first_name": "pter",
+        "last_name": "gabriel",
+        "phone": 552352524223
+    },
+    "group_ids": [
+        1,2,3
+    ],
+    "field_triggers": false,
+    "subscriber_consent_tracking": false
+}
