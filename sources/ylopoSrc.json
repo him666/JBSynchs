@@ -17,6 +17,7 @@
             "state": "CA"
         }]
     },
+   
     "lead": {
         "firstName": "Jake",
         "lastName": "Test20180809.064647",
@@ -45,7 +46,17 @@
         "listingsSaved": 3,
         "showingInfoRequests": 1,
         "searches": 5,
-        "totalVisits": 8
+        "totalVisits": 8,
+        "lastSessionAvgPrice":null,
+        "lastSessionListingsViewed":"0",
+        "lastSessionSearches":"0",
+        "lastSessionListingsSaved":"0",
+        "lastSessionShowingInfoRequests":"0",
+        "lastSessionTotalVisits":"1",
+        "lastSessionLastVisitDate":"2018-08-29T21:37:23.813Z",
+        "editPushNotificationsLink":"https://stars.ylopo.com/4xuho",
+        "editListingAlertLink":"https://stars.ylopo.com/4xuhe",
+        "viewBrowsingHistoryLink":"https://stars.ylopo.com/4xuhx"
     },
     "listing": {
         "mlsNumber": "1745806",
