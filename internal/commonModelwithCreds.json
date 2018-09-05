@@ -173,7 +173,8 @@
                     "name": "custom2",
                     "value": "this2"
                 }
-            ]
+            ],
+            "tags": ["tag1", "tag2"]
         }
     }
 }
