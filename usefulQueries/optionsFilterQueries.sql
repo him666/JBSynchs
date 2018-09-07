@@ -72,3 +72,8 @@ INSERT INTO source_app_to_source_options(source_id, source_option_id) VALUES
 (52,59),
 (52,60),
 (52,61);
+
+UPDATE source_options
+SET option_value_1= false
+WHERE
+ source_option_id = 59 ;
