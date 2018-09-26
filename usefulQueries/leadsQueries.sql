@@ -6,7 +6,7 @@ CREATE TABLE leads (
     contact_id int not null,
     target_provider varchar(50) not null,
     user_to_syncs_id int not null,
-    creation_date  date default(NOW()),
-    last_mod_date date, 
+    creation_date  timestamp default(NOW()),
+    last_mod_date timestamp, 
     unique (email, user_to_syncs_id)
 )
