@@ -1,0 +1,26 @@
+{
+    "email_addresses": [{
+        "email": "slimshady@testing.com",
+        "field": "EMAIL1"
+    }],
+    "email_opted_in": false,
+    "addresses": [],
+    "last_updated": "2018-10-18T17:40:49.000+0000",
+    "tag_ids": [
+        103
+    ],
+    "owner_id": 1,
+    "date_created": "2018-10-18T17:40:49.000+0000",
+    "middle_name": null,
+    "given_name": "Therealslim",
+    "email_status": "NonMarketable",
+    "phone_numbers": [{
+        "number": "555-5555",
+        "extension": "",
+        "field": "PHONE1",
+        "type": "Work"
+    }],
+    "company": null,
+    "id": 15,
+    "family_name": "Shady"
+}

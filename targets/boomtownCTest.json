@@ -1,0 +1,134 @@
+{
+    "sandbox": false,
+    "loginUrl": null,
+    "username": "33d2e4c3-73b5-40a8-bfef-0aade959beb8",
+    "password": null,
+    "securityToken": "88fa9c4a-b469-40dc-b912-17f3e7c4fc32",
+    "customerId": "1161",
+    "leads": {
+        "Lead": {
+            "id": {
+                "leadID": null,
+                "system": "ylopo",
+                "customerId": null,
+                "userToSyncsId": "470"
+            },
+            "associatedObjectId": {
+                "customerId": null,
+                "system": "ylopo",
+                "referenceObjectType": null,
+                "referenceObjectRelationship": null
+            },
+            "fullname": null,
+            "description": null,
+            "isDeleted": null,
+            "status": null,
+            "isActive": null,
+            "createdDate": null,
+            "lastModifiedBy": {
+                "system": null,
+                "referenceObjectType": null,
+                "referenceObjectRelationship": null
+            },
+            "createdBy": {
+                "system": null,
+                "referenceObjectType": null,
+                "referenceObjectRelationship": null
+            },
+            "lastModifiedDate": null,
+            "firstName": null,
+            "lastName": null,
+            "gender": null,
+            "dateOfBirth": null,
+            "preferredLanguage": null,
+            "maritalStatus": null,
+            "salutation": null,
+            "communication": {
+                "address": {
+                    "isActive": null,
+                    "addressType": null,
+                    "customAddressType": null,
+                    "attentionOfName": null,
+                    "street1": null,
+                    "street2": null,
+                    "street3": null,
+                    "city": null,
+                    "country": null,
+                    "state": null,
+                    "Zip": null,
+                    "timeZone": null
+                },
+                "workPhone": {
+                    "typeOfPhone": null,
+                    "fullTelephoneNumber": "3142403842",
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null,
+                    "extension": null
+                },
+                "homePhone": {
+                    "typeOfPhone": null,
+                    "fullTelephoneNumber": "3142403842",
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null,
+                    "extension": null
+                },
+                "mobilePhone": {
+                    "typeOfPhone": null,
+                    "fullTelephoneNumber": "3142403842",
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null
+                },
+                "fax": {
+                    "typeOfPhone": null,
+                    "fullTelephoneNumber": null,
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null,
+                    "extension": null
+                },
+                "otherPhone": {
+                    "typeOfPhone": null,
+                    "customPhoneType": null,
+                    "fullTelephoneNumber": null,
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null,
+                    "extension": null
+                },
+                "emailAddress": {
+                    "email": "gerrie960@yahoo.com",
+                    "usage": "primary"
+                }
+            },
+            "isPerson": null,
+            "isConverted": null,
+            "customerType": null,
+            "rating": null,
+            "role": null,
+            "sourceType": null,
+            "sourceUrl": null,
+            "companyInformation": {
+                "website": null,
+                "SIC_Code": null,
+                "industry": null,
+                "NAICS_Code": null,
+                "numberOfEmployees": null,
+                "DNB_Number": null
+            },
+            "activity": {
+                "source": null,
+                "type": "FAVORITE_LISTING",
+                "description": "Lead favorited a listing<br>\nhttp://search.homeswithvision.com/listing-detail/37264486<br>\n2667 Bennington Pl<br>\nMaryland Heights, MO 63043<br>\nPrice: $144,900<br>\n<br>\n 2667 Bennington Pl  Maryland Heights MO\n zip: 63043\n mls #: 18046520\nprice: $144,900",
+                "createdDate": null
+            },
+            "salesPerson": {
+                "agentId": null,
+                "system": null
+            }
+            
+        }
+    }
+}

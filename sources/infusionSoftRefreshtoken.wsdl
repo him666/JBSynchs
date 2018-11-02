@@ -1,0 +1,55 @@
+<definitions name = "RefreshTokenService"
+   targetNamespace = "http://www.examples.com/wsdl/RefreshTokenService.wsdl"
+   xmlns = "http://schemas.xmlsoap.org/wsdl/"
+   xmlns:soap = "http://schemas.xmlsoap.org/wsdl/soap/"
+   xmlns:tns = "http://www.examples.com/wsdl/RefreshTokenService.wsdl"
+   xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
+ 
+   <message name = "RefreshRequest">
+      <part name = "grant_type" type = "xsd:string"/>
+      <part name = "refresh_token" type = "xsd:string"/>
+   </message>
+	
+   <message name = "RefreshResponse">
+      <part name = "access_token" type = "xsd:string"/>
+      <part name = "token_type" type = "xsd:string"/>
+      <part name = "expires_in" type = "xsd:integer"/>
+      <part name = "scope" type = "xsd:string"/>
+   </message>
+
+   <portType name = "Refresh_PortType">
+      <operation name = "Refresh">
+         <input message = "tns:RefreshRequest"/>
+         <output message = "tns:RefreshResponse"/>
+      </operation>
+   </portType>
+
+   <binding name = "Refresh_Binding" type = "tns:Refresh_PortType">
+      <soap:binding style = "rpc"
+         transport = "http://schemas.xmlsoap.org/soap/http"/>
+      <operation name = "refresgRequest">
+         <soap:operation soapAction = "sayHello"/>
+         <input>
+            <soap:body
+               encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/"
+               namespace = "urn:examples:helloservice"
+               use = "encoded"/>
+         </input>
+		
+         <output>
+            <soap:body
+               encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/"
+               namespace = "urn:examples:helloservice"
+               use = "encoded"/>
+         </output>
+      </operation>
+   </binding>
+
+   <service name = "Hello_Service">
+      <documentation>WSDL File for HelloService</documentation>
+      <port binding = "tns:Hello_Binding" name = "Hello_Port">
+         <soap:address
+            location = "http://www.examples.com/SayHello/" />
+      </port>
+   </service>
+</definitions>
