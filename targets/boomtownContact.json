@@ -1,7 +1,25 @@
 {
-  "lastName": "Smith",
+  "orgId": 123,
   "firstName": "John",
-  "sourceId": "{CorrectSourceHere}",
+  "lastName": "Smith",
+  "visitorId": 35426,
+  "sourceId": "OPENHOUSE",
+  "contactBy": "Text",
+  "description": "Looking to buy 3 bed 2.5bath house downtown.",
+  "communicationPreferences": {
+    "eAlertStatus": "Active"
+  },
+  "physicalAddresses": [
+    {
+      "address": "635 Rutledge Avenue",
+      "city": "Charleston",
+      "state": "SC",
+      "zipCode": "29403",
+      "addressEntryType": "agentEntered",
+      "addressType": "NotSpecified",
+      "description": "string"
+    }
+  ],
   "emailAddresses": [
     {
       "emailAddress": "JohnSmith@BoomTownROI.com",
@@ -10,5 +28,44 @@
       "description": null,
       "emailAddressStatus": "unknown"
     }
-  ]
+  ],
+  "phoneNumbers": [
+    {
+      "label": "phone number for contact",
+      "phoneNumber": "123-456-7890",
+      "phoneStatus": "active",
+      "phoneType": "mobile"
+    }
+  ],
+  "associatedUsers": [
+    {
+      "contactId": 33,
+      "userId": 3438,
+      "contactCategory": "nurture",
+      "communicationStatus": "active",
+      "associatedUserType": "buyerAgent"
+    }
+  ],
+  "socialProfiles": {
+    "primaryPhotoUrl": null,
+    "socialAccounts": [
+      {
+        "profilePhotoUrl": "string",
+        "profileUrl": "https://www.facebook.com/JohnSmith12",
+        "socialProfileType": "facebook",
+        "dateCreated": "2016-01-15T16:51:08.530Z",
+        "dateModified": "2016-01-15T16:51:08.530Z"
+      }
+    ]
+  },
+  "tags": [
+    {
+      "tagName": "New Buyer",
+      "tagOwner": "org"
+    }
+  ],
+  "relatedContact": {
+    "eAlertStatus": "Active"
+  },
+  "contactOriginType": "ApiBulkImport"
 }
