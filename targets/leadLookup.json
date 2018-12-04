@@ -3,7 +3,7 @@
 "insertion_type": "old",
 "email": "thisis@anemail.com",
 "phone": 55344323325,
-"contact_id": 12345,
+"contact_id": "12345",
 "target_provider": "boomtown",
 "user_to_syncs_id": 777,
 "creation_date": "", 

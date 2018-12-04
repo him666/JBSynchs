@@ -1,0 +1,144 @@
+{
+  "data": {
+    "attributes": {
+      "first_name": "string",
+      "prefix": "string",
+      "middle_name": "string",
+      "last_name": "string",
+      "preferred_name": "string",
+      "legal_name": "string",
+      "suffix": "string",
+      "date_of_birth": "string",
+      "contact_types": [
+        "string"
+      ],
+      "motivations": [
+        "string"
+      ],
+      "primary_motivation_note": "string",
+      "is_pre_approved": true,
+      "is_primary": true,
+      "status": 123,
+      "stage": "prospect",
+      "lead_type": "own",
+      "is_starred": true,
+      "available_to_contact_date": "string",
+      "buyer_type": "string",
+      "pre_approved_amount": 123,
+      "number_in_household": 123,
+      "background_info": "string",
+      "initial_contact_date": "string",
+      "profession_title": "string",
+      "profession_department": "string",
+      "is_connected": true,
+      "system-metas": [
+        {
+          "value": "string",
+          "id": 123,
+          "name": "string",
+          "variable": "string",
+          "type": "1"
+        }
+      ],
+      "primary_address": "string"
+    },
+    "relationships": {
+      "company": {
+        "data": {
+          "id": "string",
+          "attributes": {
+            "name": "string",
+            "address": "string"
+          }
+        }
+      },
+      "family": {
+        "data": [
+          {
+            "id": "string"
+          }
+        ]
+      },
+      "social-accounts": {
+        "data": [
+          {
+            "id": "string",
+            "attributes": {
+              "social_network_id": "1",
+              "identifier": "string",
+              "url": "string"
+            }
+          }
+        ]
+      },
+      "addresses": {
+        "data": [
+          {
+            "id": "string",
+            "attributes": {
+              "address_line_1": "string",
+              "address_line_2": "string",
+              "address_line_3": "string",
+              "address_line_4": "string",
+              "city": "string",
+              "city_locality": "string",
+              "state_region": "string",
+              "country": "string",
+              "postal_code": "string",
+              "lat": 123,
+              "lng": 123,
+              "is_current": true,
+              "ownership_status": "1",
+              "description": "string",
+              "neighborhood": "string",
+              "is_primary": true,
+              "label": "string",
+              "is_mailing_address": true
+            }
+          }
+        ]
+      },
+      "phones": {
+        "data": [
+          {
+            "id": "string",
+            "attributes": {
+              "number": "string",
+              "country_code": "string",
+              "formatted_number": "string",
+              "is_primary": true,
+              "is_current": true,
+              "label": "string"
+            }
+          }
+        ]
+      },
+      "tags": {
+        "data": [
+          {
+            "id": "1",
+            "tag": "string"
+          }
+        ]
+      },
+      "object-custom-fields": {
+        "data": [
+          {
+            "attributes": {
+              "custom_field": "string",
+              "custom_field_value": "string"
+            }
+          }
+        ]
+      },
+      "sources": {
+        "data": [
+          {
+            "type": "string",
+            "id": 123
+          }
+        ]
+      }
+    }
+  }
+}
