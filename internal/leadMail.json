@@ -1,0 +1,11 @@
+{
+   "userToSyncsId": 123,
+   "content": "text",
+   "email": "leadmail@maiol.com",
+   "firstName": "firstname",
+   "lastName": "lastname",
+   "phone": "33416125",
+   "activityType": "REGISTRATION",
+   "comment": "text",
+   "optional": "text" 
+}
