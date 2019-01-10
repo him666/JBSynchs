@@ -1,0 +1,74 @@
+{
+    "event": "this ev",
+    "userId": 135047,
+    "actionType": "ContactUpdated",
+    "detailsValidAt": "2019-01-09T18:51:10.954Z",
+    "payload": {
+        "userId": "1209",
+        "contactId": 34838664,
+        "orgId": 4922,
+        "firstName": "Loki",
+        "lastName": "Asgard",
+        "sourceId": "YLOPO",
+        "sourceName": "Ylopo",
+        "contactBy": "NotSpecified",
+        "description": "starsLink: http://stars.ylopo.com/lead-detail/8012296b-484e-4051-8d98-0d9531bfd198 9900 Liriope CV  Austin TX zip: 78750 mls #: 7108313 Listings V",
+        "communicationPreferences": {
+            "phoneStatus": "Unknown",
+            "emailAddressStatus": "Unknown",
+            "eAlertStatus": "Active"
+        },
+        "tags":[
+            {
+                "tagName": "active"
+            }
+        ],
+        "physicalAddresses": [],
+        "emailAddresses": [{
+            "emailAddressId": 32414767,
+            "emailAddress": "lokiofasgard@mailinator.com",
+            "isLogin": true,
+            "isPrimary": true,
+            "emailAddressStatus": "Unknown",
+            "contactId": 34838664,
+            "dateCreated": "2019-01-09T18:07:39.397Z",
+            "dateModified": "2019-01-09T18:07:41.093Z"
+        }],
+        "phoneNumbers": [{
+            "phoneNumberId": 45471005,
+            "label": "primary",
+            "phoneNumber": "2123345666",
+            "phoneStatus": "Unknown",
+            "contactId": 34838664,
+            "dateCreated": "2019-01-09T18:07:39.277Z",
+            "dateModified": "2019-01-09T18:51:10.603Z"
+        }],
+        "associatedUsers": [{
+            "associatedUserId": 65250232,
+            "contactId": 34838664,
+            "userId": 133763,
+            "contactCategory": "New",
+            "categoryDate": "2019-01-09T18:07:39.67Z",
+            "assignedDate": "2019-01-09T18:07:39.67Z",
+            "communicationStatus": "Active",
+            "associatedUserType": "Lender",
+            "dateCreated": "2019-01-09T18:07:39.67Z",
+            "dateModified": "2019-01-09T18:10:45.68Z"
+        }, {
+            "associatedUserId": 65250231,
+            "contactId": 34838664,
+            "userId": 135047,
+            "contactCategory": "New",
+            "categoryDate": "2019-01-09T18:07:39.413Z",
+            "assignedDate": "2019-01-09T18:14:38.487Z",
+            "communicationStatus": "Active",
+            "associatedUserType": "BuyerAgent",
+            "dateCreated": "2019-01-09T18:07:39.413Z",
+            "dateModified": "2019-01-09T18:14:38.48Z"
+        }],
+        "contactOriginType": "ApiImport",
+        "dateCreated": "2019-01-09T18:07:39.21Z",
+        "dateModified": "2019-01-09T18:51:10.603Z"
+    }
+    
+}
