@@ -3,6 +3,66 @@
     "userId": 135047,
     "actionType": "ContactUpdated",
     "detailsValidAt": "2019-01-09T18:51:10.954Z",
+    "alertCategory": "FirstChance",
+    "alertType": "NewRegistration",
+    "contactId": 34896733,
+    "dateCreated": "2019-01-11T21:00:50.656Z",
+    "dateModified": "2019-01-11T21:00:50.656Z",
+    "userAlertId": "c30c18db-fda4-4136-a8fb-9003ba3b063a",
+    "alertTypeDetails": {
+        "contact": {
+            "contactId": 34896733,
+            "orgId": 4922,
+            "firstName": "Elombre",
+            "lastName": "Musk",
+            "sourceName": "Follow-Up Boss",
+            "emailAddress": "elombre@theboringcompany.com",
+            "phoneNumber": "5514564524",
+            "associatedUsers": [
+                {
+                    "associatedUserId": 65347847,
+                    "contactId": 34896733,
+                    "userId": 144718,
+                    "contactCategory": "New",
+                    "categoryDate": "2019-01-11T21:00:48.077Z",
+                    "assignedDate": "2019-01-11T21:00:48.077Z",
+                    "communicationStatus": "Active",
+                    "associatedUserType": "BuyerAgent",
+                    "dateCreated": "2019-01-11T21:00:48.077Z",
+                    "dateModified": "2019-01-11T21:00:48.077Z"
+                },
+                {
+                    "associatedUserId": 65347846,
+                    "contactId": 34896733,
+                    "userId": 144718,
+                    "contactCategory": "New",
+                    "categoryDate": "2019-01-11T21:00:48.047Z",
+                    "assignedDate": "2019-01-11T21:00:48.047Z",
+                    "communicationStatus": "Active",
+                    "associatedUserType": "SellerAgent",
+                    "dateCreated": "2019-01-11T21:00:48.047Z",
+                    "dateModified": "2019-01-11T21:00:48.047Z"
+                },
+                {
+                    "associatedUserId": 65347848,
+                    "contactId": 34896733,
+                    "userId": 133763,
+                    "contactCategory": "New",
+                    "categoryDate": "2019-01-11T21:00:48.253Z",
+                    "assignedDate": "2019-01-11T21:00:48.253Z",
+                    "communicationStatus": "Active",
+                    "associatedUserType": "Lender",
+                    "dateCreated": "2019-01-11T21:00:48.253Z",
+                    "dateModified": "2019-01-11T21:00:48.253Z"
+                }
+            ],
+            "contactOriginType": "ApiImport",
+            "dateCreated": "2019-01-11T21:00:47.87Z",
+            "dateModified": "2019-01-11T21:00:49.807Z"
+        },
+        "searchingIn": "",
+        "isVerified": false
+    },
     "payload": {
         "userId": "1209",
         "contactId": 34838664,
