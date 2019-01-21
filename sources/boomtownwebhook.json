@@ -1,0 +1,92 @@
+{
+    "Payload": {
+        "ContactId": 34997719,
+        "OrgId": 4922,
+        "FirstName": "Rem",
+        "LastName": "Stark",
+        "VisitorId": null,
+        "SourceId": "FOLLOW_UP_BOSS",
+        "SourceName": "Follow-Up Boss",
+        "ContactBy": 0,
+        "Description": null,
+        "OwnershipStatus": null,
+        "CommunicationPreferences": {
+            "PhoneStatus": 0,
+            "EmailAddressStatus": 4,
+            "EAlertStatus": 0
+        },
+        "PhysicalAddresses": [],
+        "EmailAddresses": [
+            {
+                "EmailAddressId": 32543775,
+                "emailAddress": "rem@stark.com",
+                "IsLogin": true,
+                "IsPrimary": true,
+                "Description": null,
+                "EmailAddressStatus": 4,
+                "ContactId": 34997719,
+                "DateCreated": "2019-01-15T17:19:44.347Z",
+                "DateModified": "2019-01-15T17:19:44.347Z"
+            }
+        ],
+        "PhoneNumbers": [
+            {
+                "PhoneNumberId": 45614253,
+                "Label": "primary",
+                "phoneNumber": "5561612323",
+                "PhoneStatus": 0,
+                "ContactId": 34997719,
+                "PhoneType": null,
+                "DateCreated": "2019-01-15T17:19:44.277Z",
+                "DateModified": "2019-01-15T17:19:44.277Z"
+            }
+        ],
+        "AssociatedUsers": [
+            {
+                "AssociatedUserId": 65513196,
+                "ContactId": 34997719,
+                "UserId": 133763,
+                "ContactCategory": 0,
+                "CategoryDate": "2019-01-15T17:19:44.493Z",
+                "AssignedDate": "2019-01-15T17:19:44.493Z",
+                "CommunicationStatus": 0,
+                "AssociatedUserType": 3,
+                "DateCreated": "2019-01-15T17:19:44.493Z",
+                "DateModified": "2019-01-15T17:19:44.493Z"
+            },
+            {
+                "AssociatedUserId": 65513195,
+                "ContactId": 34997719,
+                "UserId": 144718,
+                "ContactCategory": 0,
+                "CategoryDate": "2019-01-15T17:19:44.417Z",
+                "AssignedDate": "2019-01-15T17:19:44.417Z",
+                "CommunicationStatus": 0,
+                "AssociatedUserType": 1,
+                "DateCreated": "2019-01-15T17:19:44.417Z",
+                "DateModified": "2019-01-15T17:19:44.417Z"
+            },
+            {
+                "AssociatedUserId": 65513194,
+                "ContactId": 34997719,
+                "UserId": 144718,
+                "ContactCategory": 0,
+                "CategoryDate": "2019-01-15T17:19:44.393Z",
+                "AssignedDate": "2019-01-15T17:19:44.393Z",
+                "CommunicationStatus": 0,
+                "AssociatedUserType": 2,
+                "DateCreated": "2019-01-15T17:19:44.393Z",
+                "DateModified": "2019-01-15T17:19:44.393Z"
+            }
+        ],
+        "SocialProfiles": null,
+        "ContactTags": null,
+        "RelatedContact": null,
+        "ContactOriginType": 5,
+        "DateCreated": "2019-01-15T17:19:44.207Z",
+        "DateModified": "2019-01-15T17:19:44.603Z"
+    },
+    "UserId": 144718,
+    "ActionType": 5,
+    "DetailsValidAt": "2019-01-15T17:19:45.368Z"
+}

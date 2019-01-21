@@ -1,0 +1,110 @@
+{
+    "contactBy": null,
+    "visitorId": null,
+    "communicationPreferences": {
+        "phoneStatus": "unknown",
+        "emailAddressStatus": "unknown",
+        "eAlertStatus": "active"
+    },
+    "relatedContact": null,
+    "emailAddresses": [
+        {
+            "emailAddressId": 32549424,
+            "description": null,
+            "emailAddress": "linda@stark.com",
+            "dateModified": "2019-01-15T21:49:26.447Z",
+            "dateCreated": "2019-01-15T21:49:26.447Z",
+            "contactId": 35004125,
+            "isPrimary": true,
+            "isLogin": true,
+            "emailAddressStatus": "unknown"
+        }
+    ],
+    "socialProfiles": null,
+    "description": "new office cleaner",
+    "tags": [
+        {
+            "tagName": "Hot",
+            "dateModified": "2019-01-18T16:19:43.107Z",
+            "dateCreated": "2019-01-18T16:19:43.107Z",
+            "contactId": 35004125,
+            "tagId": 270023
+        },
+        {
+            "tagName": "Market Snapshot",
+            "dateModified": "2019-01-18T16:20:09.963Z",
+            "dateCreated": "2019-01-18T16:20:09.963Z",
+            "contactId": 35004125,
+            "tagId": 271938
+        },
+        {
+            "tagName": "newtagMachine",
+            "dateModified": "2019-01-21T20:53:16.780Z",
+            "dateCreated": "2019-01-21T20:53:16.780Z",
+            "contactId": 35004125,
+            "tagId": 272618
+        }
+    ],
+    "ownershipStatus": null,
+    "dateModified": "2019-01-18T16:20:10.517Z",
+    "phoneNumbers": [
+        {
+            "phoneNumber": "5585551423",
+            "phoneNumberId": 45620740,
+            "label": "",
+            "dateModified": "2019-01-18T07:50:29.093Z",
+            "phoneStatus": "unknown",
+            "dateCreated": "2019-01-15T21:49:26.430Z",
+            "contactId": 35004125,
+            "phoneType": "mobile"
+        }
+    ],
+    "orgId": 4922,
+    "sourceName": "Ylopo",
+    "lastName": "Stark",
+    "firstName": "Linda",
+    "dateCreated": "2019-01-15T21:49:26.430Z",
+    "contactId": 35004125,
+    "physicalAddresses": [
+        {
+            "city": "Nowhere",
+            "contactAddressId": 35004125,
+            "state": "NE",
+            "addressEntryType": "agentEntered",
+            "dateModified": "2019-01-18T16:20:10.517Z",
+            "zipCode": "66666",
+            "addressChangedByUserId": 135047,
+            "dateCreated": "2019-01-15T21:49:26.430Z",
+            "contactId": 35004125,
+            "address": "555 West Main"
+        }
+    ],
+    "associatedUsers": [
+        {
+            "assignedDate": "2019-01-18T09:04:23.340Z",
+            "dateModified": "2019-01-18T09:04:23.460Z",
+            "contactCategory": "new",
+            "dateCreated": "2019-01-18T09:04:23.460Z",
+            "contactId": 35004125,
+            "associatedUserType": "lender",
+            "categoryDate": "2019-01-18T09:04:23.487Z",
+            "userId": 159992,
+            "communicationStatus": "active",
+            "associatedUserId": 65634811
+        },
+        {
+            "assignedDate": "2019-01-15T21:51:54.147Z",
+            "dateModified": "2019-01-15T21:51:54.440Z",
+            "contactCategory": "new",
+            "dateCreated": "2019-01-15T21:49:26.557Z",
+            "contactId": 35004125,
+            "associatedUserType": "buyerAgent",
+            "categoryDate": "2019-01-15T21:49:26.557Z",
+            "userId": 144717,
+            "communicationStatus": "active",
+            "associatedUserId": 65523367
+        }
+    ],
+    "sourceId": "YLOPO",
+    "contactOriginType": null
+}

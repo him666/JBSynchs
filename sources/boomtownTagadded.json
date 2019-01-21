@@ -1,0 +1,12 @@
+{
+    "event": "TagAddedEvent",
+    "payload": {
+        "tagId": 271938,
+        "tagName": "Market Snapshot",
+        "orgId": 4922,
+        "userId": 144718,
+        "contactId": 35004125,
+        "tagOwner": "User",
+        "dateAdded": "2019-01-18T15:18:59.53Z"
+    }
+}
