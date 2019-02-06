@@ -1,1 +1,11 @@
-{"event":"ContactCategoryChangedEvent","payload":{"contactId":29815185,"userId":135047,"tenantId":4922,"newCategory":2,"isLender":false,"originalSource":"UNKNOWN"}}
+{
+    "event": "ContactCategoryChangedEvent",
+    "payload": {
+        "contactId": 29815185,
+        "userId": 135047,
+        "tenantId": 4922,
+        "newCategory": 2,
+        "isLender": false,
+        "originalSource": "UNKNOWN"
+    }
+}
