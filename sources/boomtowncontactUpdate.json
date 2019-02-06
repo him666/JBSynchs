@@ -66,6 +66,10 @@
     "payload": {
         "userId": "1209",
         "contactId": 34838664,
+        "tenantId": 4922,
+        "newCategory": 2,
+        "isLender": false,
+        "originalSource": "UNKNOWN",
         "orgId": 4922,
         "firstName": "Loki",
         "lastName": "Asgard",
