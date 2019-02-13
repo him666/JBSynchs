@@ -1,0 +1,95 @@
+{
+    "contactBy": null,
+    "visitorId": null,
+    "communicationPreferences": {
+        "phoneStatus": "unknown",
+        "emailAddressStatus": "validAddress",
+        "eAlertStatus": "active"
+    },
+    "relatedContact": null,
+    "emailAddresses": [
+        {
+            "emailAddressId": 32574211,
+            "description": null,
+            "emailAddress": "rpurtill+fubimporttest@ylopo.com",
+            "dateModified": "2019-01-16T23:32:29.770Z",
+            "dateCreated": "2019-01-16T23:32:28.023Z",
+            "contactId": 35035056,
+            "isPrimary": true,
+            "isLogin": true,
+            "emailAddressStatus": "validAddress"
+        }
+    ],
+    "socialProfiles": null,
+    "description": "Some Random Description",
+    "tags": [
+        {
+            "tagName": "Market Snapshot",
+            "dateModified": "2019-01-18T18:09:51.557Z",
+            "dateCreated": "2019-01-18T18:09:51.557Z",
+            "contactId": 35035056,
+            "tagId": 271938
+        }
+    ],
+    "ownershipStatus": null,
+    "dateModified": "2019-01-18T18:35:24.980Z",
+    "phoneNumbers": [
+        {
+            "phoneNumber": "7326732350",
+            "phoneNumberId": 45650539,
+            "label": "primary",
+            "dateModified": "2019-01-16T23:32:28.003Z",
+            "phoneStatus": "unknown",
+            "dateCreated": "2019-01-16T23:32:28.003Z",
+            "contactId": 35035056,
+            "phoneType": null
+        }
+    ],
+    "orgId": 4922,
+    "sourceName": "Follow-Up Boss",
+    "lastName": "FubImportTest",
+    "firstName": "RyanYlopo",
+    "dateCreated": "2019-01-16T23:32:27.950Z",
+    "contactId": 35035056,
+    "physicalAddresses": [],
+    "associatedUsers": [
+        {
+            "assignedDate": "2019-01-17T13:53:58.940Z",
+            "dateModified": "2019-01-17T23:15:06.913Z",
+            "contactCategory": "new",
+            "dateCreated": "2019-01-17T13:53:58.940Z",
+            "contactId": 35035056,
+            "associatedUserType": "sellerAgent",
+            "categoryDate": "2019-01-17T13:53:58.940Z",
+            "userId": 164185,
+            "communicationStatus": "active",
+            "associatedUserId": 65584810
+        },
+        {
+            "assignedDate": "2019-01-16T23:32:28.247Z",
+            "dateModified": "2019-01-17T23:15:06.927Z",
+            "contactCategory": "new",
+            "dateCreated": "2019-01-16T23:32:28.247Z",
+            "contactId": 35035056,
+            "associatedUserType": "lender",
+            "categoryDate": "2019-01-16T23:32:28.247Z",
+            "userId": 133763,
+            "communicationStatus": "active",
+            "associatedUserId": 65569908
+        },
+        {
+            "assignedDate": "2019-01-16T23:32:28.103Z",
+            "dateModified": "2019-01-17T23:15:06.913Z",
+            "contactCategory": "new",
+            "dateCreated": "2019-01-16T23:32:28.103Z",
+            "contactId": 35035056,
+            "associatedUserType": "buyerAgent",
+            "categoryDate": "2019-01-16T23:32:28.103Z",
+            "userId": 144718,
+            "communicationStatus": "active",
+            "associatedUserId": 65569906
+        }
+    ],
+    "sourceId": "FOLLOW_UP_BOSS",
+    "contactOriginType": null
+}

@@ -1,0 +1,173 @@
+[
+    {
+        "tagName": "Market Snapshot",
+        "dateModified": "2019-01-18T16:13:29.470Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2019-01-18T15:18:59.357Z",
+        "tagId": 271938,
+        "userId": 144718
+    },
+    {
+        "tagName": "Hot",
+        "dateModified": "2019-01-11T15:48:23.697Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2019-01-11T15:48:19.567Z",
+        "tagId": 270023,
+        "userId": 135047
+    },
+    {
+        "tagName": "tag31",
+        "dateModified": "2019-01-10T16:41:09.820Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2019-01-10T11:13:22.797Z",
+        "tagId": 269584,
+        "userId": 135047
+    },
+    {
+        "tagName": "active",
+        "dateModified": "2019-01-07T17:43:29.217Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2019-01-07T17:43:19.277Z",
+        "tagId": 268531,
+        "userId": 135047
+    },
+    {
+        "tagName": "Seller",
+        "dateModified": "2019-01-10T16:42:01.233Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2018-09-05T17:39:47.497Z",
+        "tagId": 241128,
+        "userId": 135047
+    },
+    {
+        "tagName": "Buyer",
+        "dateModified": "2019-01-07T21:19:25.437Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2018-09-05T17:02:23.993Z",
+        "tagId": 241113,
+        "userId": 135047
+    },
+    {
+        "tagName": "BoomTown Call Night",
+        "dateModified": "2018-04-26T17:51:23.340Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2018-04-26T17:51:23.340Z",
+        "tagId": 215116,
+        "userId": null
+    },
+    {
+        "tagName": "Showing Property",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177532,
+        "userId": null
+    },
+    {
+        "tagName": "Upsizing / Growing family",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177531,
+        "userId": null
+    },
+    {
+        "tagName": "Downsizing",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177530,
+        "userId": null
+    },
+    {
+        "tagName": "2nd home",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177529,
+        "userId": null
+    },
+    {
+        "tagName": "Investor",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177528,
+        "userId": null
+    },
+    {
+        "tagName": "Not Local",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177527,
+        "userId": null
+    },
+    {
+        "tagName": "Is Local",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177526,
+        "userId": null
+    },
+    {
+        "tagName": "Referral",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177525,
+        "userId": null
+    },
+    {
+        "tagName": "First time buyer",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177524,
+        "userId": null
+    },
+    {
+        "tagName": "Working w/ other agent",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177523,
+        "userId": null
+    },
+    {
+        "tagName": "Not in my service area",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177522,
+        "userId": null
+    },
+    {
+        "tagName": "Past Clients",
+        "dateModified": "2017-12-01T15:37:43.383Z",
+        "orgId": 4922,
+        "tagOwner": "org",
+        "dateCreated": "2017-12-01T15:37:43.383Z",
+        "tagId": 177521,
+        "userId": null
+    }
+]
