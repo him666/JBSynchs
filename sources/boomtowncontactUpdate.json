@@ -64,6 +64,8 @@
         "isVerified": false
     },
     "payload": {
+        "noteId": 446940,
+        "callLogType": 2,
         "userId": "1209",
         "contactId": 34838664,
         "tenantId": 4922,
