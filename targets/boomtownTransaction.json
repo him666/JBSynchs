@@ -1,0 +1,43 @@
+{
+  "agentIds": [
+    123
+  ],
+  "primaryAgentId": 123,
+  "status": "primaryAgentId",
+  "activeListingId": "123",
+  "soldListingId": "123",
+  "listDate": "2019-02-19T18:43:01.968Z",
+  "expirationDate": "2019-02-19T18:43:01.968Z",
+  "acceptanceDate": "2019-02-19T18:43:01.968Z",
+  "closingDate": "2019-02-19T18:43:01.968Z",
+  "price": 123,
+  "address": {
+    "address": "address",
+    "city": "city",
+    "state": "state",
+    "zipCode": "123",
+    "addressEntryType": "notSpecified",
+    "addressType": "Home",
+    "description": "description"
+  },
+  "commission": {
+    "grossCommission": 12345,
+    "grossCommissionType": "percentage",
+    "agentCommission": 12345,
+    "agentCommissionType": "percentage",
+    "leadCoordinatorCommission": 12345,
+    "leadCoordinatorCommissionType": "percentage",
+    "brokerCommission": 12345,
+    "brokerCommissionType": "percentage",
+    "franchiseFee": 12345,
+    "franchiseFeeType": "percentage",
+    "referralFee": 12345,
+    "referralFeeType": "absolute",
+    "businessExpenses": 12345,
+    "businessExpensesType": "absolute",
+    "transactionCoordinationFee": 1234,
+    "transactionCoordinationFeeType": "absolute",
+    "miscellaneousFee": 1234,
+    "miscellaneousFeeType": "percentage"
+  }
+}

@@ -23,6 +23,7 @@
   "commission_amt": "value",
   "gross_commission_amt": "value",
   "lead_dt": "value",
+  "lead_source": "value",
   "agent_id": "value",
   "transaction_id": "value",
   "file_import_id": "value",

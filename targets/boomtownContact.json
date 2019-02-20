@@ -6,12 +6,15 @@
   "sourceId": "OPENHOUSE",
   "contactBy": "Text",
   "description": "Looking to buy 3 bed 2.5bath house downtown.",
+  "status": "status",
+  "contactType": "buyer",
   "communicationPreferences": {
     "eAlertStatus": "Active"
   },
   "physicalAddresses": [
     {
-      "address": "635 Rutledge Avenue",
+      "address1": "address1",
+      "address2": "address2",
       "city": "Charleston",
       "state": "SC",
       "zipCode": "29403",
@@ -57,6 +60,21 @@
         "dateModified": "2016-01-15T16:51:08.530Z"
       }
     ]
+  },
+  "extraFields": [
+    {
+      "name": "customf1",
+      "value": "this"
+    },
+    {
+      "name": "custom2",
+      "value": "this2"
+    }
+  ],
+  "salesPerson": {
+    "agentId": 4442,
+    "system": "",
+    "agentEmail": "mmcanally.wir@gmail.com"
   },
   "tags": [
     {
