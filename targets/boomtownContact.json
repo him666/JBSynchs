@@ -1,71 +1,26 @@
 {
-  "orgId": 123,
-  "firstName": "John",
-  "lastName": "Smith",
-  "visitorId": 35426,
-  "sourceId": "OPENHOUSE",
-  "contactBy": "Text",
-  "description": "Looking to buy 3 bed 2.5bath house downtown.",
-  "communicationPreferences": {
-    "eAlertStatus": "Active"
-  },
-  "physicalAddresses": [
-    {
-      "address": "635 Rutledge Avenue",
-      "city": "Charleston",
-      "state": "SC",
-      "zipCode": "29403",
-      "addressEntryType": "agentEntered",
-      "addressType": "NotSpecified",
-      "description": "string"
-    }
-  ],
+  "orgId": 4922,
+  "firstName": "Leon",
+  "lastName": "Calhoun",
+  
+  "sourceId": "ylopo",
+
+  "description": "starsLink: http://stars.ylopo.com/lead-detail/6bf53ceb-bc97-49dd-8438-86de58b3a5a1\n 16706 Kingstowne Estates  Wildwood MO\n zip: 63011\n mls #: 18074137\n ",
+ 
+ 
   "emailAddresses": [
     {
-      "emailAddress": "JohnSmith@BoomTownROI.com",
-      "isLogin": true,
-      "isPrimary": true,
-      "description": null,
-      "emailAddressStatus": "unknown"
+      "emailAddress": "rucrzin@yahoo.com"
+      
     }
   ],
   "phoneNumbers": [
     {
-      "label": "phone number for contact",
-      "phoneNumber": "123-456-7890",
-      "phoneStatus": "active",
-      "phoneType": "mobile"
+      "label": "primary",
+      "phoneNumber": "3145993527"
     }
   ],
-  "associatedUsers": [
-    {
-      "contactId": 33,
-      "userId": 3438,
-      "contactCategory": "nurture",
-      "communicationStatus": "active",
-      "associatedUserType": "buyerAgent"
-    }
-  ],
-  "socialProfiles": {
-    "primaryPhotoUrl": null,
-    "socialAccounts": [
-      {
-        "profilePhotoUrl": "string",
-        "profileUrl": "https://www.facebook.com/JohnSmith12",
-        "socialProfileType": "facebook",
-        "dateCreated": "2016-01-15T16:51:08.530Z",
-        "dateModified": "2016-01-15T16:51:08.530Z"
-      }
-    ]
-  },
-  "tags": [
-    {
-      "tagName": "New Buyer",
-      "tagOwner": "org"
-    }
-  ],
-  "relatedContact": {
-    "eAlertStatus": "Active"
-  },
-  "contactOriginType": "ApiBulkImport"
+ 
+  
+  "contactOriginType": "ApiImport"
 }

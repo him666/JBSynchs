@@ -1,0 +1,138 @@
+{
+    "sandbox": false,
+    "loginUrl": null,
+    "username": "7078ef30-80c7-4bae-b8d5-6e61a96795fc",
+    "password": null,
+    "securityToken": "830deca1-ae77-43aa-bff5-a1f7c7778efb",
+    "customerId": "1161",
+    "leads": {
+        "Lead": {
+            "id": {
+                "leadID": null,
+                "system": "ylopo",
+                "customerId": null,
+                "userToSyncsId": "480"
+            },
+            "associatedObjectId": {
+                "customerId": null,
+                "system": "ylopo",
+                "referenceObjectType": null,
+                "referenceObjectRelationship": null
+            },
+            "fullname": "Leon Calhoun",
+            "description": null,
+            "isDeleted": null,
+            "status": null,
+            "isActive": null,
+            "createdDate": null,
+            "lastModifiedBy": {
+                "system": null,
+                "referenceObjectType": null,
+                "referenceObjectRelationship": null
+            },
+            "createdBy": {
+                "system": null,
+                "referenceObjectType": null,
+                "referenceObjectRelationship": null
+            },
+            "lastModifiedDate": null,
+            "firstName": "Leon",
+            "lastName": "Calhoun",
+            "gender": null,
+            "dateOfBirth": null,
+            "preferredLanguage": null,
+            "maritalStatus": null,
+            "salutation": null,
+            "communication": {
+                "address": {
+                    "isActive": null,
+                    "addressType": null,
+                    "customAddressType": null,
+                    "attentionOfName": null,
+                    "street1": null,
+                    "street2": null,
+                    "street3": null,
+                    "city": null,
+                    "country": null,
+                    "state": null,
+                    "Zip": null,
+                    "timeZone": null
+                },
+                "workPhone": {
+                    "typeOfPhone": null,
+                    "fullTelephoneNumber": "3145993527",
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null,
+                    "extension": null
+                },
+                "homePhone": {
+                    "typeOfPhone": null,
+                    "fullTelephoneNumber": "3145993527",
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null,
+                    "extension": null
+                },
+                "mobilePhone": {
+                    "typeOfPhone": null,
+                    "fullTelephoneNumber": "3145993527",
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null
+                },
+                "fax": {
+                    "typeOfPhone": null,
+                    "fullTelephoneNumber": null,
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null,
+                    "extension": null
+                },
+                "otherPhone": {
+                    "typeOfPhone": null,
+                    "customPhoneType": null,
+                    "fullTelephoneNumber": null,
+                    "countryCode": null,
+                    "areaCode": null,
+                    "phoneNumber": null,
+                    "extension": null
+                },
+                "emailAddress": {
+                    "email": "rucrzin@yahoo.com",
+                    "usage": "primary"
+                }
+            },
+            "isPerson": null,
+            "isConverted": null,
+            "customerType": null,
+            "rating": null,
+            "role": null,
+            "sourceType": null,
+            "sourceUrl": null,
+            "companyInformation": {
+                "website": null,
+                "SIC_Code": null,
+                "industry": null,
+                "NAICS_Code": null,
+                "numberOfEmployees": null,
+                "DNB_Number": null
+            },
+            "activity": {
+                "source": "Ylopo",
+                "type": "REGISTRATION",
+                "description": "starsLink: http://stars.ylopo.com/lead-detail/6bf53ceb-bc97-49dd-8438-86de58b3a5a1\n 16706 Kingstowne Estates  Wildwood MO\n zip: 63011\n mls #: 18074137\n Listings Viewed: 1\nNo. of Searches: 2\nListings Saved: 0\nShowing Info Requests: 0\nTotal Visits: 1\nprice: $275,000\nLast Session Avg Price: $275,000",
+                "createdDate": "2018-11-07T19:22:36.163Z"
+            },
+            "salesPerson": {
+                "agentId": null,
+                "system": null
+            },
+            "agent": {
+                "name": null,
+                "email": null,
+                "mlsID": null
+            }
+        }
+    }
+}
