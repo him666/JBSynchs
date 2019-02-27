@@ -1,15 +1,8 @@
 {
     "data": {
         "body": "Hey there, just wanted to reach out and see how you're doing.",
-        "initiated_by_contact": false,
         "subject": "Just checking in",
         "timestamp": "2016-08-26 14:37:11 UTC",
-        "type": "email",
-        "participants": [
-            {
-                "contact_id": "contact_123",
-                "handle": "liz.lemon@example.com"
-            }
-        ]
+        "contact_id": "contact_123"
     }
 }

@@ -1,0 +1,42 @@
+{
+    "source": null,
+    "eventType": "PRIORITY_LEAD_EVENT",
+    "message": "Ylopo Urgent Priority Lead: This lead requested a showing or info on 145 Morningside Avenue 1D, New York, NY\n\nStars: https://stars.ylopo.com/lead-detail/6e652a4a-c13f-453b-9eca-aeb0bd6dc2de",
+    "search": {
+      "sqFtMin": null,
+      "sqFtMax": null,
+      "priceMin": null,
+      "priceMax": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "locations": [
+        {
+          "city": null,
+          "state": null
+        }
+      ]
+    },
+    "lead": {
+      "firstName": null,
+      "lastName": null,
+      "email": "priority2@mailinator.com",
+      "phone": "5412342916",
+      "createdAt": null,
+      "starsLink": null,
+      "lastSessionAvgPrice": null,
+      "lastSessionListingsViewed": null,
+      "lastSessionSearches": null,
+      "lastSessionListingsSaved": null,
+      "lastSessionShowingInfoRequests": null,
+      "lastSessionTotalVisits": null,
+      "lastSessionLastVisitDate": null
+    },
+    "listing": {
+      "mlsNumber": null,
+      "address": null,
+      "city": null,
+      "state": null,
+      "zip": null,
+      "price": null
+    }
+  }

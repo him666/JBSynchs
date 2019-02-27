@@ -1,4 +1,4 @@
-{   
+{
     "sandbox": false,
     "loginUrl": "targetLoginUrl",
     "username": "username",
@@ -55,7 +55,7 @@
                     "city": "",
                     "country": "USA",
                     "state": "",
-                    "Zip": 5534343,
+                    "Zip": "5534343",
                     "timeZone": "",
                     "price": 5000,
                     "Mls": "",
@@ -138,6 +138,38 @@
                         "value": "this2"
                     }
                 ],
+                "extraFields": [
+                    {
+                        "name": "customf1",
+                        "value": "this"
+                    },
+                    {
+                        "name": "custom2",
+                        "value": "this2"
+                    }
+                ],
+                "associatedUsers": [
+                    {
+                        "category": "hot",
+                        "contactId": 35213456,
+                        "userType": "sellerAgent",
+                        "userId": 144718,
+                        "communicationStatus": "active",
+                        "email": "agentEmail@email.com",
+                        "firstName": "firstname",
+                        "lastName": "firstname"
+                    },
+                    {
+                        "category": "hot",
+                        "contactId": 35213456,
+                        "userType": "sellerAgent",
+                        "userId": 144718,
+                        "communicationStatus": "active",
+                        "email": "agentEmail@email.com",
+                        "firstName": "firstname",
+                        "lastName": "firstname"
+                    }
+                ],
                 "listingAgents": [
                     {
                         "name": "customf1",
@@ -174,7 +206,10 @@
                     "value": "this2"
                 }
             ],
-            "tags": ["tag1", "tag2"],
+            "tags": [
+                "tag1",
+                "tag2"
+            ],
             "agent": {
                 "name": "agentName",
                 "email": "agentEmail@email.com",

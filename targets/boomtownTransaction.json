@@ -1,0 +1,66 @@
+{
+  "agentIds": [
+    123
+  ],
+  "transactionId": "091829387120391029834",
+  "contactId": 123456,
+  "extraData": [
+    {
+      "name": "name",
+      "value": "value"
+    }
+  ],
+  "type": "type",
+  "primaryAgentId": 123,
+  "status": "primaryAgentId",
+  "activeListingId": "123",
+  "soldListingId": "123",
+  "listDate": "2019-02-19T18:43:01.968Z",
+  "expirationDate": "2019-02-19T18:43:01.968Z",
+  "acceptanceDate": "2019-02-19T18:43:01.968Z",
+  "closingDate": "2019-02-19T18:43:01.968Z",
+  "price": 123,
+  "address": {
+    "streetNumberNumeric": null,
+    "unparsedAddress": null,
+    "city": "Hollister",
+    "unitNumber": null,
+    "streetAdditionalInfo": null,
+    "bt_fullAddress": null,
+    "countyOrParish": null,
+    "streetSuffixModifier": null,
+    "streetDirPrefix": null,
+    "country": null,
+    "streetName": null,
+    "township": null,
+    "bt_cityID": null,
+    "postalCode": null,
+    "carrierRoute": null,
+    "stateOrProvince": null,
+    "postalCodePlus4": null,
+    "streetNumber": null,
+    "streetSuffix": null,
+    "postalCity": null,
+    "streetDirSuffix": null
+  },
+  "commission": {
+    "grossCommission": 12345,
+    "grossCommissionType": "percentage",
+    "agentCommission": 12345,
+    "agentCommissionType": "percentage",
+    "leadCoordinatorCommission": 12345,
+    "leadCoordinatorCommissionType": "percentage",
+    "brokerCommission": 12345,
+    "brokerCommissionType": "percentage",
+    "franchiseFee": 12345,
+    "franchiseFeeType": "percentage",
+    "referralFee": 12345,
+    "referralFeeType": "absolute",
+    "businessExpenses": 12345,
+    "businessExpensesType": "absolute",
+    "transactionCoordinationFee": 1234,
+    "transactionCoordinationFeeType": "absolute",
+    "miscellaneousFee": 1234,
+    "miscellaneousFeeType": "percentage"
+  }
+}

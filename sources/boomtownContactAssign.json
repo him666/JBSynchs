@@ -1,0 +1,20 @@
+{
+    "event": "ContactAssignmentsChangedEvent",
+    "payload": {
+        "contactId": 21610162,
+        "previousAssignments": [{
+            "userId": 108598,
+            "associatedUserType": 1
+        }, {
+            "userId": 41247,
+            "associatedUserType": 3
+        }],
+        "newAssignments": [{
+            "userId": 153477,
+            "associatedUserType": 1
+        }, {
+            "userId": 41247,
+            "associatedUserType": 3
+        }]
+    }
+}

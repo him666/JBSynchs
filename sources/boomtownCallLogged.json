@@ -1,0 +1,13 @@
+{
+  "logType": "phoneConversation",
+  "contactPhoneId": 46367264,
+  "callEndTime": null,
+  "dateModified": "2019-02-13T17:26:52.077Z",
+  "dateCreated": "2019-02-13T17:26:52.077Z",
+  "contactId": 35802938,
+  "callStartTime": null,
+  "isPrivate": true,
+  "userId": 144718,
+  "callLogId": 228436087,
+  "callDetails": "Called"
+}
