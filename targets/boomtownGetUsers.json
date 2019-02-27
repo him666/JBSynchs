@@ -1,0 +1,18 @@
+[
+  {
+    "socialLinks": null,
+    "email": "tyler@apination.com",
+    "isApproved": true,
+    "dateModified": "2019-02-08T00:30:07.860Z",
+    "orgId": 4922,
+    "lastName": "Nation",
+    "firstName": "API",
+    "dateCreated": "2019-02-08T00:23:27.120Z",
+    "roles": [
+      "agent"
+    ],
+    "restricted": null,
+    "agentSubdomain": "apination",
+    "userId": 170745
+  }
+]

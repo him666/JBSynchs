@@ -2,6 +2,15 @@
   "agentIds": [
     123
   ],
+  "transactionId": "091829387120391029834",
+  "contactId": 123456,
+  "extraData": [
+    {
+      "name": "name",
+      "value": "value"
+    }
+  ],
+  "type": "type",
   "primaryAgentId": 123,
   "status": "primaryAgentId",
   "activeListingId": "123",
@@ -12,13 +21,27 @@
   "closingDate": "2019-02-19T18:43:01.968Z",
   "price": 123,
   "address": {
-    "address": "address",
-    "city": "city",
-    "state": "state",
-    "zipCode": "123",
-    "addressEntryType": "notSpecified",
-    "addressType": "Home",
-    "description": "description"
+    "streetNumberNumeric": null,
+    "unparsedAddress": null,
+    "city": "Hollister",
+    "unitNumber": null,
+    "streetAdditionalInfo": null,
+    "bt_fullAddress": null,
+    "countyOrParish": null,
+    "streetSuffixModifier": null,
+    "streetDirPrefix": null,
+    "country": null,
+    "streetName": null,
+    "township": null,
+    "bt_cityID": null,
+    "postalCode": null,
+    "carrierRoute": null,
+    "stateOrProvince": null,
+    "postalCodePlus4": null,
+    "streetNumber": null,
+    "streetSuffix": null,
+    "postalCity": null,
+    "streetDirSuffix": null
   },
   "commission": {
     "grossCommission": 12345,
