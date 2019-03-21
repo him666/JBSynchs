@@ -1,0 +1,20 @@
+{
+  "count": 1,
+  "server_time": "2019-02-28 14:48:45",
+  "status": "success",
+  "status_code": 0,
+  "teams": [
+    {
+      "created_ts": "Mon, 21 Jan 2019 17:39:00 GMT",
+      "is_admin": 1,
+      "market_id": 0,
+      "name": "Real Synch",
+      "original_team_id": null,
+      "role": "ADMIN",
+      "status": "N",
+      "team_id": 880,
+      "timezone": "US/Mountain",
+      "updated_ts": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "user_to_syncs_id": 1390,
+    "user_id": 31,
+    "sync_id": 31204,
+    "source_id": 19,
+    "target_id": 42,
+    "sync_name": "BoomTown to SISU",
+    "target_name": "SISU",
+    "user_target_option_id": 1672,
+    "target_option_id": 31,
+    "option_value_1": "pending",
+    "option_value_2": "",
+    "option_name": "sisuTriggerCriteria",
+    "option_mask_1": "radioSelection",
+    "option_mask_2": "{\"create\": \"Create client when contact/lead in CRM is created\", \"pending\":\"Create client when contact/lead category changes to PENDING\",\"hot\":\"Create client when contact/lead category changes to HOT\"}",
+    "option_display_name": "Select the criteria for creating a client in SISU",
+    "option_default_value_1": "pending",
+    "option_default_value_2": ""
+  }
+]
