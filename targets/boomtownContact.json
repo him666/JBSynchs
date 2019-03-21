@@ -1,4 +1,15 @@
 {
+<<<<<<< HEAD
+  "orgId": 4922,
+  "firstName": "Leon",
+  "lastName": "Calhoun",
+  
+  "sourceId": "ylopo",
+
+  "description": "starsLink: http://stars.ylopo.com/lead-detail/6bf53ceb-bc97-49dd-8438-86de58b3a5a1\n 16706 Kingstowne Estates  Wildwood MO\n zip: 63011\n mls #: 18074137\n ",
+ 
+ 
+=======
   "orgId": 123,
   "firstName": "John",
   "lastName": "Smith",
@@ -24,17 +35,19 @@
       "description": "string"
     }
   ],
+>>>>>>> 8eb5473aea3459967038f76acde2183dc5c973f3
   "emailAddresses": [
     {
-      "emailAddress": "JohnSmith@BoomTownROI.com",
-      "isLogin": true,
-      "isPrimary": true,
-      "description": null,
-      "emailAddressStatus": "unknown"
+      "emailAddress": "rucrzin@yahoo.com"
+      
     }
   ],
   "phoneNumbers": [
     {
+<<<<<<< HEAD
+      "label": "primary",
+      "phoneNumber": "3145993527"
+=======
       "label": "phone number for contact",
       "phoneNumber": "123-456-7890",
       "phoneStatus": "active",
@@ -81,10 +94,10 @@
     {
       "tagName": "New Buyer",
       "tagOwner": "org"
+>>>>>>> 8eb5473aea3459967038f76acde2183dc5c973f3
     }
   ],
-  "relatedContact": {
-    "eAlertStatus": "Active"
-  },
-  "contactOriginType": "ApiBulkImport"
+ 
+  
+  "contactOriginType": "ApiImport"
 }

@@ -1,0 +1,51 @@
+{
+    "partnerName": "Leads, INC",
+    "lead": {
+      "uuid": "3e0adfb9-ce2d-44d9-ad43-515dea9d22e9",
+      "email": "johnsmith@ylopo.com",
+      "phone": "5555555555",
+      "crmId": "1",
+      "crmUrl": "https://some-crm-url.com/1",
+      "source": "Google",
+      "leadType": "BUYER",
+      "status": "New",
+      "firstName": "John",
+      "middleName": "Jacob",
+      "lastName": "Smith",
+      "tags": [
+        "HOT"
+      ],
+      "assignments": [
+        {
+          "type": "realtor",
+          "name": "Bob Realtor",
+          "crmId": "1234",
+          "email": "bobrealtor@ylopo.com",
+          "phone": "555-555-5555"
+        }
+      ],
+      "additionalData": {
+        "someString": "TEST",
+        "someCount": 5,
+        "someArray": [
+          "TEST1",
+          "TEST2"
+        ]
+      }
+    },
+    "searchAlert": {
+      "locations": [
+        {
+          "city": "Venice",
+          "state": "CA"
+        },
+        {
+          "postalCode": "90210"
+        }
+      ],
+      "minPrice": 50000,
+      "maxPrice": 500000,
+      "bathrooms": 2,
+      "bedrooms": 4
+    }
+  }
