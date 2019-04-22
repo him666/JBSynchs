@@ -1,0 +1,13 @@
+{
+  "api_build": "20190315.1",
+  "api_version": "2.11",
+  "cwd": "/home/ubuntu",
+  "database": "OK",
+  "echo": "",
+  "environment": "PROD",
+  "python": "3.6.7 (default, Oct 22 2018, 11:32:17) \n[GCC 8.2.0]",
+  "server_time": "2019-03-28 16:18:46",
+  "status": "OK",
+  "status_code": 0,
+  "team_restriction": "yes:1112"
+}

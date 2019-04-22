@@ -1,0 +1,1574 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "required": [
+    "leads"
+  ],
+  "properties": {
+    "leads": {
+      "$id": "#/properties/leads",
+      "type": "object",
+      "title": "The Leads Schema",
+      "required": [
+        "Lead"
+      ],
+      "properties": {
+        "Lead": {
+          "$id": "#/properties/leads/properties/Lead",
+          "type": "object",
+          "title": "The Lead Schema",
+          "required": [
+            "id",
+            "associatedObjectId",
+            "fullname",
+            "status",
+            "isActive",
+            "createdDate",
+            "lastModifiedBy",
+            "createdBy",
+            "lastModifiedDate",
+            "firstName",
+            "lastName",
+            "communication",
+            "customerType",
+            "sourceType",
+            "sourceUrl",
+            "activity"
+          ],
+          "properties": {
+            "id": {
+              "$id": "#/properties/leads/properties/Lead/properties/id",
+              "type": "object",
+              "title": "The Id Schema",
+              "properties": {
+                "leadID": {
+                  "$id": "#/properties/leads/properties/Lead/properties/id/properties/leadID",
+                  "type": "string",
+                  "title": "The Leadid Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "system": {
+                  "$id": "#/properties/leads/properties/Lead/properties/id/properties/system",
+                  "type": "string",
+                  "title": "The System Schema",
+                  "default": "",
+                  "examples": [
+                    "voicepad"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "customerId": {
+                  "$id": "#/properties/leads/properties/Lead/properties/id/properties/customerId",
+                  "type": "string",
+                  "title": "The Customerid Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "userToSyncsId": {
+                  "$id": "#/properties/leads/properties/Lead/properties/id/properties/userToSyncsId",
+                  "type": "string",
+                  "title": "The Usertosyncsid Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                }
+              },
+              "required": [
+                "system",
+                "userToSyncsId"
+              ]
+            },
+            "associatedObjectId": {
+              "$id": "#/properties/leads/properties/Lead/properties/associatedObjectId",
+              "type": "object",
+              "title": "The Associatedobjectid Schema",
+              "properties": {
+                "customerId": {
+                  "$id": "#/properties/leads/properties/Lead/properties/associatedObjectId/properties/customerId",
+                  "type": "string",
+                  "title": "The Customerid Schema",
+                  "default": "",
+                  "examples": [
+                    "1680"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "system": {
+                  "$id": "#/properties/leads/properties/Lead/properties/associatedObjectId/properties/system",
+                  "type": "string",
+                  "title": "The System Schema",
+                  "default": "",
+                  "examples": [
+                    "voicepad"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "referenceObjectType": {
+                  "$id": "#/properties/leads/properties/Lead/properties/associatedObjectId/properties/referenceObjectType",
+                  "type": "string",
+                  "title": "The Referenceobjecttype Schema",
+                  "default": "",
+                  "examples": [
+                    "customer"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "referenceObjectRelationship": {
+                  "$id": "#/properties/leads/properties/Lead/properties/associatedObjectId/properties/referenceObjectRelationship",
+                  "type": "string",
+                  "title": "The Referenceobjectrelationship Schema",
+                  "default": "",
+                  "examples": [
+                    "none"
+                  ],
+                  "pattern": "^(.*)$"
+                }
+              },
+              "required": [
+                "system"
+              ]
+            },
+            "fullname": {
+              "$id": "#/properties/leads/properties/Lead/properties/fullname",
+              "type": "string",
+              "title": "The Fullname Schema",
+              "description": "First Name + Last Name, Or full name if splitting is not possible",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "description": {
+              "$id": "#/properties/leads/properties/Lead/properties/description",
+              "type": "string",
+              "title": "The Description Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "isDeleted": {
+              "$id": "#/properties/leads/properties/Lead/properties/isDeleted",
+              "type": "boolean",
+              "title": "The Isdeleted Schema",
+              "default": false,
+              "examples": [
+                false
+              ]
+            },
+            "status": {
+              "$id": "#/properties/leads/properties/Lead/properties/status",
+              "type": "string",
+              "title": "The Status Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "isActive": {
+              "$id": "#/properties/leads/properties/Lead/properties/isActive",
+              "type": "boolean",
+              "title": "The Isactive Schema",
+              "default": false,
+              "examples": [
+                true
+              ]
+            },
+            "createdDate": {
+              "$id": "#/properties/leads/properties/Lead/properties/createdDate",
+              "type": "string",
+              "title": "The Createddate Schema",
+              "default": "",
+              "examples": [
+                "date"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "lastModifiedBy": {
+              "$id": "#/properties/leads/properties/Lead/properties/lastModifiedBy",
+              "type": "object",
+              "title": "The Lastmodifiedby Schema",
+              "required": [
+                "system"
+              ],
+              "properties": {
+                "system": {
+                  "$id": "#/properties/leads/properties/Lead/properties/lastModifiedBy/properties/system",
+                  "type": "string",
+                  "title": "The System Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "referenceObjectType": {
+                  "$id": "#/properties/leads/properties/Lead/properties/lastModifiedBy/properties/referenceObjectType",
+                  "type": "string",
+                  "title": "The Referenceobjecttype Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "referenceObjectRelationship": {
+                  "$id": "#/properties/leads/properties/Lead/properties/lastModifiedBy/properties/referenceObjectRelationship",
+                  "type": "string",
+                  "title": "The Referenceobjectrelationship Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                }
+              }
+            },
+            "createdBy": {
+              "$id": "#/properties/leads/properties/Lead/properties/createdBy",
+              "type": "object",
+              "title": "The Createdby Schema",
+              "required": [
+                "system"
+              ],
+              "properties": {
+                "system": {
+                  "$id": "#/properties/leads/properties/Lead/properties/createdBy/properties/system",
+                  "type": "string",
+                  "title": "The System Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "referenceObjectType": {
+                  "$id": "#/properties/leads/properties/Lead/properties/createdBy/properties/referenceObjectType",
+                  "type": "string",
+                  "title": "The Referenceobjecttype Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "referenceObjectRelationship": {
+                  "$id": "#/properties/leads/properties/Lead/properties/createdBy/properties/referenceObjectRelationship",
+                  "type": "string",
+                  "title": "The Referenceobjectrelationship Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                }
+              }
+            },
+            "lastModifiedDate": {
+              "$id": "#/properties/leads/properties/Lead/properties/lastModifiedDate",
+              "type": "string",
+              "title": "The Lastmodifieddate Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "firstName": {
+              "$id": "#/properties/leads/properties/Lead/properties/firstName",
+              "type": "string",
+              "title": "The Firstname Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "lastName": {
+              "$id": "#/properties/leads/properties/Lead/properties/lastName",
+              "type": "string",
+              "title": "The Lastname Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "gender": {
+              "$id": "#/properties/leads/properties/Lead/properties/gender",
+              "type": "string",
+              "title": "The Gender Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "dateOfBirth": {
+              "$id": "#/properties/leads/properties/Lead/properties/dateOfBirth",
+              "type": "string",
+              "title": "The Dateofbirth Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "preferredLanguage": {
+              "$id": "#/properties/leads/properties/Lead/properties/preferredLanguage",
+              "type": "string",
+              "title": "The Preferredlanguage Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "maritalStatus": {
+              "$id": "#/properties/leads/properties/Lead/properties/maritalStatus",
+              "type": "string",
+              "title": "The Maritalstatus Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "salutation": {
+              "$id": "#/properties/leads/properties/Lead/properties/salutation",
+              "type": "string",
+              "title": "The Salutation Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "communication": {
+              "$id": "#/properties/leads/properties/Lead/properties/communication",
+              "type": "object",
+              "title": "The Communication Schema",
+              "properties": {
+                "address": {
+                  "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address",
+                  "type": "object",
+                  "title": "The Address Schema",
+                  "default": null,
+                  "properties": {
+                    "isActive": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/isActive",
+                      "type": "boolean",
+                      "title": "The Isactive Schema",
+                      "default": false,
+                      "examples": [
+                        true
+                      ]
+                    },
+                    "addressType": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/addressType",
+                      "type": "string",
+                      "title": "The Addresstype Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "customAddressType": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/customAddressType",
+                      "type": "string",
+                      "title": "The Customaddresstype Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "attentionOfName": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/attentionOfName",
+                      "type": "string",
+                      "title": "The Attentionofname Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "street1": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/street1",
+                      "type": "string",
+                      "title": "The Street1 Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "street2": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/street2",
+                      "type": "string",
+                      "title": "The Street2 Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "street3": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/street3",
+                      "type": "string",
+                      "title": "The Street3 Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "city": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/city",
+                      "type": "string",
+                      "title": "The City Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "country": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/country",
+                      "type": "string",
+                      "title": "The Country Schema",
+                      "default": "",
+                      "examples": [
+                        "USA"
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "state": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/state",
+                      "type": "string",
+                      "title": "The State Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "Zip": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/Zip",
+                      "type": "string",
+                      "title": "The Zip Schema",
+                      "default": "",
+                      "examples": [
+                        "5534343"
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "timeZone": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/timeZone",
+                      "type": "string",
+                      "title": "The Timezone Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "price": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/price",
+                      "type": "integer",
+                      "title": "The Price Schema",
+                      "default": 0,
+                      "examples": [
+                        5000
+                      ]
+                    },
+                    "Mls": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/Mls",
+                      "type": "string",
+                      "title": "The Mls Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "MlsId": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/address/properties/MlsId",
+                      "type": "string",
+                      "title": "The Mlsid Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    }
+                  },
+                  "required": [
+                    "street1",
+                    "street2",
+                    "street3",
+                    "city",
+                    "country",
+                    "state",
+                    "Zip"
+                  ]
+                },
+                "workPhone": {
+                  "$id": "#/properties/leads/properties/Lead/properties/communication/properties/workPhone",
+                  "type": "object",
+                  "title": "The Workphone Schema",
+                  "properties": {
+                    "typeOfPhone": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/workPhone/properties/typeOfPhone",
+                      "type": "string",
+                      "title": "The Typeofphone Schema",
+                      "default": "",
+                      "examples": [
+                        "workPhone"
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "fullTelephoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/workPhone/properties/fullTelephoneNumber",
+                      "type": "string",
+                      "title": "The Fulltelephonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "countryCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/workPhone/properties/countryCode",
+                      "type": "string",
+                      "title": "The Countrycode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "areaCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/workPhone/properties/areaCode",
+                      "type": "string",
+                      "title": "The Areacode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "phoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/workPhone/properties/phoneNumber",
+                      "type": "string",
+                      "title": "The Phonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "extension": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/workPhone/properties/extension",
+                      "type": "string",
+                      "title": "The Extension Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    }
+                  },
+                  "required": [
+                    "fullTelephoneNumber",
+                    "countryCode"
+                  ]
+                },
+                "homePhone": {
+                  "$id": "#/properties/leads/properties/Lead/properties/communication/properties/homePhone",
+                  "type": "object",
+                  "title": "The Homephone Schema",
+                  "default": null,
+                  "properties": {
+                    "typeOfPhone": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/homePhone/properties/typeOfPhone",
+                      "type": "string",
+                      "title": "The Typeofphone Schema",
+                      "default": "",
+                      "examples": [
+                        "homePhone"
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "fullTelephoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/homePhone/properties/fullTelephoneNumber",
+                      "type": "string",
+                      "title": "The Fulltelephonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "countryCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/homePhone/properties/countryCode",
+                      "type": "string",
+                      "title": "The Countrycode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "areaCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/homePhone/properties/areaCode",
+                      "type": "string",
+                      "title": "The Areacode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "phoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/homePhone/properties/phoneNumber",
+                      "type": "string",
+                      "title": "The Phonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "extension": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/homePhone/properties/extension",
+                      "type": "string",
+                      "title": "The Extension Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    }
+                  },
+                  "required": [
+                    "fullTelephoneNumber"
+                  ]
+                },
+                "mobilePhone": {
+                  "$id": "#/properties/leads/properties/Lead/properties/communication/properties/mobilePhone",
+                  "type": "object",
+                  "title": "The Mobilephone Schema",
+                  "default": null,
+                  "properties": {
+                    "typeOfPhone": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/mobilePhone/properties/typeOfPhone",
+                      "type": "string",
+                      "title": "The Typeofphone Schema",
+                      "default": "",
+                      "examples": [
+                        "MobilePhone"
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "fullTelephoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/mobilePhone/properties/fullTelephoneNumber",
+                      "type": "string",
+                      "title": "The Fulltelephonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "countryCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/mobilePhone/properties/countryCode",
+                      "type": "string",
+                      "title": "The Countrycode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "areaCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/mobilePhone/properties/areaCode",
+                      "type": "string",
+                      "title": "The Areacode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "phoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/mobilePhone/properties/phoneNumber",
+                      "type": "string",
+                      "title": "The Phonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    }
+                  },
+                  "required": [
+                    "fullTelephoneNumber"
+                  ]
+                },
+                "fax": {
+                  "$id": "#/properties/leads/properties/Lead/properties/communication/properties/fax",
+                  "type": "object",
+                  "title": "The Fax Schema",
+                  "default": null,
+                  "required": [
+                    "typeOfPhone",
+                    "fullTelephoneNumber"
+                  ],
+                  "properties": {
+                    "typeOfPhone": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/fax/properties/typeOfPhone",
+                      "type": "string",
+                      "title": "The Typeofphone Schema",
+                      "default": "",
+                      "examples": [
+                        "fax"
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "fullTelephoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/fax/properties/fullTelephoneNumber",
+                      "type": "string",
+                      "title": "The Fulltelephonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "countryCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/fax/properties/countryCode",
+                      "type": "string",
+                      "title": "The Countrycode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "areaCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/fax/properties/areaCode",
+                      "type": "string",
+                      "title": "The Areacode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "phoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/fax/properties/phoneNumber",
+                      "type": "string",
+                      "title": "The Phonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "extension": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/fax/properties/extension",
+                      "type": "string",
+                      "title": "The Extension Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    }
+                  }
+                },
+                "otherPhone": {
+                  "$id": "#/properties/leads/properties/Lead/properties/communication/properties/otherPhone",
+                  "type": "object",
+                  "title": "The Otherphone Schema",
+                  "default": null,
+                  "properties": {
+                    "typeOfPhone": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/otherPhone/properties/typeOfPhone",
+                      "type": "string",
+                      "title": "The Typeofphone Schema",
+                      "default": "",
+                      "examples": [
+                        "daughter's"
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "customPhoneType": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/otherPhone/properties/customPhoneType",
+                      "type": "string",
+                      "title": "The Customphonetype Schema",
+                      "default": "",
+                      "examples": [
+                        "cellphone"
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "fullTelephoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/otherPhone/properties/fullTelephoneNumber",
+                      "type": "string",
+                      "title": "The Fulltelephonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "countryCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/otherPhone/properties/countryCode",
+                      "type": "string",
+                      "title": "The Countrycode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "areaCode": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/otherPhone/properties/areaCode",
+                      "type": "string",
+                      "title": "The Areacode Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "phoneNumber": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/otherPhone/properties/phoneNumber",
+                      "type": "string",
+                      "title": "The Phonenumber Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "extension": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/otherPhone/properties/extension",
+                      "type": "string",
+                      "title": "The Extension Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    }
+                  },
+                  "required": [
+                    "fullTelephoneNumber",
+                    "phoneNumber"
+                  ]
+                },
+                "emailAddress": {
+                  "$id": "#/properties/leads/properties/Lead/properties/communication/properties/emailAddress",
+                  "type": "object",
+                  "title": "The Emailaddress Schema",
+                  "required": [
+                    "email",
+                    "usage"
+                  ],
+                  "properties": {
+                    "email": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/emailAddress/properties/email",
+                      "type": "string",
+                      "title": "The Email Schema",
+                      "default": "",
+                      "examples": [
+                        ""
+                      ],
+                      "pattern": "^(.*)$"
+                    },
+                    "usage": {
+                      "$id": "#/properties/leads/properties/Lead/properties/communication/properties/emailAddress/properties/usage",
+                      "type": "string",
+                      "title": "The Usage Schema",
+                      "default": "",
+                      "examples": [
+                        "primary"
+                      ],
+                      "pattern": "^(.*)$"
+                    }
+                  }
+                }
+              },
+              "required": [
+                "workPhone",
+                "emailAddress"
+              ]
+            },
+            "isPerson": {
+              "$id": "#/properties/leads/properties/Lead/properties/isPerson",
+              "type": "boolean",
+              "title": "The Isperson Schema",
+              "default": false,
+              "examples": [
+                true
+              ]
+            },
+            "isConverted": {
+              "$id": "#/properties/leads/properties/Lead/properties/isConverted",
+              "type": "boolean",
+              "title": "The Isconverted Schema",
+              "default": false,
+              "examples": [
+                false
+              ]
+            },
+            "customerType": {
+              "$id": "#/properties/leads/properties/Lead/properties/customerType",
+              "type": "string",
+              "title": "The Customertype Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "rating": {
+              "$id": "#/properties/leads/properties/Lead/properties/rating",
+              "type": "string",
+              "title": "The Rating Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "role": {
+              "$id": "#/properties/leads/properties/Lead/properties/role",
+              "type": "string",
+              "title": "The Role Schema",
+              "default": "",
+              "examples": [
+                "Buyer"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "sourceType": {
+              "$id": "#/properties/leads/properties/Lead/properties/sourceType",
+              "type": "string",
+              "title": "The Sourcetype Schema",
+              "default": "",
+              "examples": [
+                ""
+              ],
+              "pattern": "^(.*)$"
+            },
+            "sourceUrl": {
+              "$id": "#/properties/leads/properties/Lead/properties/sourceUrl",
+              "type": "string",
+              "title": "The Sourceurl Schema",
+              "default": "",
+              "examples": [
+                "www.alamohousehunters.com"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "companyInformation": {
+              "$id": "#/properties/leads/properties/Lead/properties/companyInformation",
+              "type": "object",
+              "title": "The Companyinformation Schema",
+              "default": null,
+              "properties": {
+                "website": {
+                  "$id": "#/properties/leads/properties/Lead/properties/companyInformation/properties/website",
+                  "type": "string",
+                  "title": "The Website Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "SIC_Code": {
+                  "$id": "#/properties/leads/properties/Lead/properties/companyInformation/properties/SIC_Code",
+                  "type": "string",
+                  "title": "The Sic_code Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "industry": {
+                  "$id": "#/properties/leads/properties/Lead/properties/companyInformation/properties/industry",
+                  "type": "string",
+                  "title": "The Industry Schema",
+                  "default": "",
+                  "examples": [
+                    "realState"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "NAICS_Code": {
+                  "$id": "#/properties/leads/properties/Lead/properties/companyInformation/properties/NAICS_Code",
+                  "type": "string",
+                  "title": "The Naics_code Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "numberOfEmployees": {
+                  "$id": "#/properties/leads/properties/Lead/properties/companyInformation/properties/numberOfEmployees",
+                  "type": "integer",
+                  "title": "The Numberofemployees Schema",
+                  "default": 0,
+                  "examples": [
+                    1
+                  ]
+                },
+                "DNB_Number": {
+                  "$id": "#/properties/leads/properties/Lead/properties/companyInformation/properties/DNB_Number",
+                  "type": "string",
+                  "title": "The Dnb_number Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                }
+              }
+            },
+            "activity": {
+              "$id": "#/properties/leads/properties/Lead/properties/activity",
+              "type": "object",
+              "title": "The Activity Schema",
+              "required": [
+                "source",
+                "type",
+                "description",
+                "createdDate"
+              ],
+              "properties": {
+                "source": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/source",
+                  "type": "string",
+                  "title": "The Source Schema",
+                  "default": "",
+                  "examples": [
+                    "vpad"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "type": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/type",
+                  "type": "string",
+                  "title": "The Type Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "description": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/description",
+                  "type": "string",
+                  "title": "The Description Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "voiceMailLeft": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/voiceMailLeft",
+                  "type": "boolean",
+                  "title": "The Voicemailleft Schema",
+                  "default": false,
+                  "examples": [
+                    true
+                  ]
+                },
+                "voiceMailUrl": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/voiceMailUrl",
+                  "type": "string",
+                  "title": "The Voicemailurl Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "createdDate": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/createdDate",
+                  "type": "string",
+                  "title": "The Createddate Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "customFields": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/customFields",
+                  "type": "array",
+                  "title": "The Customfields Schema",
+                  "default": null,
+                  "items": {
+                    "$id": "#/properties/leads/properties/Lead/properties/activity/properties/customFields/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "required": [
+                      "name",
+                      "value"
+                    ],
+                    "properties": {
+                      "name": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/customFields/items/properties/name",
+                        "type": "string",
+                        "title": "The Name Schema",
+                        "default": "",
+                        "examples": [
+                          "customf1"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "value": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/customFields/items/properties/value",
+                        "type": "string",
+                        "title": "The Value Schema",
+                        "default": "",
+                        "examples": [
+                          "this"
+                        ],
+                        "pattern": "^(.*)$"
+                      }
+                    }
+                  }
+                },
+                "extraFields": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/extraFields",
+                  "type": "array",
+                  "title": "The Extrafields Schema",
+                  "default": null,
+                  "items": {
+                    "$id": "#/properties/leads/properties/Lead/properties/activity/properties/extraFields/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "required": [
+                      "name",
+                      "value"
+                    ],
+                    "properties": {
+                      "name": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/extraFields/items/properties/name",
+                        "type": "string",
+                        "title": "The Name Schema",
+                        "default": "",
+                        "examples": [
+                          "customf1"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "value": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/extraFields/items/properties/value",
+                        "type": "string",
+                        "title": "The Value Schema",
+                        "default": "",
+                        "examples": [
+                          "this"
+                        ],
+                        "pattern": "^(.*)$"
+                      }
+                    }
+                  }
+                },
+                "associatedUsers": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers",
+                  "type": "array",
+                  "title": "The Associatedusers Schema",
+                  "default": null,
+                  "items": {
+                    "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "required": [
+                      "category",
+                      "contactId",
+                      "userType",
+                      "userId",
+                      "email",
+                      "firstName",
+                      "lastName"
+                    ],
+                    "properties": {
+                      "category": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items/properties/category",
+                        "type": "string",
+                        "title": "The Category Schema",
+                        "default": "",
+                        "examples": [
+                          "hot"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "contactId": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items/properties/contactId",
+                        "type": "integer",
+                        "title": "The Contactid Schema",
+                        "default": 0,
+                        "examples": [
+                          35213456
+                        ]
+                      },
+                      "userType": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items/properties/userType",
+                        "type": "string",
+                        "title": "The Usertype Schema",
+                        "default": "",
+                        "examples": [
+                          "sellerAgent"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "userId": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items/properties/userId",
+                        "type": "integer",
+                        "title": "The Userid Schema",
+                        "default": 0,
+                        "examples": [
+                          144718
+                        ]
+                      },
+                      "communicationStatus": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items/properties/communicationStatus",
+                        "type": "string",
+                        "title": "The Communicationstatus Schema",
+                        "default": "",
+                        "examples": [
+                          "active"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "email": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items/properties/email",
+                        "type": "string",
+                        "title": "The Email Schema",
+                        "default": "",
+                        "examples": [
+                          "agentEmail@email.com"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "firstName": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items/properties/firstName",
+                        "type": "string",
+                        "title": "The Firstname Schema",
+                        "default": "",
+                        "examples": [
+                          "firstname"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "lastName": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/associatedUsers/items/properties/lastName",
+                        "type": "string",
+                        "title": "The Lastname Schema",
+                        "default": "",
+                        "examples": [
+                          "firstname"
+                        ],
+                        "pattern": "^(.*)$"
+                      }
+                    }
+                  }
+                },
+                "listingAgents": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/listingAgents",
+                  "type": "array",
+                  "title": "The Listingagents Schema",
+                  "default": null,
+                  "items": {
+                    "$id": "#/properties/leads/properties/Lead/properties/activity/properties/listingAgents/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "required": [
+                      "name",
+                      "value"
+                    ],
+                    "properties": {
+                      "name": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/listingAgents/items/properties/name",
+                        "type": "string",
+                        "title": "The Name Schema",
+                        "default": "",
+                        "examples": [
+                          "customf1"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "value": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/listingAgents/items/properties/value",
+                        "type": "string",
+                        "title": "The Value Schema",
+                        "default": "",
+                        "examples": [
+                          "this"
+                        ],
+                        "pattern": "^(.*)$"
+                      }
+                    }
+                  }
+                },
+                "ListingAgentMLS": {
+                  "$id": "#/properties/leads/properties/Lead/properties/activity/properties/ListingAgentMLS",
+                  "type": "array",
+                  "title": "The Listingagentmls Schema",
+                  "default": null,
+                  "items": {
+                    "$id": "#/properties/leads/properties/Lead/properties/activity/properties/ListingAgentMLS/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "required": [
+                      "name",
+                      "value"
+                    ],
+                    "properties": {
+                      "name": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/ListingAgentMLS/items/properties/name",
+                        "type": "string",
+                        "title": "The Name Schema",
+                        "default": "",
+                        "examples": [
+                          "customf1"
+                        ],
+                        "pattern": "^(.*)$"
+                      },
+                      "value": {
+                        "$id": "#/properties/leads/properties/Lead/properties/activity/properties/ListingAgentMLS/items/properties/value",
+                        "type": "string",
+                        "title": "The Value Schema",
+                        "default": "",
+                        "examples": [
+                          "this"
+                        ],
+                        "pattern": "^(.*)$"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "salesPerson": {
+              "$id": "#/properties/leads/properties/Lead/properties/salesPerson",
+              "type": "object",
+              "title": "The Salesperson Schema",
+              "default": null,
+              "required": [
+                "agentId",
+                "system",
+                "agentEmail"
+              ],
+              "properties": {
+                "agentId": {
+                  "$id": "#/properties/leads/properties/Lead/properties/salesPerson/properties/agentId",
+                  "type": "string",
+                  "title": "The Agentid Schema",
+                  "default": "",
+                  "examples": [
+                    ""
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "system": {
+                  "$id": "#/properties/leads/properties/Lead/properties/salesPerson/properties/system",
+                  "type": "string",
+                  "title": "The System Schema",
+                  "default": "",
+                  "examples": [
+                    "vpad"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "agentEmail": {
+                  "$id": "#/properties/leads/properties/Lead/properties/salesPerson/properties/agentEmail",
+                  "type": "string",
+                  "title": "The Agentemail Schema",
+                  "default": "",
+                  "examples": [
+                    "agentmail"
+                  ],
+                  "pattern": "^(.*)$"
+                }
+              }
+            },
+            "customFields": {
+              "$id": "#/properties/leads/properties/Lead/properties/customFields",
+              "type": "array",
+              "title": "The Customfields Schema",
+              "default": null,
+              "items": {
+                "$id": "#/properties/leads/properties/Lead/properties/customFields/items",
+                "type": "object",
+                "title": "The Items Schema",
+                "required": [
+                  "name",
+                  "value"
+                ],
+                "properties": {
+                  "name": {
+                    "$id": "#/properties/leads/properties/Lead/properties/customFields/items/properties/name",
+                    "type": "string",
+                    "title": "The Name Schema",
+                    "default": "",
+                    "examples": [
+                      "customf1"
+                    ],
+                    "pattern": "^(.*)$"
+                  },
+                  "value": {
+                    "$id": "#/properties/leads/properties/Lead/properties/customFields/items/properties/value",
+                    "type": "string",
+                    "title": "The Value Schema",
+                    "default": "",
+                    "examples": [
+                      "this"
+                    ],
+                    "pattern": "^(.*)$"
+                  }
+                }
+              }
+            },
+            "tags": {
+              "$id": "#/properties/leads/properties/Lead/properties/tags",
+              "type": "array",
+              "title": "The Tags Schema",
+              "default": null,
+              "items": {
+                "$id": "#/properties/leads/properties/Lead/properties/tags/items",
+                "type": "string",
+                "title": "The Items Schema",
+                "default": "",
+                "examples": [
+                  "tag1",
+                  "tag2"
+                ],
+                "pattern": "^(.*)$"
+              }
+            },
+            "agent": {
+              "$id": "#/properties/leads/properties/Lead/properties/agent",
+              "type": "object",
+              "title": "The Agent Schema",
+              "default": null,
+              "required": [
+                "name",
+                "email",
+                "mlsID"
+              ],
+              "properties": {
+                "name": {
+                  "$id": "#/properties/leads/properties/Lead/properties/agent/properties/name",
+                  "type": "string",
+                  "title": "The Name Schema",
+                  "default": "",
+                  "examples": [
+                    "agentName"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "email": {
+                  "$id": "#/properties/leads/properties/Lead/properties/agent/properties/email",
+                  "type": "string",
+                  "title": "The Email Schema",
+                  "default": "",
+                  "examples": [
+                    "agentEmail@email.com"
+                  ],
+                  "pattern": "^(.*)$"
+                },
+                "mlsID": {
+                  "$id": "#/properties/leads/properties/Lead/properties/agent/properties/mlsID",
+                  "type": "integer",
+                  "title": "The Mlsid Schema",
+                  "default": 0,
+                  "examples": [
+                    13243546
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "transaction": {
+      "$id": "#/properties/transaction",
+      "type": "array",
+      "title": "The Transaction Schema",
+      "default": null,
+      "items": {
+        "$id": "#/properties/transaction/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "required": [
+          "participants",
+          "property",
+          "providerType",
+          "role"
+        ],
+        "properties": {
+          "participants": {
+            "$id": "#/properties/transaction/items/properties/participants",
+            "type": "array",
+            "title": "The Participants Schema"
+          },
+          "property": {
+            "$id": "#/properties/transaction/items/properties/property",
+            "type": "object",
+            "title": "The Property Schema"
+          },
+          "providerType": {
+            "$id": "#/properties/transaction/items/properties/providerType",
+            "type": "string",
+            "title": "The Providertype Schema",
+            "default": "",
+            "examples": [
+              ""
+            ],
+            "pattern": "^(.*)$"
+          },
+          "role": {
+            "$id": "#/properties/transaction/items/properties/role",
+            "type": "string",
+            "title": "The Role Schema",
+            "default": "",
+            "examples": [
+              ""
+            ],
+            "pattern": "^(.*)$"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "created": "2018-05-16T13:30:26Z",
+  "updated": "2019-04-18T16:27:31Z",
+  "name": "RS Support",
+  "firstName": "RS",
+  "lastName": "Support",
+  "email": "support@realsynch.com",
+  "phone": "(512) 937 0592",
+  "role": "Broker",
+  "status": "Active",
+  "timezone": "America/Chicago",
+  "beta": true,
+  "isOwner": true,
+  "groups": [
+    {
+      "id": 1,
+      "name": "Team Beta"
+    },
+    {
+      "id": 2,
+      "name": "Seller Leads"
+    }
+  ],
+  "leadEmailAddress": "rs.beta@followupboss.me"
+}

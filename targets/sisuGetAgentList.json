@@ -1,0 +1,34 @@
+{
+  "agents": [
+    {
+      "agent_id": 5519,
+      "client_count": 0,
+      "created_ts": "Fri, 15 Mar 2019 03:20:00 GMT",
+      "desired_income": 500000,
+      "email": "Tatiana@whisselrealty.com",
+      "external_agents": [],
+      "file_import_id": null,
+      "filename": "183a8f64-39f4-4f47-91c6-2d1a820aeb40.png",
+      "first_name": "Tatiana",
+      "forgot_password_key": null,
+      "forgot_password_key_ts": null,
+      "import_dt": null,
+      "is_admin": null,
+      "is_superuser": null,
+      "last_access_ip": "172.68.230.103",
+      "last_access_ts": "Wed, 27 Mar 2019 16:28:00 GMT",
+      "last_name": "Talan",
+      "mls_id": null,
+      "mobile_phone": "8585000009",
+      "original_agent_id": null,
+      "status": "N",
+      "timezone": null,
+      "title": null,
+      "updated_ts": "Wed, 27 Mar 2019 16:28:00 GMT",
+      "vision_statement": null
+    }
+  ],
+  "server_time": "2019-03-28 16:36:15",
+  "status": "success",
+  "status_code": 0
+}

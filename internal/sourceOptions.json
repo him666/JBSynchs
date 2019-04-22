@@ -1,0 +1,21 @@
+[
+  {
+    "user_to_syncs_id": 1539,
+    "user_id": 109,
+    "sync_id": 31244,
+    "source_id": 24,
+    "target_id": 44,
+    "sync_name": "Follow Up Boss to Conversion Monster",
+    "source_name": "Follow Up Boss",
+    "user_source_option_id": 4624,
+    "source_option_id": 49,
+    "option_value_1": "null",
+    "option_value_2": "null",
+    "option_name": "tag",
+    "option_mask_1": "text-array",
+    "option_mask_2": "Buyer, Seller, Real Estate Agent",
+    "option_display_name": "Input the tags you want to allow for filtering, Leave empty for no filtering",
+    "option_default_value_1": "null",
+    "option_default_value_2": "null"
+  }
+]

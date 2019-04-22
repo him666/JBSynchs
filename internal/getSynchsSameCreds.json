@@ -1,0 +1,11 @@
+[
+  {
+    "id": 562,
+    "user_to_syncs_id": 966,
+    "user_id": 77,
+    "src_credentials": "KDpXI9ZqODpKQZlXKJZP5EQQEfarxSC2IfElzauiemH8g0+yxzcCGC6eZMugStGU\n+lVGePAmrWDbnX0g9kWmtyYNUkzY1e6AGAet60O0ESCIfIER4StauUKxcS2gVGQa\nhTfHoehJJIjWUjmw5GyF5qI78Z7YWfhltza5cypOrnf/ZGdC1sJaqKmkicamzBi8\ngnENyvAKBC0+lMZQdIPKFeFsxQvHWEGDDc3h7je4yVSxqgSnlHmImFs0C8N9XVDy",
+    "trg_credentials": "KDpXI9ZqODpKQZlXKJZP5AakuwSehtOBILynL1dRqiPmGO5Mp6nyLRBUwv1PDlap\nrcuDVjYDJYCpXUR2DUyigHOQPz7IaBOAC2Odm4FsSR+Wwqhj4wAp4Ywk7PwWBfYB\nXLe0kBk4lqecurpY1Up2SFs1Vqopv09IMVKki9QWx4jnhwKxIDntkyfLHPVpcy4H\ni47NF1Cjh+Nb+QUy2u+NGg==",
+    "source": "boomtown",
+    "target": "marketsnapshot"
+  }
+]
