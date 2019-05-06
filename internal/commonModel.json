@@ -122,6 +122,8 @@
                 "voiceMailLeft": true,
                 "voiceMailUrl": "",
                 "createdDate": "",
+                "isLeadActivity": false,
+                "rsGenericActivity": "leadUpdate",
                 "customFields": [
                     {
                         "name": "customf1",
