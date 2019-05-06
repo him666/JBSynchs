@@ -1,0 +1,15 @@
+{
+    "id": 18,
+    "created": "2014-06-20T23:28:51Z",
+    "updated": "2014-08-12T17:24:22Z",
+    "createdById": 4,
+    "updatedById": 4,
+    "phone": "555-405-0815",
+    "personId": 12254,
+    "userId": 4,
+    "userName": "Agent White",
+    "note": "A note about the call",
+    "outcome": "Left Message",
+    "isIncoming": false,
+    "duration": 63
+  }
