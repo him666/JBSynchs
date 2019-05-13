@@ -72,6 +72,7 @@
         "contactId": 34838664,
         "tenantId": 4922,
         "newCategory": 2,
+        "message": "string",
         "isLender": false,
         "originalSource": "UNKNOWN",
         "orgId": 4922,
