@@ -218,6 +218,61 @@
                 "name": "agentName",
                 "email": "agentEmail@email.com",
                 "mlsID": 13243546
+            },
+            "transaction": {
+                "transactionId": "864474137eb4c455fd9d6900abf7fbb83990858d8e24b25adc6d840d52753ab0",
+                "createdDate": "Wed, 06 Feb 2019 00:00:00 GMT",
+                "appointmentDate": "Wed, 06 Feb 2019 00:00:00 GMT",
+                "acceptanceDate": "Wed, 06 Feb 2019 00:00:00 GMT",
+                "signedDate": "Wed, 06 Feb 2019 00:00:00 GMT",
+                "closingDate": "Wed, 06 Feb 2019 00:00:00 GMT",
+                "expirationDate": "Wed, 06 Feb 2019 00:00:00 GMT",
+                "status": "originalStatus",
+                "amount": "123456789",
+                "type": "buyer",
+                "propertyAddress": {
+                    "isActive": true,
+                    "addressType": "",
+                    "customAddressType": "",
+                    "attentionOfName": "",
+                    "street1": "",
+                    "street2": "",
+                    "street3": "",
+                    "city": "",
+                    "country": "USA",
+                    "state": "",
+                    "Zip": "5534343",
+                    "timeZone": "",
+                    "price": 5000,
+                    "Mls": "",
+                    "MlsId": ""
+                },
+                "commission": {
+                    "miscellaneousFeeType": "string",
+                    "miscellaneousFee": 0.0,
+                    "leadCoordinatorCommissionType": "string",
+                    "leadCoordinatorCommission": 0.0,
+                    "transactionCoordinationFeeType": "string",
+                    "transactionCoordinationFee": 0.0,
+                    "agentCommissionType": "string",
+                    "agentCommission": 0.0,
+                    "businessExpensesType": "string",
+                    "businessExpenses": 0.0,
+                    "grossCommissionType": "string",
+                    "grossCommission": 0.0,
+                    "referralFeeType": "string",
+                    "referralFee": 0.0,
+                    "franchiseFeeType": "string",
+                    "franchiseFee": 0.0,
+                    "brokerCommissionType": "string",
+                    "brokerCommission": 0.0
+                },
+                "agent": {
+                    "agentName": "agentName",
+                    "agentEmail": "agent@email.com",
+                    "agentPhone": "5557776689",
+                    "agentID": "someID"
+                }
             }
         }
     }
