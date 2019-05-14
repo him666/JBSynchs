@@ -217,8 +217,8 @@
     "acceptanceDate": "2019-05-13T05:00:00Z",
     "expirationDate": "2019-05-14T05:00:00Z",
     "commission": {
-      "miscellaneousFee": null,
-      "leadCoordinatorCommission": null,
+      "miscellaneousFee": 12312,
+      "leadCoordinatorCommission": 12213,
       "transactionCoordinationFeeType": null,
       "agentCommission": 0,
       "businessExpensesType": null,
@@ -226,15 +226,15 @@
       "referralFeeType": null,
       "franchiseFeeType": null,
       "brokerCommissionType": null,
-      "referralFee": null,
+      "referralFee": 1231231,
       "agentCommissionType": "percentage",
-      "transactionCoordinationFee": null,
-      "franchiseFee": null,
+      "transactionCoordinationFee": 123123,
+      "franchiseFee": 1231231,
       "grossCommissionType": "percentage",
-      "brokerCommission": null,
+      "brokerCommission": 1231231,
       "miscellaneousFeeType": null,
       "leadCoordinatorCommissionType": null,
-      "businessExpenses": null
+      "businessExpenses": 1231231
     },
     "primaryAgentId": 144718,
     "price": 3000600,
@@ -276,6 +276,12 @@
       144718
     ],
     "closingDate": "2019-05-15T05:00:00Z",
-    "transactionId": "2fe32c1b69e06603185cb1978997efaf239a6a04d0f9542d826dac858c6c35d2"
+    "transactionId": "2fe32c1b69e06603185cb1978997efaf239a6a04d0f9542d826dac858c6c35d2",
+    "agent" : {
+      "agentName": "Name",
+      "agentEmail": "email",
+      "agentPhone": "32341231",
+      "agentID": "ID number"
+    }
   }
 }

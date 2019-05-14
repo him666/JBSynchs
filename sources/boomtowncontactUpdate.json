@@ -1,5 +1,6 @@
 {
     "event": "this ev",
+    "eventType": "transactionEventType",
     "userId": 135047,
     "actionType": "ContactUpdated",
     "detailsValidAt": "2019-01-09T18:51:10.954Z",
