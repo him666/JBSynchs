@@ -1,0 +1,281 @@
+{
+  "leads": {
+    "Lead": {
+      "id": {
+        "leadID": "",
+        "system": "voicepad",
+        "customerId": "",
+        "userToSyncsId": ""
+      },
+      "associatedObjectId": {
+        "customerId": "1680",
+        "system": "voicepad",
+        "referenceObjectType": "customer",
+        "referenceObjectRelationship": "none"
+      },
+      "fullname": "",
+      "description": "",
+      "isDeleted": false,
+      "status": "",
+      "isActive": true,
+      "createdDate": "date",
+      "lastModifiedBy": {
+        "system": "",
+        "referenceObjectType": "",
+        "referenceObjectRelationship": ""
+      },
+      "createdBy": {
+        "system": "",
+        "referenceObjectType": "",
+        "referenceObjectRelationship": ""
+      },
+      "lastModifiedDate": "",
+      "firstName": "",
+      "lastName": "",
+      "gender": "",
+      "dateOfBirth": "",
+      "preferredLanguage": "",
+      "maritalStatus": "",
+      "salutation": "",
+      "communication": {
+        "address": {
+          "isActive": true,
+          "addressType": "",
+          "customAddressType": "",
+          "attentionOfName": "",
+          "street1": "",
+          "street2": "",
+          "street3": "",
+          "city": "",
+          "country": "USA",
+          "state": "",
+          "Zip": "5534343",
+          "timeZone": "",
+          "price": 5000,
+          "Mls": "",
+          "MlsId": ""
+        },
+        "workPhone": {
+          "typeOfPhone": "workPhone",
+          "fullTelephoneNumber": "",
+          "countryCode": "",
+          "areaCode": "",
+          "phoneNumber": "",
+          "extension": ""
+        },
+        "homePhone": {
+          "typeOfPhone": "homePhone",
+          "fullTelephoneNumber": "",
+          "countryCode": "",
+          "areaCode": "",
+          "phoneNumber": "",
+          "extension": ""
+        },
+        "mobilePhone": {
+          "typeOfPhone": "MobilePhone",
+          "fullTelephoneNumber": "",
+          "countryCode": "",
+          "areaCode": "",
+          "phoneNumber": ""
+        },
+        "fax": {
+          "typeOfPhone": "fax",
+          "fullTelephoneNumber": "",
+          "countryCode": "",
+          "areaCode": "",
+          "phoneNumber": "",
+          "extension": ""
+        },
+        "otherPhone": {
+          "typeOfPhone": "daughter's",
+          "customPhoneType": "cellphone",
+          "fullTelephoneNumber": "",
+          "countryCode": "",
+          "areaCode": "",
+          "phoneNumber": "",
+          "extension": ""
+        },
+        "emailAddress": {
+          "email": "",
+          "usage": "primary"
+        }
+      },
+      "isPerson": true,
+      "isConverted": false,
+      "customerType": "",
+      "rating": "",
+      "role": "Buyer",
+      "sourceType": "",
+      "sourceUrl": "www.alamohousehunters.com",
+      "companyInformation": {
+        "website": "",
+        "SIC_Code": "",
+        "industry": "realState",
+        "NAICS_Code": "",
+        "numberOfEmployees": 1,
+        "DNB_Number": ""
+      },
+      "activity": {
+        "source": "vpad",
+        "type": "",
+        "description": "",
+        "voiceMailLeft": true,
+        "voiceMailUrl": "",
+        "createdDate": "",
+        "isLeadActivity": false,
+        "rsGenericActivity": "leadUpdate",
+        "customFields": [
+          {
+            "name": "customf1",
+            "value": "this"
+          },
+          {
+            "name": "custom2",
+            "value": "this2"
+          }
+        ],
+        "extraFields": [
+          {
+            "name": "customf1",
+            "value": "this"
+          },
+          {
+            "name": "custom2",
+            "value": "this2"
+          }
+        ],
+        "associatedUsers": [
+          {
+            "category": "hot",
+            "contactId": 35213456,
+            "userType": "sellerAgent",
+            "userId": 144718,
+            "communicationStatus": "active",
+            "email": "agentEmail@email.com",
+            "firstName": "firstname",
+            "lastName": "firstname"
+          },
+          {
+            "category": "hot",
+            "contactId": 35213456,
+            "userType": "sellerAgent",
+            "userId": 144718,
+            "communicationStatus": "active",
+            "email": "agentEmail@email.com",
+            "firstName": "firstname",
+            "lastName": "firstname"
+          }
+        ],
+        "listingAgents": [
+          {
+            "name": "customf1",
+            "value": "this"
+          },
+          {
+            "name": "custom2",
+            "value": "this2"
+          }
+        ],
+        "ListingAgentMLS": [
+          {
+            "name": "customf1",
+            "value": "this"
+          },
+          {
+            "name": "custom2",
+            "value": "this2"
+          }
+        ]
+      },
+      "salesPerson": {
+        "agentId": "",
+        "system": "vpad",
+        "agentEmail": "agentmail"
+      },
+      "customFields": [
+        {
+          "name": "customf1",
+          "value": "this"
+        },
+        {
+          "name": "custom2",
+          "value": "this2"
+        }
+      ],
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "agent": {
+        "name": "agentName",
+        "email": "agentEmail@email.com",
+        "mlsID": 13243546
+      }
+    }
+  },
+  "transaction": {
+    "acceptanceDate": "2019-05-13T05:00:00Z",
+    "expirationDate": "2019-05-14T05:00:00Z",
+    "commission": {
+      "miscellaneousFee": null,
+      "leadCoordinatorCommission": null,
+      "transactionCoordinationFeeType": null,
+      "agentCommission": 0,
+      "businessExpensesType": null,
+      "grossCommission": 0,
+      "referralFeeType": null,
+      "franchiseFeeType": null,
+      "brokerCommissionType": null,
+      "referralFee": null,
+      "agentCommissionType": "percentage",
+      "transactionCoordinationFee": null,
+      "franchiseFee": null,
+      "grossCommissionType": "percentage",
+      "brokerCommission": null,
+      "miscellaneousFeeType": null,
+      "leadCoordinatorCommissionType": null,
+      "businessExpenses": null
+    },
+    "primaryAgentId": 144718,
+    "price": 3000600,
+    "dateModified": "2019-05-13T22:04:36.156Z",
+    "integrations": null,
+    "listDate": "2019-05-13T05:00:00Z",
+    "dateCreated": "2019-05-13T17:03:41.851Z",
+    "originalStatus": "preContract",
+    "soldListingId": null,
+    "status": "preContract",
+    "contactId": 38315687,
+    "activeListingId": null,
+    "address": {
+      "streetNumberNumeric": 0,
+      "unparsedAddress": "1 cuamuthemoc",
+      "city": "compton",
+      "unitNumber": "",
+      "streetAdditionalInfo": "",
+      "bt_fullAddress": null,
+      "countyOrParish": null,
+      "streetSuffixModifier": "",
+      "streetDirPrefix": "",
+      "country": null,
+      "streetName": "cuamuthemoc",
+      "township": null,
+      "bt_cityID": null,
+      "postalCode": "23412",
+      "carrierRoute": null,
+      "stateOrProvince": "CA",
+      "postalCodePlus4": null,
+      "streetNumber": "1",
+      "streetSuffix": "",
+      "postalCity": null,
+      "streetDirSuffix": ""
+    },
+    "originalPrice": 200000,
+    "type": "buyer",
+    "agentIds": [
+      144718
+    ],
+    "closingDate": "2019-05-15T05:00:00Z",
+    "transactionId": "2fe32c1b69e06603185cb1978997efaf239a6a04d0f9542d826dac858c6c35d2"
+  }
+}
