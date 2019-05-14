@@ -217,6 +217,7 @@
                 "appointmentDate": "Wed, 06 Feb 2019 00:00:00 GMT",
                 "acceptanceDate": "Wed, 06 Feb 2019 00:00:00 GMT",
                 "signedDate": "Wed, 06 Feb 2019 00:00:00 GMT",
+                "underContractDate": "Wed, 06 Feb 2019 00:00:00 GMT",
                 "closingDate": "Wed, 06 Feb 2019 00:00:00 GMT",
                 "expirationDate": "Wed, 06 Feb 2019 00:00:00 GMT",
                 "status": "originalStatus",
