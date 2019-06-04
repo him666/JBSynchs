@@ -118,6 +118,8 @@
             "activity": {
                 "source": "vpad",
                 "type": "",
+                "subType": "string",
+                "searchingIn": "string",
                 "description": "",
                 "voiceMailLeft": true,
                 "voiceMailUrl": "",
@@ -267,13 +269,5 @@
                 }
             }
         }
-    },
-    "transaction": [
-        {
-            "participants": [],
-            "property": {},
-            "providerType": "",
-            "role": ""
-        }
-    ]
+    }
 }
