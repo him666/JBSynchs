@@ -126,6 +126,8 @@
             "activity": {
                 "source": "vpad",
                 "type": "",
+                "subType": "string",
+                "searchingIn": "string",
                 "description": "",
                 "searchingIn":"",
                 "voiceMailLeft": true,
