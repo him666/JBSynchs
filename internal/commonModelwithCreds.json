@@ -6,6 +6,7 @@
     "securityToken": "securityToken",
     "customerId": "",
     "expiresIn":14400,
+    "rsProviders": false,
     "timestamp":"2019-04-12T13:54:19.000Z",
     "leads": {
         "Lead": {
