@@ -1,7 +1,0 @@
-{
-	"client_id":"249a0156-1dfe-4918-9da1-298025882c17", 
-  	"client_secret":"86b2d90b-0388-4431-b957-cd38023a6c2a",
-  	"x-api-key":"6585704c11808a74d137db5393116c7494514a2ccfd33599e851f9cf80181878",
-  	"refresh_token":"a405aea2-2b45-47ff-9870-be02756758c8",
-  	"grant_type":"refresh_token"	
-}
