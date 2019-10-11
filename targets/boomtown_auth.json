@@ -1,0 +1,7 @@
+{
+	"client_id":"string", 
+  	"client_secret":"string",
+  	"x-api-key":"string",
+  	"refresh_token":"string",
+  	"grant_type":"string"	
+}

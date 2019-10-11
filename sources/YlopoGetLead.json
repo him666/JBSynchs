@@ -1,0 +1,27 @@
+{
+    "uuid": "dd3ef58a-ee81-43d3-8f37-d34daf5e2fa4",
+    "firstName": "Tim",
+    "lastName": "Williams",
+    "email": "prettyfacegoon@gmail.com",
+    "phone": "3145485951",
+    "assignments": [
+        {
+            "name": "Adrianne Calderon",
+            "type": "agent",
+            "crmId": "168468",
+            "email": "adrianne@khgexperience.com",
+            "phone": null
+        }
+    ],
+    "tags": null,
+    "starsLink": "https://stars.ylopo.com/lead-detail/dd3ef58a-ee81-43d3-8f37-d34daf5e2fa4",
+    "leadType": "BUYER",
+    "sellerAddress": null,
+    "sellerZipCode": null,
+    "additionalData": {},
+    "crmId": null,
+    "crmUrl": null,
+    "crmCreatedAt": null,
+    "source": "YLOPO",
+    "searchDomain": "search.exprp.com"
+}
